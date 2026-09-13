@@ -8,7 +8,7 @@
     "reliability_score": 0.5,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": null,
+    "last_checked_at": "2026-09-13T18:23:49.009Z",
     "notes": "Confirmed live and working via an actual pipeline run (2026-09-13). The ?tag=finance / ?tag=marketing query-param variant I originally guessed from web-search documentation returned HTTP 410 Gone in practice — that filtering apparently doesn't apply to this RSS endpoint (maybe JSON-API-only) — so this uses the unfiltered feed and relies on the heuristic classifier/scorer to sort relevant postings from the rest. Expect a lot of non-business-relevant tech jobs mixed in; that's expected, not a bug."
   },
   {
@@ -20,7 +20,7 @@
     "reliability_score": 0.55,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": null,
+    "last_checked_at": "2026-09-13T18:23:49.390Z",
     "notes": "We Work Remotely's per-category RSS feed for Management and Finance roles. Confirmed live and working via an actual pipeline run (2026-09-13)."
   },
   {
@@ -32,7 +32,7 @@
     "reliability_score": 0.55,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": null,
+    "last_checked_at": "2026-09-13T18:23:49.978Z",
     "notes": "Same source/mechanism as source-wwr-management-finance, Sales and Marketing category instead. Also confirmed live via the same pipeline run."
   },
   {
@@ -44,7 +44,7 @@
     "reliability_score": 0.45,
     "check_frequency_hours": 24,
     "active": true,
-    "last_checked_at": null,
+    "last_checked_at": "2026-09-13T18:23:52.426Z",
     "notes": "Global youth-opportunity aggregator (scholarships, fellowships, competitions, internships). Confirmed live and working via an actual pipeline run (2026-09-13). Expect a global mix rather than Philippines-specific or exclusively business-focused postings; the heuristic scorer's accessibility/relevance dimensions should down-rank poor fits rather than needing this source pre-filtered."
   },
   {
