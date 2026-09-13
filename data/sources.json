@@ -1,0 +1,38 @@
+[
+  {
+    "id": "source-remoteok",
+    "name": "RemoteOK (all remote jobs feed)",
+    "url": "https://remoteok.com/remote-jobs.rss",
+    "source_type": "other",
+    "search_method": "rss",
+    "reliability_score": 0.5,
+    "check_frequency_hours": 12,
+    "active": false,
+    "last_checked_at": null,
+    "notes": "Placeholder example — verify the feed still exists and its terms permit this use before enabling. General remote-jobs feed, not business-student-specific; expect low relevance and treat as a discovery-quality test source, not a primary one."
+  },
+  {
+    "id": "source-example-scholarships",
+    "name": "Example Scholarship Board",
+    "url": "https://example-scholarships.org/feed",
+    "source_type": "scholarship_org",
+    "search_method": "rss",
+    "reliability_score": 0.5,
+    "check_frequency_hours": 24,
+    "active": false,
+    "last_checked_at": null,
+    "notes": "Placeholder — replace with a verified real feed URL before enabling."
+  },
+  {
+    "id": "source-example-consulting",
+    "name": "Example Consulting Firm Careers RSS",
+    "url": "https://example-consulting.com/careers/feed",
+    "source_type": "consulting_firm",
+    "search_method": "rss",
+    "reliability_score": 0.5,
+    "check_frequency_hours": 24,
+    "active": false,
+    "last_checked_at": null,
+    "notes": "Placeholder — replace with a verified real feed URL before enabling."
+  }
+]

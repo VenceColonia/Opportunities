@@ -1,0 +1,53 @@
+name: Deploy dashboard
+
+# Rebuilds the static export and deploys it to GitHub Pages — free hosting,
+# no server. Runs on every push to main (including the pipeline bot's data
+# commits) so the dashboard reflects the latest pipeline run within one
+# deploy cycle. See ARCHITECTURE.md §9 for what "realtime" means here.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Build static export
+        # Set NEXT_BASE_PATH to "/<repo-name>" here if deploying to
+        # https://<user>.github.io/<repo>/ instead of a custom domain.
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

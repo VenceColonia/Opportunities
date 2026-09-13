@@ -1,0 +1,15 @@
+[
+  {
+    "id": "student-default",
+    "label": "Primary profile",
+    "is_primary": true,
+    "degree": "BS Management Engineering",
+    "year_level": "3rd year",
+    "interests": ["Operations", "Consulting", "Finance", "Data Analytics", "Project Management", "Client Management", "Strategy"],
+    "skills": [],
+    "preferred_work_arrangement": "hybrid",
+    "geography_priority": ["Philippines", "International"],
+    "citizenship": "Filipino",
+    "gpa": null
+  }
+]

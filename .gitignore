@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+*.log
+.DS_Store
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Generated at build time by scripts/copy-data.ts from data/*.json — never
+# hand-edit or commit this copy.
+public/data/
+
+# Manual Claude enrichment scratch files (ARCHITECTURE.md §8) — local only.
+data/claude-outbox.md
+data/claude-inbox.json

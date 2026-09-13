@@ -1,0 +1,35 @@
+{
+  "name": "business-opportunity-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predev": "tsx scripts/copy-data.ts",
+    "dev": "next dev",
+    "prebuild": "tsx scripts/copy-data.ts",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "pipeline:run": "tsx scripts/run-pipeline.ts",
+    "pipeline:export-pending": "tsx scripts/export-pending-for-claude.ts",
+    "pipeline:ingest-claude": "tsx scripts/ingest-claude-response.ts",
+    "enrich:claude": "tsx scripts/enrich-with-claude.ts"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}

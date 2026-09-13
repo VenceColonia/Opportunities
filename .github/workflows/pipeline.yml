@@ -1,0 +1,36 @@
+name: Discovery pipeline
+
+# Free scheduling: GitHub Actions cron on a public repo has unlimited
+# minutes. This job is 100% deterministic (see ARCHITECTURE.md) — it never
+# sets ANTHROPIC_API_KEY, so it can never incur Claude API cost.
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Run discovery pipeline
+        run: npm run pipeline:run -- ${{ github.event_name == 'workflow_dispatch' && '--manual' || '' }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "opportunity-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/*.json
+          git diff --cached --quiet || git commit -m "chore: pipeline run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
