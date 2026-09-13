@@ -33,20 +33,20 @@ export default function FilterBar({
   onChange: (filters: OpportunityFilters) => void;
 }) {
   return (
-    <div className="flex flex-wrap items-center gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+    <div className="flex flex-wrap items-center gap-3 rounded-xl border border-stone-200 bg-white p-4 shadow-sm">
       <input
         type="search"
         placeholder="Search title, organization, tags…"
         value={filters.query ?? ""}
         onChange={(e) => onChange({ ...filters, query: e.target.value })}
-        className="min-w-[220px] flex-1 rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className="min-w-[220px] flex-1 rounded-md border border-stone-300 px-3 py-2 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
       />
 
       <select
         multiple={false}
         value={filters.opportunity_types?.[0] ?? ""}
         onChange={(e) => onChange({ ...filters, opportunity_types: e.target.value ? [e.target.value as OpportunityType] : undefined })}
-        className="rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className="rounded-md border border-stone-300 px-3 py-2 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
       >
         <option value="">All types</option>
         {OPPORTUNITY_TYPES.map((type) => (
@@ -61,7 +61,7 @@ export default function FilterBar({
         onChange={(e) =>
           onChange({ ...filters, work_arrangements: e.target.value ? [e.target.value as WorkArrangement] : undefined })
         }
-        className="rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className="rounded-md border border-stone-300 px-3 py-2 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
       >
         <option value="">Any arrangement</option>
         {WORK_ARRANGEMENTS.map((arrangement) => (
@@ -74,7 +74,7 @@ export default function FilterBar({
       <select
         value={filters.min_score ?? ""}
         onChange={(e) => onChange({ ...filters, min_score: e.target.value ? Number(e.target.value) : undefined })}
-        className="rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className="rounded-md border border-stone-300 px-3 py-2 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
       >
         <option value="">Any score</option>
         <option value="80">80+</option>
@@ -83,7 +83,7 @@ export default function FilterBar({
       </select>
 
       {(filters.opportunity_types || filters.work_arrangements || filters.min_score || filters.query) && (
-        <button onClick={() => onChange({})} className="text-sm font-medium text-slate-500 hover:text-slate-700">
+        <button onClick={() => onChange({})} className="text-sm font-medium text-ink-light hover:text-brand-600">
           Clear filters
         </button>
       )}

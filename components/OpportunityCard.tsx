@@ -28,22 +28,22 @@ export default function OpportunityCard({
   const [saved, setSaved] = useState(() => isSaved(opportunity.id));
 
   return (
-    <div className="flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:shadow-md">
+    <div className="flex flex-col gap-3 rounded-xl border border-stone-200 bg-white p-4 shadow-sm transition hover:shadow-md hover:border-brand-200">
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
-          <Link href={`/opportunity?id=${opportunity.id}`} className="font-semibold text-slate-900 hover:underline">
+          <Link href={`/opportunity?id=${opportunity.id}`} className="font-serif font-semibold text-ink hover:text-brand-600">
             {opportunity.title}
           </Link>
-          <p className="truncate text-sm text-slate-500">{organization?.name ?? "Unknown organization"}</p>
+          <p className="truncate text-sm text-ink-light">{organization?.name ?? "Unknown organization"}</p>
         </div>
         {score ? <ScoreBadge score={score.overall_score} /> : null}
       </div>
 
-      <div className="flex flex-wrap items-center gap-2 text-xs text-slate-600">
+      <div className="flex flex-wrap items-center gap-2 text-xs text-ink-light">
         <StatusBadge status={opportunity.status} />
-        <span className="rounded-full bg-slate-100 px-2.5 py-0.5 capitalize">{opportunity.opportunity_type.replace(/_/g, " ")}</span>
-        <span className="rounded-full bg-slate-100 px-2.5 py-0.5 capitalize">{opportunity.work_arrangement}</span>
-        {opportunity.location ? <span className="rounded-full bg-slate-100 px-2.5 py-0.5">{opportunity.location}</span> : null}
+        <span className="rounded-full bg-stone-100 px-2.5 py-0.5 capitalize">{opportunity.opportunity_type.replace(/_/g, " ")}</span>
+        <span className="rounded-full bg-stone-100 px-2.5 py-0.5 capitalize">{opportunity.work_arrangement}</span>
+        {opportunity.location ? <span className="rounded-full bg-stone-100 px-2.5 py-0.5">{opportunity.location}</span> : null}
       </div>
 
       <div className="flex flex-wrap gap-1">
@@ -54,9 +54,9 @@ export default function OpportunityCard({
         ))}
       </div>
 
-      <p className="text-sm text-slate-500">Deadline: {formatDeadline(opportunity.application_deadline, opportunity.deadline_note)}</p>
+      <p className="text-sm text-ink-light">Deadline: {formatDeadline(opportunity.application_deadline, opportunity.deadline_note)}</p>
 
-      {score ? <p className="text-sm text-slate-700">{score.reasoning}</p> : null}
+      {score ? <p className="text-sm text-ink">{score.reasoning}</p> : null}
 
       <div className="mt-auto flex items-center justify-between pt-2">
         {opportunity.application_url ? (
@@ -74,7 +74,7 @@ export default function OpportunityCard({
         <button
           onClick={() => setSaved(toggleSaved(opportunity.id).includes(opportunity.id))}
           className={`rounded-md border px-3 py-1 text-sm font-medium transition ${
-            saved ? "border-brand-600 bg-brand-50 text-brand-700" : "border-slate-300 text-slate-600 hover:bg-slate-50"
+            saved ? "border-brand-600 bg-brand-50 text-brand-700" : "border-stone-300 text-ink-light hover:bg-stone-50"
           }`}
         >
           {saved ? "Saved" : "Save"}

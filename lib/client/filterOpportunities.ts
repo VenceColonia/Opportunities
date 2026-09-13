@@ -1,6 +1,31 @@
 import type { Opportunity, OpportunityFilters, Organization } from "../types";
 import { getScoreForProfile } from "../scoring/helpers";
 
+const METRO_MANILA_PATTERN =
+  /manila|philippines|\bph\b|\bncr\b|quezon city|makati|taguig|bgc|pasig|mandaluyong|paranaque|pasay|caloocan|marikina|muntinlupa/i;
+
+/**
+ * The dashboard is scoped to opportunities workable from Metro Manila:
+ * anything explicitly based there, plus anything fully remote (workable
+ * from anywhere, Manila included). An opportunity is only excluded when
+ * it's explicitly onsite/hybrid in a *known*, non-Manila location — most
+ * heuristic extractions leave location/work_arrangement unresolved, and
+ * an unresolved field isn't evidence the opportunity is irrelevant, so
+ * those are kept rather than guessed away.
+ */
+export function isMetroManilaRelevant(opportunity: Opportunity): boolean {
+  const haystack = `${opportunity.location ?? ""} ${opportunity.country ?? ""}`;
+  if (METRO_MANILA_PATTERN.test(haystack)) return true;
+  if (opportunity.work_arrangement === "remote") return true;
+
+  const isKnownOtherLocation = haystack.trim().length > 0;
+  if ((opportunity.work_arrangement === "onsite" || opportunity.work_arrangement === "hybrid") && isKnownOtherLocation) {
+    return false;
+  }
+
+  return true;
+}
+
 /**
  * Deterministic, client-side keyword filtering — the $0 substitute for
  * Claude-parsed natural-language search (ARCHITECTURE.md §9). Structured

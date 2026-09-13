@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useDashboardData } from "../lib/client/useOpportunities";
-import { applyFilters } from "../lib/client/filterOpportunities";
+import { applyFilters, isMetroManilaRelevant } from "../lib/client/filterOpportunities";
 import { sortByOverallScoreDesc } from "../lib/scoring/helpers";
 import { getSavedIds, setLastVisitNow } from "../lib/client/savedStore";
 import type { OpportunityFilters } from "../lib/types";
@@ -22,18 +22,23 @@ export default function DashboardPage() {
     setLastVisitNow();
   }, []);
 
+  // Scoped to Metro Manila + remote (see isMetroManilaRelevant) — this is
+  // a fixed scope for this profile, not one of the adjustable FilterBar
+  // filters, so it applies before overview counts and the filter bar too.
+  const inScope = useMemo(() => opportunities.filter(isMetroManilaRelevant), [opportunities]);
+
   const filtered = useMemo(() => {
     if (!profile) return [];
-    return applyFilters(opportunities, organizations, profile.id, filters);
-  }, [opportunities, organizations, profile, filters]);
+    return applyFilters(inScope, organizations, profile.id, filters);
+  }, [inScope, organizations, profile, filters]);
 
   const ranked = useMemo(() => (profile ? sortByOverallScoreDesc(filtered, profile.id) : []), [filtered, profile]);
 
-  if (loading) return <p className="text-slate-500">Loading opportunities…</p>;
+  if (loading) return <p className="text-ink-light">Loading opportunities…</p>;
   if (error) return <p className="text-red-600">Failed to load dashboard data: {error}</p>;
   if (!profile) {
     return (
-      <p className="text-slate-500">
+      <p className="text-ink-light">
         No student profile found. Add one to <code>data/profile.json</code> and re-run the pipeline / rebuild.
       </p>
     );
@@ -42,8 +47,11 @@ export default function DashboardPage() {
   return (
     <div className="flex flex-col gap-6">
       <section>
-        <h1 className="mb-3 text-xl font-bold text-slate-900">Overview</h1>
-        <OverviewStats opportunities={opportunities} profileId={profile.id} savedCount={savedCount} />
+        <div className="mb-3 flex items-baseline justify-between">
+          <h1 className="font-serif text-xl font-semibold text-ink">Overview</h1>
+          <p className="text-xs text-ink-light">Scoped to Metro Manila + remote opportunities</p>
+        </div>
+        <OverviewStats opportunities={inScope} profileId={profile.id} savedCount={savedCount} />
       </section>
 
       <section>
@@ -51,11 +59,11 @@ export default function DashboardPage() {
       </section>
 
       <section>
-        <h2 className="mb-3 text-lg font-semibold text-slate-900">
+        <h2 className="mb-3 font-serif text-lg font-semibold text-ink">
           Top opportunities for {profile.label} ({ranked.length})
         </h2>
         {ranked.length === 0 ? (
-          <p className="rounded-xl border border-dashed border-slate-300 bg-white p-8 text-center text-slate-500">
+          <p className="rounded-xl border border-dashed border-stone-300 bg-white p-8 text-center text-ink-light">
             No opportunities match yet. Run the pipeline (<code>npm run pipeline:run</code>) after enabling sources in{" "}
             <code>data/sources.json</code>.
           </p>

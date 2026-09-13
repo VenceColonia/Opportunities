@@ -24,9 +24,9 @@ export default function OverviewStats({ opportunities, profileId, savedCount }: 
   return (
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
       {stats.map((stat) => (
-        <div key={stat.label} className="rounded-xl border border-slate-200 bg-white p-4 text-center shadow-sm">
-          <div className="text-2xl font-bold text-slate-900">{stat.value}</div>
-          <div className="mt-1 text-xs text-slate-500">{stat.label}</div>
+        <div key={stat.label} className="rounded-xl border border-stone-200 bg-white p-4 text-center shadow-sm">
+          <div className="font-serif text-2xl font-semibold text-brand-600">{stat.value}</div>
+          <div className="mt-1 text-xs text-ink-light">{stat.label}</div>
         </div>
       ))}
     </div>

@@ -1,6 +1,13 @@
 import type { Metadata } from "next";
+import { Source_Serif_4 } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
+
+const displayFont = Source_Serif_4({
+  subsets: ["latin"],
+  weight: ["600", "700"],
+  variable: "--font-display",
+});
 
 export const metadata: Metadata = {
   title: "Business Student Opportunity Dashboard",
@@ -9,18 +16,18 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
-      <body className="min-h-screen bg-slate-50 text-slate-900">
-        <header className="border-b border-slate-200 bg-white">
+    <html lang="en" className={displayFont.variable}>
+      <body className="min-h-screen bg-cream text-ink">
+        <header className="border-b border-brand-200/60 bg-cream-100">
           <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
-            <Link href="/" className="text-lg font-bold text-slate-900">
-              Opportunity Dashboard
+            <Link href="/" className="font-serif text-xl font-semibold text-ink">
+              Opportunity <span className="text-brand-600">Dashboard</span>
             </Link>
-            <nav className="flex gap-4 text-sm font-medium text-slate-600">
-              <Link href="/" className="hover:text-brand-600">
+            <nav className="flex gap-4 text-sm font-medium text-ink-light">
+              <Link href="/" className="transition hover:text-brand-600">
                 Dashboard
               </Link>
-              <Link href="/saved" className="hover:text-brand-600">
+              <Link href="/saved" className="transition hover:text-brand-600">
                 Saved
               </Link>
             </nav>

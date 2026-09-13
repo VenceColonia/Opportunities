@@ -14,18 +14,18 @@ export default function SavedPage() {
     setSavedIds(getSavedIds());
   }, []);
 
-  if (loading) return <p className="text-slate-500">Loading…</p>;
+  if (loading) return <p className="text-ink-light">Loading…</p>;
 
   const saved = opportunities.filter((o) => savedIds.includes(o.id));
 
   return (
     <div className="flex flex-col gap-4">
-      <h1 className="text-xl font-bold text-slate-900">Saved opportunities</h1>
-      <p className="text-sm text-slate-500">
+      <h1 className="font-serif text-xl font-semibold text-ink">Saved opportunities</h1>
+      <p className="text-sm text-ink-light">
         Saved items are stored in this browser only (no account/sync backend in the $0 MVP — see ARCHITECTURE.md §9).
       </p>
       {saved.length === 0 ? (
-        <p className="rounded-xl border border-dashed border-slate-300 bg-white p-8 text-center text-slate-500">
+        <p className="rounded-xl border border-dashed border-stone-300 bg-white p-8 text-center text-ink-light">
           Nothing saved yet — click "Save" on any opportunity card.
         </p>
       ) : (
