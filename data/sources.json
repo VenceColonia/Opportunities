@@ -5,11 +5,11 @@
     "url": "https://remoteok.com/remote-jobs.rss",
     "source_type": "other",
     "search_method": "rss",
-    "reliability_score": 0.5,
+    "reliability_score": 0.2,
     "check_frequency_hours": 12,
-    "active": true,
+    "active": false,
     "last_checked_at": "2026-09-13T18:29:37.571Z",
-    "notes": "Confirmed live and working via an actual pipeline run (2026-09-13). The ?tag=finance / ?tag=marketing query-param variant I originally guessed from web-search documentation returned HTTP 410 Gone in practice — that filtering apparently doesn't apply to this RSS endpoint (maybe JSON-API-only) — so this uses the unfiltered feed and relies on the heuristic classifier/scorer to sort relevant postings from the rest. Expect a lot of non-business-relevant tech jobs mixed in; that's expected, not a bug."
+    "notes": "Disabled: worked on the first two pipeline runs (2026-09-13) but returned HTTP 410 on the third, made ~6 minutes later from a GitHub Actions runner. That pattern (works, works, suddenly Gone, after repeated automated requests in a short window) looks like RemoteOK bot-blocking rather than a real outage. Not worth having the scheduled cron fail against every 6 hours. Re-enable and watch it if you want to try again later, ideally at a lower request frequency."
   },
   {
     "id": "source-wwr-management-finance",
