@@ -41,12 +41,13 @@ export async function discoverFromSource(
   try {
     items = await adapter.discover(source);
   } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
     return {
       sourceId: source.id,
       itemsFound: 0,
       pending: [],
       itemsUnchanged: 0,
-      error: err instanceof Error ? err.message : String(err),
+      error: `[${source.name}] ${message}`,
     };
   }
 
