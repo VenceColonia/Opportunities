@@ -32,8 +32,12 @@ jobs:
       - run: npm ci
 
       - name: Build static export
-        # Set NEXT_BASE_PATH to "/<repo-name>" here if deploying to
-        # https://<user>.github.io/<repo>/ instead of a custom domain.
+        # GitHub Pages project sites (the default here, since we're not on
+        # a custom domain or a <user>.github.io root repo) serve from
+        # /<repo-name>/, not /. Without this, the static export's asset
+        # paths and internal links would all be wrong under that subpath.
+        env:
+          NEXT_BASE_PATH: /${{ github.event.repository.name }}
         run: npm run build
 
       - uses: actions/configure-pages@v5
