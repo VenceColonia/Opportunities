@@ -1,27 +1,15 @@
 [
   {
-    "id": "source-remoteok-finance",
-    "name": "RemoteOK — Finance tag",
-    "url": "https://remoteok.com/remote-jobs.rss?tag=finance",
+    "id": "source-remoteok-all",
+    "name": "RemoteOK — all remote jobs",
+    "url": "https://remoteok.com/remote-jobs.rss",
     "source_type": "other",
     "search_method": "rss",
     "reliability_score": 0.5,
     "check_frequency_hours": 12,
     "active": true,
     "last_checked_at": null,
-    "notes": "RemoteOK's public RSS feed (documented at remoteok.com/remote-jobs.rss, tag-filterable via ?tag=) — confirmed real via web search, but not live-fetch-verified from this sandbox (its egress proxy blocks arbitrary outbound domains). Watch the first GitHub Actions pipeline run's log for a fetch error; disable (active: false) if it 404s or the feed format changed."
-  },
-  {
-    "id": "source-remoteok-marketing",
-    "name": "RemoteOK — Marketing tag",
-    "url": "https://remoteok.com/remote-jobs.rss?tag=marketing",
-    "source_type": "other",
-    "search_method": "rss",
-    "reliability_score": 0.5,
-    "check_frequency_hours": 12,
-    "active": true,
-    "last_checked_at": null,
-    "notes": "Same feed/mechanism as source-remoteok-finance, filtered to the 'marketing' tag instead. Same verification caveat applies."
+    "notes": "Confirmed live and working via an actual pipeline run (2026-09-13). The ?tag=finance / ?tag=marketing query-param variant I originally guessed from web-search documentation returned HTTP 410 Gone in practice — that filtering apparently doesn't apply to this RSS endpoint (maybe JSON-API-only) — so this uses the unfiltered feed and relies on the heuristic classifier/scorer to sort relevant postings from the rest. Expect a lot of non-business-relevant tech jobs mixed in; that's expected, not a bug."
   },
   {
     "id": "source-wwr-management-finance",
@@ -33,7 +21,7 @@
     "check_frequency_hours": 12,
     "active": true,
     "last_checked_at": null,
-    "notes": "We Work Remotely's per-category RSS feed for Management and Finance roles — a long-standing, well-documented public feed of theirs. Confirmed real via web search; not live-fetch-verified from this sandbox (egress proxy blocks arbitrary domains). Check the first pipeline run's log."
+    "notes": "We Work Remotely's per-category RSS feed for Management and Finance roles. Confirmed live and working via an actual pipeline run (2026-09-13)."
   },
   {
     "id": "source-wwr-sales-marketing",
@@ -45,7 +33,7 @@
     "check_frequency_hours": 12,
     "active": true,
     "last_checked_at": null,
-    "notes": "Same source/mechanism as source-wwr-management-finance, Sales and Marketing category instead. Same verification caveat applies."
+    "notes": "Same source/mechanism as source-wwr-management-finance, Sales and Marketing category instead. Also confirmed live via the same pipeline run."
   },
   {
     "id": "source-opportunities-for-youth",
@@ -57,7 +45,7 @@
     "check_frequency_hours": 24,
     "active": true,
     "last_checked_at": null,
-    "notes": "Global youth-opportunity aggregator (scholarships, fellowships, competitions, internships) — its WordPress RSS feed URL was directly confirmed via web search. Not live-fetch-verified from this sandbox. Expect a global mix rather than Philippines-specific or exclusively business-focused postings; the heuristic scorer's accessibility/relevance dimensions should down-rank poor fits rather than needing this source pre-filtered."
+    "notes": "Global youth-opportunity aggregator (scholarships, fellowships, competitions, internships). Confirmed live and working via an actual pipeline run (2026-09-13). Expect a global mix rather than Philippines-specific or exclusively business-focused postings; the heuristic scorer's accessibility/relevance dimensions should down-rank poor fits rather than needing this source pre-filtered."
   },
   {
     "id": "source-example-consulting",

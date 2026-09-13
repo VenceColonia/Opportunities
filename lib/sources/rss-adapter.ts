@@ -5,6 +5,13 @@ import type { SourceAdapter, DiscoveredItem } from "./types";
 const parser = new Parser({
   timeout: 15_000,
   headers: { "User-Agent": "OpportunityDashboardBot/0.1 (+student opportunity discovery)" },
+  // rss-parser calls Node's http.get/https.get directly. Without this,
+  // those requests can use a keep-alive agent whose sockets stay open
+  // after the response is fully read, which keeps the Node process alive
+  // indefinitely (the whole pipeline finishes in seconds, but the CLI
+  // process then hangs until something else kills it). `agent: false`
+  // forces a fresh, non-keep-alive connection per request.
+  requestOptions: { agent: false },
 });
 
 /**

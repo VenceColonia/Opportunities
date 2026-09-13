@@ -16,6 +16,14 @@ async function main() {
     // eslint-disable-next-line no-console
     console.error(`Pipeline run completed with ${summary.errors.length} error(s).`);
   }
+
+  // rss-parser's http.get/https.get calls can leave keep-alive sockets
+  // open in Node's global agent even after every response has been fully
+  // read, which keeps the event loop alive indefinitely. The pipeline
+  // itself has finished by this point (summary is populated) — force exit
+  // so the CI step (and any local run) actually terminates instead of
+  // hanging until something else times it out.
+  process.exit(0);
 }
 
 main().catch((err) => {
