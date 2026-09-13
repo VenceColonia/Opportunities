@@ -1,32 +1,35 @@
-import { promises as fs } from "fs";
-import path from "path";
-import type { Opportunity, Organization, StudentProfile } from "../../../lib/types";
-import StatusBadge from "../../../components/StatusBadge";
-import ScoreBadge from "../../../components/ScoreBadge";
+"use client";
 
-// Server component, prerendered at build time (output: 'export'). Reads
-// data/*.json directly via fs rather than fetching — this runs during
-// `next build`, the same as any static-site generator, not per-request.
+import { Suspense } from "react";
+import { useSearchParams } from "next/navigation";
+import { useDashboardData } from "../../lib/client/useOpportunities";
+import StatusBadge from "../../components/StatusBadge";
+import ScoreBadge from "../../components/ScoreBadge";
 
-async function loadJson<T>(fileName: string): Promise<T[]> {
-  const filePath = path.join(process.cwd(), "data", fileName);
-  const raw = await fs.readFile(filePath, "utf-8");
-  return JSON.parse(raw) as T[];
+// Client-rendered (not a [id] dynamic route) so this works under
+// `output: 'export'` regardless of how many opportunities exist, including
+// zero — a static-export dynamic-segment page requires
+// generateStaticParams() to return build-time-known params, which breaks
+// when the data set is empty (a real Next.js 14 quirk, not hypothetical:
+// it mislabels a zero-length result as "missing"). Query-string based
+// routing sidesteps that entirely and matches how every other page here
+// already fetches data/*.json client-side.
+export default function OpportunityDetailPage() {
+  return (
+    <Suspense fallback={<p className="text-slate-500">Loading…</p>}>
+      <OpportunityDetail />
+    </Suspense>
+  );
 }
 
-export async function generateStaticParams() {
-  const opportunities = await loadJson<Opportunity>("opportunities.json");
-  return opportunities.map((opp) => ({ id: opp.id }));
-}
+function OpportunityDetail() {
+  const id = useSearchParams().get("id");
+  const { opportunities, organizations, profiles, loading, error } = useDashboardData();
 
-export default async function OpportunityDetailPage({ params }: { params: { id: string } }) {
-  const [opportunities, organizations, profiles] = await Promise.all([
-    loadJson<Opportunity>("opportunities.json"),
-    loadJson<Organization>("organizations.json"),
-    loadJson<StudentProfile>("profile.json"),
-  ]);
+  if (loading) return <p className="text-slate-500">Loading…</p>;
+  if (error) return <p className="text-red-600">Failed to load: {error}</p>;
 
-  const opportunity = opportunities.find((o) => o.id === params.id);
+  const opportunity = opportunities.find((o) => o.id === id);
   if (!opportunity) {
     return <p className="text-slate-500">Opportunity not found — it may have been merged as a duplicate or removed.</p>;
   }

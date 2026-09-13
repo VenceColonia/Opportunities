@@ -331,7 +331,11 @@ making.
 /app/                        -- Next.js App Router, static-exported
   layout.tsx
   page.tsx                   -- dashboard (overview + top opportunities)
-  opportunities/[id]/page.tsx
+  opportunity/page.tsx        -- detail view, ?id=<uuid> (client-rendered,
+                                 not a [id] dynamic route -- see its file
+                                 comment for why: generateStaticParams()
+                                 with output:'export' breaks on an empty
+                                 opportunities.json)
   saved/page.tsx              -- localStorage-backed
 /components/
   OpportunityCard.tsx

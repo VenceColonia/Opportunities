@@ -31,7 +31,7 @@ export default function OpportunityCard({
     <div className="flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:shadow-md">
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
-          <Link href={`/opportunities/${opportunity.id}`} className="font-semibold text-slate-900 hover:underline">
+          <Link href={`/opportunity?id=${opportunity.id}`} className="font-semibold text-slate-900 hover:underline">
             {opportunity.title}
           </Link>
           <p className="truncate text-sm text-slate-500">{organization?.name ?? "Unknown organization"}</p>
