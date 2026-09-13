@@ -20,7 +20,7 @@
     "reliability_score": 0.55,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": "2026-09-13T18:29:37.875Z",
+    "last_checked_at": "2026-09-13T20:42:05.256Z",
     "notes": "We Work Remotely's per-category RSS feed for Management and Finance roles. Confirmed live and working via an actual pipeline run (2026-09-13)."
   },
   {
@@ -32,7 +32,7 @@
     "reliability_score": 0.55,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": "2026-09-13T18:29:38.275Z",
+    "last_checked_at": "2026-09-13T20:42:05.493Z",
     "notes": "Same source/mechanism as source-wwr-management-finance, Sales and Marketing category instead. Also confirmed live via the same pipeline run."
   },
   {
@@ -44,7 +44,7 @@
     "reliability_score": 0.45,
     "check_frequency_hours": 24,
     "active": true,
-    "last_checked_at": "2026-09-13T18:29:39.062Z",
+    "last_checked_at": "2026-09-13T20:42:08.145Z",
     "notes": "Global youth-opportunity aggregator (scholarships, fellowships, competitions, internships). Confirmed live and working via an actual pipeline run (2026-09-13). Expect a global mix rather than Philippines-specific or exclusively business-focused postings; the heuristic scorer's accessibility/relevance dimensions should down-rank poor fits rather than needing this source pre-filtered."
   },
   {

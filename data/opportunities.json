@@ -2320,11 +2320,11 @@
       "Client Management",
       "Project Management"
     ],
-    "description": "Wrike: Account Executive 3 - DACH\n\nHeadquarters: Germany - Remote\n\n\n\nWrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.\n \nWrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you.\n \nOur vision:  A world where everyone is free to focus on their most purposeful work, together. \n \n\nAs an Account Executive 3 at Wrike, you will play a critical role in landing key enterprise accounts. You’ll own the full sales cycle with new logos, engaging at C-suite/executive level, partnering with cross-functional teams, and demonstrating Wrike’s impact on enterprise transformation and ROI. You’ll thrive in a fast-paced, high-growth environment where your consultative approach and tenacity will directly unlock new business and deepen Wrike’s brand as a leader in the market.\nIf you’re a collaborative professional who thrives in a fast-paced environment and enjoys connecting technology solutions to real business challenges, we want to hear from you!\nYour Impact:\nDevelop, manage, and close complex sales cycles; prospecting, leading discovery, presenting business cases, negotiating contracts, and landing new logos at the enterprise level (5,000+ employees).\nDeliver compelling presentations and business cases to executive audiences, demonstrating strategic thinking, business acumen, and exceptional consultative communication skills.\nProvide highly accurate and insight-driven monthly, quarterly, and annual pipeline forecasts, and maintai",
+    "description": "Wrike: Account Executive 3 - DACH\n\nHeadquarters: Ireland - Remote\n\n\n\nWrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.\n \nWrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you.\n \nOur vision:  A world where everyone is free to focus on their most purposeful work, together. \n \n\nAs an Account Executive 3 at Wrike, you will play a critical role in landing key enterprise accounts. You’ll own the full sales cycle with new logos, engaging at C-suite/executive level, partnering with cross-functional teams, and demonstrating Wrike’s impact on enterprise transformation and ROI. You’ll thrive in a fast-paced, high-growth environment where your consultative approach and tenacity will directly unlock new business and deepen Wrike’s brand as a leader in the market.\nIf you’re a collaborative professional who thrives in a fast-paced environment and enjoys connecting technology solutions to real business challenges, we want to hear from you!\nYour Impact:\nDevelop, manage, and close complex sales cycles; prospecting, leading discovery, presenting business cases, negotiating contracts, and landing new logos at the enterprise level (5,000+ employees).\nDeliver compelling presentations and business cases to executive audiences, demonstrating strategic thinking, business acumen, and exceptional consultative communication skills.\nProvide highly accurate and insight-driven monthly, quarterly, and annual pipeline forecasts, and maintai",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1",
+    "application_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -2347,16 +2347,16 @@
       "period": "monthly",
       "notes": null
     },
-    "program_duration": null,
+    "program_duration": "26 Week",
     "sponsorship_available": null,
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1",
     "dedup_hash": "2b3f6affb618ac353365859bb65bb371877bc857f90ea4551d7d92ebe36ca726",
-    "raw_content_hash": "5077927f158eaf0e3258632645fe69567201c87c57444270dd55eed8f04dc1dd",
+    "raw_content_hash": "0a2dc4fed73892f82e6e15ffab8130f527b37db3438e07c62eb2cdd016e6ad42",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.807Z",
-    "date_last_checked": "2026-09-13T18:29:38.283Z",
-    "date_last_updated": "2026-09-13T18:29:38.283Z",
+    "date_last_checked": "2026-09-13T20:42:05.503Z",
+    "date_last_updated": "2026-09-13T20:42:05.503Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
@@ -2368,7 +2368,7 @@
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach",
         "first_seen_at": "2026-09-13T18:27:38.810Z",
-        "last_seen_at": "2026-09-13T18:27:38.810Z"
+        "last_seen_at": "2026-09-13T20:42:05.503Z"
       }
     ],
     "updates": [
@@ -2392,25 +2392,32 @@
         "old_value": "26 Week",
         "new_value": null,
         "detected_at": "2026-09-13T18:29:38.283Z"
+      },
+      {
+        "change_type": "description_changed",
+        "field_name": "program_duration",
+        "old_value": null,
+        "new_value": "26 Week",
+        "detected_at": "2026-09-13T20:42:05.503Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
         "relevance_score": 100,
-        "career_value_score": 40,
+        "career_value_score": 50,
         "organization_score": 40,
         "student_fit_score": 100,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 60,
+        "overall_score": 63,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-13T18:29:38.282Z"
+        "scored_at": "2026-09-13T20:42:05.502Z"
       }
     ]
   },
@@ -4136,7 +4143,7 @@
       "Data Analytics",
       "Strategy"
     ],
-    "description": "Mixpanel: Customer Engineer\n\nHeadquarters: Remote, US (Remote) \n\n\n\nAbout Mixpanel\nMixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.\n\nAbout the Team\nMixpanel's Customer Engineering team is a cross-functional group of highly technical problem solvers focused on driving customer outcomes across the full commercial lifecycle. Customer Engineers are the technical face of Mixpanel in the field — connecting prospect business problems to Mixpanel's technical capabilities, running sharp evaluations, and ensuring every customer who signs has a clear, fast path to value. The team works in close partnership with Account Executives on new business and expansion, and hands off to Delivery Engineers to own technical activation post-sale.\nAbout the Role\nThe Customer Engineer owns the pre-sales technical journey — from discovery and technical fit assessment through competitive positioning, demo, and POC. You establish whether Mixpanel is the right technical fit before committing to a proof of concept, and when you do run one, you design it to be immediately actionable by the Delivery Engineer: focus metric defined, data validated, success criteria agreed upon. You also return post-sale for cross-sell and strategic expansion that requires a new technical evaluation. A great CE shows up researched, thinks in outcomes, leaves every interaction with more clarity than they walked in with, and treats handoff quality as a first-class output.\nResponsibilities\nLead technical discovery, establishing the prospect's business challenges, technical environment, and qualification before committing to a POC.\nDesign and deliver tailored, research-backed demos that connect Mixpanel's capabilities to the",
+    "description": "Mixpanel: Customer Engineer\n\nHeadquarters: New York City, US (Remote) \n\n\n\nAbout Mixpanel\nMixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.\n\nAbout the Team\nMixpanel's Customer Engineering team is a cross-functional group of highly technical problem solvers focused on driving customer outcomes across the full commercial lifecycle. Customer Engineers are the technical face of Mixpanel in the field — connecting prospect business problems to Mixpanel's technical capabilities, running sharp evaluations, and ensuring every customer who signs has a clear, fast path to value. The team works in close partnership with Account Executives on new business and expansion, and hands off to Delivery Engineers to own technical activation post-sale.\nAbout the Role\nThe Customer Engineer owns the pre-sales technical journey — from discovery and technical fit assessment through competitive positioning, demo, and POC. You establish whether Mixpanel is the right technical fit before committing to a proof of concept, and when you do run one, you design it to be immediately actionable by the Delivery Engineer: focus metric defined, data validated, success criteria agreed upon. You also return post-sale for cross-sell and strategic expansion that requires a new technical evaluation. A great CE shows up researched, thinks in outcomes, leaves every interaction with more clarity than they walked in with, and treats handoff quality as a first-class output.\nResponsibilities\nLead technical discovery, establishing the prospect's business challenges, technical environment, and qualification before committing to a POC.\nDesign and deliver tailored, research-backed demos that connect Mixpanel's capabilities",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -4164,17 +4171,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer",
     "dedup_hash": "b60dcd1cbd434edfbbbe310c60170387c1ac09a389532d6506e69631b7634fdb",
-    "raw_content_hash": "26f44274b92c6a5eaa66fa0dab66c156bf695b8ec648fe5cc820ad105e754281",
+    "raw_content_hash": "53dce1fc224aab3327f273860a54b27e9d945f468d6790d8cc7f618e73767186",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.925Z",
-    "date_last_checked": "2026-09-13T18:29:38.293Z",
+    "date_last_checked": "2026-09-13T20:42:05.511Z",
     "date_last_updated": "2026-09-13T18:27:38.925Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer",
         "first_seen_at": "2026-09-13T18:27:38.925Z",
-        "last_seen_at": "2026-09-13T18:29:38.293Z"
+        "last_seen_at": "2026-09-13T20:42:05.511Z"
       }
     ],
     "updates": [
@@ -4202,7 +4209,7 @@
         "is_time_sensitive": false,
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-13T18:29:38.293Z"
+        "scored_at": "2026-09-13T20:42:05.511Z"
       }
     ]
   },
@@ -7958,6 +7965,81 @@
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
         "scored_at": "2026-09-13T18:27:39.608Z"
+      }
+    ]
+  },
+  {
+    "id": "084abd17-d6b3-43ad-88d1-0f4c327990bb",
+    "organization_id": "97e9af73-36e5-4705-b4f8-d2cf143f2aa8",
+    "title": "JPY 362,000 Monthly Stipend, Airfare and 120 Awards per Open-Call Round",
+    "normalized_title": "jpy 362 000 monthly stipend airfare and 120 awards per open call round",
+    "opportunity_type": "fellowship",
+    "tags": [],
+    "description": "JSPS Postdoctoral Fellowship 2027 in Japan: JPY 362,000 Monthly Stipend, Airfare and 120 Awards per Open-Call Round\n\nThe Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowships for Research in Japan – Standard Program offers outstanding early-career researchers from around the world an opportunity to spend 12 to 24 months conducting collaborative research at universities and eligible research institutions in Japan. The fellowship is one of Japan’s major international postdoctoral research […]\nThe post JSPS Postdoctoral Fellowship 2027 in Japan: JPY 362,000 Monthly Stipend, Airfare and 120 Awards per Open-Call Round appeared first on Opportunities for Youth.\n\n2026-09-13T20:18:53.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/09/13/jsps-fellowship-2027/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": "monthly",
+      "notes": null
+    },
+    "program_duration": "00 Month",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/09/13/jsps-fellowship-2027/",
+    "dedup_hash": "59905d207b4a152a5a170e7bdbf1a524a63b3a9f374f8b630dabb53061eaed59",
+    "raw_content_hash": "2f9dfdacd0d2c02860e564cca936b7d9bc62a6f7fe32e03a5aff0806e5fd6221",
+    "status": "new",
+    "date_discovered": "2026-09-13T20:42:08.154Z",
+    "date_last_checked": "2026-09-13T20:42:08.154Z",
+    "date_last_updated": "2026-09-13T20:42:08.154Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/09/13/jsps-fellowship-2027/",
+        "first_seen_at": "2026-09-13T20:42:08.154Z",
+        "last_seen_at": "2026-09-13T20:42:08.154Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-09-13T20:42:08.154Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 70,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 54,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-09-13T20:42:08.154Z"
       }
     ]
   }
