@@ -11,5 +11,18 @@
     "items_needs_review": 21,
     "status": "partial",
     "error_log": "Status code 410"
+  },
+  {
+    "id": "e83142ac-21cf-4bc4-bc68-5a6b846ca0ff",
+    "run_type": "manual",
+    "started_at": "2026-09-13T18:29:37.367Z",
+    "completed_at": "2026-09-13T18:29:39.063Z",
+    "items_found": 100,
+    "items_new": 0,
+    "items_updated": 2,
+    "items_duplicate": 0,
+    "items_needs_review": 0,
+    "status": "partial",
+    "error_log": "[RemoteOK — all remote jobs] Status code 410"
   }
 ]
