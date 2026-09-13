@@ -10,25 +10,41 @@ export interface ExtractedItem {
   extraction: OpportunityExtractionResult;
 }
 
-const TITLE_ORG_SEPARATORS = [" at ", " - ", " – ", " | "];
-
 /**
- * Best-effort split of an RSS item title like "Summer Analyst at Acme Corp"
- * into (title, organization). Falls back to the source's own name (many
- * career-page RSS feeds are single-employer) with lower confidence rather
- * than fabricating an organization.
+ * Best-effort split of an RSS item title into (title, organization).
+ *
+ * Different feeds use different conventions, and guessing wrong is worse
+ * than admitting uncertainty (a real-data pipeline run surfaced this: a
+ * naive "split on the last dash" rule was misreading We Work Remotely
+ * titles like "Account Executive - DACH" and producing garbage
+ * organizations such as "DACH" or "Northeast" — a region qualifier inside
+ * the title, not a company). So this only trusts patterns that are
+ * actually documented/observed conventions for a specific format, tried
+ * most-specific first, and falls back to the source's own name (many
+ * career-page feeds are single-employer anyway) rather than guessing from
+ * generic punctuation.
  */
 function splitTitleAndOrganization(rawTitle: string, sourceName: string): { title: string; organization: string; confident: boolean } {
-  for (const separator of TITLE_ORG_SEPARATORS) {
-    const idx = rawTitle.lastIndexOf(separator);
-    if (idx > 0) {
-      return {
-        title: rawTitle.slice(0, idx).trim(),
-        organization: rawTitle.slice(idx + separator.length).trim(),
-        confident: true,
-      };
-    }
+  // We Work Remotely's documented format: "Company Name: Job Title".
+  const colonIdx = rawTitle.indexOf(": ");
+  if (colonIdx > 0) {
+    return {
+      title: rawTitle.slice(colonIdx + 2).trim(),
+      organization: rawTitle.slice(0, colonIdx).trim(),
+      confident: true,
+    };
   }
+
+  // A common convention elsewhere: "Job Title at Company Name".
+  const atIdx = rawTitle.lastIndexOf(" at ");
+  if (atIdx > 0) {
+    return {
+      title: rawTitle.slice(0, atIdx).trim(),
+      organization: rawTitle.slice(atIdx + 4).trim(),
+      confident: true,
+    };
+  }
+
   return { title: rawTitle.trim(), organization: sourceName, confident: false };
 }
 

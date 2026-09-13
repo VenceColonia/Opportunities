@@ -1,15 +1,1 @@
-[
-  {
-    "id": "653d4d36-8c3d-40a2-af3d-228520db175f",
-    "run_type": "manual",
-    "started_at": "2026-09-13T18:23:48.749Z",
-    "completed_at": "2026-09-13T18:23:52.532Z",
-    "items_found": 100,
-    "items_new": 93,
-    "items_updated": 3,
-    "items_duplicate": 0,
-    "items_needs_review": 4,
-    "status": "partial",
-    "error_log": "Status code 410"
-  }
-]
+[]
