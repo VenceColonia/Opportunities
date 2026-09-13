@@ -1,27 +1,63 @@
 [
   {
-    "id": "source-remoteok",
-    "name": "RemoteOK (all remote jobs feed)",
-    "url": "https://remoteok.com/remote-jobs.rss",
+    "id": "source-remoteok-finance",
+    "name": "RemoteOK — Finance tag",
+    "url": "https://remoteok.com/remote-jobs.rss?tag=finance",
     "source_type": "other",
     "search_method": "rss",
     "reliability_score": 0.5,
     "check_frequency_hours": 12,
-    "active": false,
+    "active": true,
     "last_checked_at": null,
-    "notes": "Placeholder example — verify the feed still exists and its terms permit this use before enabling. General remote-jobs feed, not business-student-specific; expect low relevance and treat as a discovery-quality test source, not a primary one."
+    "notes": "RemoteOK's public RSS feed (documented at remoteok.com/remote-jobs.rss, tag-filterable via ?tag=) — confirmed real via web search, but not live-fetch-verified from this sandbox (its egress proxy blocks arbitrary outbound domains). Watch the first GitHub Actions pipeline run's log for a fetch error; disable (active: false) if it 404s or the feed format changed."
   },
   {
-    "id": "source-example-scholarships",
-    "name": "Example Scholarship Board",
-    "url": "https://example-scholarships.org/feed",
-    "source_type": "scholarship_org",
+    "id": "source-remoteok-marketing",
+    "name": "RemoteOK — Marketing tag",
+    "url": "https://remoteok.com/remote-jobs.rss?tag=marketing",
+    "source_type": "other",
     "search_method": "rss",
     "reliability_score": 0.5,
-    "check_frequency_hours": 24,
-    "active": false,
+    "check_frequency_hours": 12,
+    "active": true,
     "last_checked_at": null,
-    "notes": "Placeholder — replace with a verified real feed URL before enabling."
+    "notes": "Same feed/mechanism as source-remoteok-finance, filtered to the 'marketing' tag instead. Same verification caveat applies."
+  },
+  {
+    "id": "source-wwr-management-finance",
+    "name": "We Work Remotely — Management & Finance",
+    "url": "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss",
+    "source_type": "other",
+    "search_method": "rss",
+    "reliability_score": 0.55,
+    "check_frequency_hours": 12,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "We Work Remotely's per-category RSS feed for Management and Finance roles — a long-standing, well-documented public feed of theirs. Confirmed real via web search; not live-fetch-verified from this sandbox (egress proxy blocks arbitrary domains). Check the first pipeline run's log."
+  },
+  {
+    "id": "source-wwr-sales-marketing",
+    "name": "We Work Remotely — Sales & Marketing",
+    "url": "https://weworkremotely.com/categories/remote-sales-and-marketing-jobs.rss",
+    "source_type": "other",
+    "search_method": "rss",
+    "reliability_score": 0.55,
+    "check_frequency_hours": 12,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "Same source/mechanism as source-wwr-management-finance, Sales and Marketing category instead. Same verification caveat applies."
+  },
+  {
+    "id": "source-opportunities-for-youth",
+    "name": "Opportunities for Youth (scholarships/fellowships/competitions)",
+    "url": "https://opportunitiesforyouth.org/feed",
+    "source_type": "scholarship_org",
+    "search_method": "rss",
+    "reliability_score": 0.45,
+    "check_frequency_hours": 24,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "Global youth-opportunity aggregator (scholarships, fellowships, competitions, internships) — its WordPress RSS feed URL was directly confirmed via web search. Not live-fetch-verified from this sandbox. Expect a global mix rather than Philippines-specific or exclusively business-focused postings; the heuristic scorer's accessibility/relevance dimensions should down-rank poor fits rather than needing this source pre-filtered."
   },
   {
     "id": "source-example-consulting",
@@ -33,6 +69,6 @@
     "check_frequency_hours": 24,
     "active": false,
     "last_checked_at": null,
-    "notes": "Placeholder — replace with a verified real feed URL before enabling."
+    "notes": "Placeholder, not a real URL — I could not find and verify a specific consulting-firm or Philippines-focused career-page RSS feed to include by default. Replace with a real, verified feed (e.g. a specific firm's careers RSS, if one exists) and set active: true."
   }
 ]
