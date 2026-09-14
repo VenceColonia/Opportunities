@@ -190,7 +190,13 @@ export function extractHeuristically(params: {
   // Includes "-" and "/" so common forms like "Remote - Philippines" or
   // "Manila / Remote" resolve instead of silently matching nothing (a real
   // gap: this pattern is how Greenhouse and many other boards phrase it).
-  const locationMatch = text.match(/(?:location|based\s+in)[:\s]+([A-Za-z ,/-]+?)(?:\.|\n|$)/i);
+  // "location" specifically requires a colon (a labeled field, e.g.
+  // "Location: Remote - Philippines") rather than bare whitespace, which
+  // was matching the word "location" anywhere in body copy ("we use
+  // location and industry data") and capturing whatever prose followed it
+  // as garbage location text — a real bug that surfaced once this field
+  // started being used to scope the dashboard geographically.
+  const locationMatch = text.match(/(?:location\s*:|based\s+in)[:\s]+([A-Za-z ,/-]+?)(?:\.|\n|$)/i);
 
   return {
     title: params.title || null,

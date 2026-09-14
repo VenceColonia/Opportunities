@@ -1,29 +1,38 @@
 import type { Opportunity, OpportunityFilters, Organization } from "../types";
 import { getScoreForProfile } from "../scoring/helpers";
 
-const METRO_MANILA_PATTERN =
+const PHILIPPINES_PATTERN =
   /manila|philippines|\bph\b|\bncr\b|quezon city|makati|taguig|bgc|pasig|mandaluyong|paranaque|pasay|caloocan|marikina|muntinlupa/i;
 
+// Wording that means "no geographic restriction at all," as opposed to a
+// location field that just happens not to say the Philippines — "Remote -
+// Worldwide" is genuinely open; "Remote - US" or a bare city name like
+// "Dublin" is not.
+const OPEN_ANYWHERE_PATTERN = /\b(worldwide|global|anywhere|any\s*location|remote[- ]first)\b/i;
+
 /**
- * The dashboard is scoped to opportunities workable from Metro Manila:
- * anything explicitly based there, plus anything fully remote (workable
- * from anywhere, Manila included). An opportunity is only excluded when
- * it's explicitly onsite/hybrid in a *known*, non-Manila location — most
- * heuristic extractions leave location/work_arrangement unresolved, and
- * an unresolved field isn't evidence the opportunity is irrelevant, so
- * those are kept rather than guessed away.
+ * The dashboard is scoped to the Philippines specifically, not "remote from
+ * anywhere": kept if the opportunity explicitly mentions the Philippines/
+ * Manila, or is remote with no location restriction stated at all (an empty
+ * location field, or wording like "Remote - Worldwide"). Any other
+ * *specific* location text — "Remote - US", "Dublin", "London, UK" — is
+ * excluded, since that means the role is tied to that place even when it's
+ * technically "remote" within it. This replaced a looser "any remote job
+ * counts" rule that let through a lot of country-restricted postings from
+ * global companies (Stripe/Airbnb postings scoped to "Remote - US" etc.) —
+ * exactly the clutter this is meant to cut.
  */
-export function isMetroManilaRelevant(opportunity: Opportunity): boolean {
-  const haystack = `${opportunity.location ?? ""} ${opportunity.country ?? ""}`;
-  if (METRO_MANILA_PATTERN.test(haystack)) return true;
-  if (opportunity.work_arrangement === "remote") return true;
+export function isPhilippinesRelevant(opportunity: Opportunity): boolean {
+  const haystack = `${opportunity.location ?? ""} ${opportunity.country ?? ""}`.trim();
 
-  const isKnownOtherLocation = haystack.trim().length > 0;
-  if ((opportunity.work_arrangement === "onsite" || opportunity.work_arrangement === "hybrid") && isKnownOtherLocation) {
-    return false;
-  }
+  if (PHILIPPINES_PATTERN.test(haystack)) return true;
 
-  return true;
+  const namesASpecificOtherPlace = haystack.length > 0 && !OPEN_ANYWHERE_PATTERN.test(haystack);
+  if (namesASpecificOtherPlace) return false;
+
+  // No location text at all (or only "open anywhere" wording) — the only
+  // remaining positive signal is an explicitly unrestricted remote role.
+  return opportunity.work_arrangement === "remote";
 }
 
 /**

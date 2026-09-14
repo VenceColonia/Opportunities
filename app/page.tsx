@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useDashboardData } from "../lib/client/useOpportunities";
-import { applyFilters, isMetroManilaRelevant } from "../lib/client/filterOpportunities";
+import { applyFilters, isPhilippinesRelevant } from "../lib/client/filterOpportunities";
 import { sortByOverallScoreDesc } from "../lib/scoring/helpers";
 import { getSavedIds, setLastVisitNow } from "../lib/client/savedStore";
 import type { OpportunityFilters } from "../lib/types";
@@ -22,10 +22,10 @@ export default function DashboardPage() {
     setLastVisitNow();
   }, []);
 
-  // Scoped to Metro Manila + remote (see isMetroManilaRelevant) — this is
-  // a fixed scope for this profile, not one of the adjustable FilterBar
-  // filters, so it applies before overview counts and the filter bar too.
-  const inScope = useMemo(() => opportunities.filter(isMetroManilaRelevant), [opportunities]);
+  // Scoped to the Philippines (see isPhilippinesRelevant) — this is a fixed
+  // scope for this profile, not one of the adjustable FilterBar filters, so
+  // it applies before overview counts and the filter bar too.
+  const inScope = useMemo(() => opportunities.filter(isPhilippinesRelevant), [opportunities]);
 
   const filtered = useMemo(() => {
     if (!profile) return [];
@@ -49,7 +49,7 @@ export default function DashboardPage() {
       <section>
         <div className="mb-3 flex items-baseline justify-between">
           <h1 className="font-serif text-xl font-semibold text-ink">Overview</h1>
-          <p className="text-xs text-ink-light">Scoped to Metro Manila + remote opportunities</p>
+          <p className="text-xs text-ink-light">Scoped to the Philippines (Manila/PH-based, or genuinely unrestricted remote)</p>
         </div>
         <OverviewStats opportunities={inScope} profileId={profile.id} savedCount={savedCount} />
       </section>
