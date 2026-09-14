@@ -1278,5 +1278,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "ed14a23b-83a6-4453-a1de-0e0ae0ba4f02",
+    "name": "OKX",
+    "normalized_name": "okx",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9bd73607-3b59-46de-8df7-73627cd8fd09",
+    "name": "UN Youth Champions for Environment and Peace 2026",
+    "normalized_name": "un youth champions for environment and peace 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "394ec367-4eac-4aa4-9b57-f81c163f2e6c",
+    "name": "Australian Government DFAT Vienna Traineeship 2027",
+    "normalized_name": "australian government dfat vienna traineeship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f483bf99-3169-4673-813d-4c606f05ac74",
+    "name": "D-Prize Competition 2026",
+    "normalized_name": "d prize competition 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "64d36aca-ea96-4224-806d-fed79a65a75b",
+    "name": "NATO Science for Peace and Security Programme 2027 Call for Proposals",
+    "normalized_name": "nato science for peace and security programme 2027 call for proposals",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "857bcdb2-15cd-466c-bb4f-83f02e63e5d2",
+    "name": "ActHIVate Fund Grants 2026–2028",
+    "normalized_name": "acthivate fund grants 2026 2028",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b8cdb229-1e1c-467d-819d-bab2132188a2",
+    "name": "DoSomething DoCrew",
+    "normalized_name": "dosomething docrew",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a6b123a2-9d28-4116-814a-ed0eddb4dbdd",
+    "name": "CDC Public Health Informatics Fellowship Program 2027",
+    "normalized_name": "cdc public health informatics fellowship program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
