@@ -14,6 +14,24 @@ interface GreenhouseBoardResponse {
   jobs: GreenhouseJob[];
 }
 
+// A real pipeline run against Stripe + Airbnb's full boards pulled in 775
+// jobs (84% of everything in the store) spanning every department —
+// engineering, legal, security, design, all of it. That's not "wider
+// scope," it's noise drowning the signal a business-student dashboard
+// exists to surface. A large company's Greenhouse board has no per-source
+// way to ask "just business roles," so this filters client-side on the
+// department name Greenhouse already reports, before the job ever reaches
+// extraction/scoring — a company's own board is a firehose, not a curated
+// feed, and it should be treated as one.
+const BUSINESS_RELEVANT_DEPARTMENT_PATTERN =
+  /operations|finance|financial|sales|marketing|strategy|business\s*development|analytics|communications?|people|human\s*resources|\bhr\b|consulting|account(ing|s)?|revenue|partnerships?|customer\s*success/i;
+
+function isBusinessRelevantDepartment(job: GreenhouseJob): boolean {
+  const departments = job.departments?.map((d) => d.name).join(" ") ?? "";
+  if (!departments) return true; // no department data at all — don't discard on missing metadata
+  return BUSINESS_RELEVANT_DEPARTMENT_PATTERN.test(departments);
+}
+
 function stripHtml(html: string): string {
   return html
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
@@ -51,7 +69,7 @@ export const greenhouseAdapter: SourceAdapter = {
 
     const data = (await response.json()) as GreenhouseBoardResponse;
 
-    return (data.jobs ?? []).map((job) => {
+    return (data.jobs ?? []).filter(isBusinessRelevantDepartment).map((job) => {
       const location = job.location?.name ?? job.offices?.map((o) => o.name).join(", ") ?? "";
       const departments = job.departments?.map((d) => d.name).join(", ") ?? "";
       const description = job.content ? stripHtml(job.content) : "";
