@@ -1358,5 +1358,125 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "1930bd88-c2d4-4924-aacd-d82e1622344a",
+    "name": "Recruitment Circle GmbH",
+    "normalized_name": "recruitment circle gmbh",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5543f141-5b2c-4429-95f6-53747f86cab1",
+    "name": "ROK Financial",
+    "normalized_name": "rok financial",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "bb674ccd-fda1-41eb-83c9-f281b786cf9d",
+    "name": "IBRO Seeding Neuroscience Grants 2026",
+    "normalized_name": "ibro seeding neuroscience grants 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b8a3ab7a-b579-4dfa-959c-25ee3f5c9dfa",
+    "name": "PhD Scholarship at La Trobe University",
+    "normalized_name": "phd scholarship at la trobe university",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ac073422-cfc8-4939-b657-e8dee3fcede6",
+    "name": "IAEA Marie Skłodowska-Curie Fellowship Programme 2026/2027",
+    "normalized_name": "iaea marie sk odowska curie fellowship programme 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "fa978fe0-f350-4dbd-915e-750e7b5a331e",
+    "name": "NASA Lunar Dust Mitigation Intern 2027",
+    "normalized_name": "nasa lunar dust mitigation intern 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f38a95ad-6007-4039-ad20-76e47d38589b",
+    "name": "Julius Baer Graduate Programme 2027",
+    "normalized_name": "julius baer graduate programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "beb5d76f-028e-4a5d-a01c-c11750386b89",
+    "name": "Citi Corporate Banking Sustainability and Corporate Transitions Full-Time Analyst 2027",
+    "normalized_name": "citi corporate banking sustainability and corporate transitions full time analyst 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4931d7e8-e8c8-4e33-990b-f62c74207dc2",
+    "name": "Blue Catalyst Fund 2026",
+    "normalized_name": "blue catalyst fund 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5f2c6587-12c9-4ebd-ac74-8d9e2621b0b9",
+    "name": "KHK CURE Fellowships 2027/2028 in Germany",
+    "normalized_name": "khk cure fellowships 2027 2028 in germany",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "98bda068-7d15-4ea7-b4c3-23a040d51bbb",
+    "name": "BOLD Science Communication Fellowship 2027",
+    "normalized_name": "bold science communication fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0f607f5f-66da-4b41-b58c-e30e4f5545ac",
+    "name": "DIV Fund Grants 2026",
+    "normalized_name": "div fund grants 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
