@@ -2355,20 +2355,20 @@
     "raw_content_hash": "5077927f158eaf0e3258632645fe69567201c87c57444270dd55eed8f04dc1dd",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.807Z",
-    "date_last_checked": "2026-09-13T18:29:38.283Z",
-    "date_last_updated": "2026-09-13T18:29:38.283Z",
+    "date_last_checked": "2026-09-14T03:44:28.281Z",
+    "date_last_updated": "2026-09-14T03:44:28.281Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1",
         "first_seen_at": "2026-09-13T18:27:38.807Z",
-        "last_seen_at": "2026-09-13T18:29:38.283Z"
+        "last_seen_at": "2026-09-14T03:44:28.281Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach",
         "first_seen_at": "2026-09-13T18:27:38.810Z",
-        "last_seen_at": "2026-09-13T18:27:38.810Z"
+        "last_seen_at": "2026-09-13T20:42:05.503Z"
       }
     ],
     "updates": [
@@ -2392,6 +2392,20 @@
         "old_value": "26 Week",
         "new_value": null,
         "detected_at": "2026-09-13T18:29:38.283Z"
+      },
+      {
+        "change_type": "description_changed",
+        "field_name": "program_duration",
+        "old_value": null,
+        "new_value": "26 Week",
+        "detected_at": "2026-09-13T20:42:05.503Z"
+      },
+      {
+        "change_type": "description_changed",
+        "field_name": "program_duration",
+        "old_value": "26 Week",
+        "new_value": null,
+        "detected_at": "2026-09-14T03:44:28.281Z"
       }
     ],
     "scores": [
@@ -2410,7 +2424,7 @@
         "is_time_sensitive": false,
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-13T18:29:38.282Z"
+        "scored_at": "2026-09-14T03:44:28.281Z"
       }
     ]
   },
@@ -4167,14 +4181,14 @@
     "raw_content_hash": "26f44274b92c6a5eaa66fa0dab66c156bf695b8ec648fe5cc820ad105e754281",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.925Z",
-    "date_last_checked": "2026-09-13T18:29:38.293Z",
+    "date_last_checked": "2026-09-14T03:44:28.291Z",
     "date_last_updated": "2026-09-13T18:27:38.925Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer",
         "first_seen_at": "2026-09-13T18:27:38.925Z",
-        "last_seen_at": "2026-09-13T18:29:38.293Z"
+        "last_seen_at": "2026-09-14T03:44:28.291Z"
       }
     ],
     "updates": [
@@ -4202,7 +4216,7 @@
         "is_time_sensitive": false,
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-13T18:29:38.293Z"
+        "scored_at": "2026-09-14T03:44:28.291Z"
       }
     ]
   },
@@ -7958,6 +7972,231 @@
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
         "scored_at": "2026-09-13T18:27:39.608Z"
+      }
+    ]
+  },
+  {
+    "id": "084abd17-d6b3-43ad-88d1-0f4c327990bb",
+    "organization_id": "97e9af73-36e5-4705-b4f8-d2cf143f2aa8",
+    "title": "JPY 362,000 Monthly Stipend, Airfare and 120 Awards per Open-Call Round",
+    "normalized_title": "jpy 362 000 monthly stipend airfare and 120 awards per open call round",
+    "opportunity_type": "fellowship",
+    "tags": [],
+    "description": "JSPS Postdoctoral Fellowship 2027 in Japan: JPY 362,000 Monthly Stipend, Airfare and 120 Awards per Open-Call Round\n\nThe Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowships for Research in Japan – Standard Program offers outstanding early-career researchers from around the world an opportunity to spend 12 to 24 months conducting collaborative research at universities and eligible research institutions in Japan. The fellowship is one of Japan’s major international postdoctoral research […]\nThe post JSPS Postdoctoral Fellowship 2027 in Japan: JPY 362,000 Monthly Stipend, Airfare and 120 Awards per Open-Call Round appeared first on Opportunities for Youth.\n\n2026-09-13T20:18:53.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/09/13/jsps-fellowship-2027/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": "monthly",
+      "notes": null
+    },
+    "program_duration": "00 Month",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/09/13/jsps-fellowship-2027/",
+    "dedup_hash": "59905d207b4a152a5a170e7bdbf1a524a63b3a9f374f8b630dabb53061eaed59",
+    "raw_content_hash": "2f9dfdacd0d2c02860e564cca936b7d9bc62a6f7fe32e03a5aff0806e5fd6221",
+    "status": "new",
+    "date_discovered": "2026-09-13T20:42:08.154Z",
+    "date_last_checked": "2026-09-13T20:42:08.154Z",
+    "date_last_updated": "2026-09-13T20:42:08.154Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/09/13/jsps-fellowship-2027/",
+        "first_seen_at": "2026-09-13T20:42:08.154Z",
+        "last_seen_at": "2026-09-13T20:42:08.154Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-09-13T20:42:08.154Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 70,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 54,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-09-13T20:42:08.154Z"
+      }
+    ]
+  },
+  {
+    "id": "807314f5-140d-4627-90ba-a5d78055acf9",
+    "organization_id": "8563914a-ee71-468f-af6b-6345bd32fe66",
+    "title": "IDOS Researcher Position 2027 in Water Governance and Water Security – Germany",
+    "normalized_title": "idos researcher position 2027 in water governance and water security germany",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "IDOS Researcher Position 2027 in Water Governance and Water Security – Germany\n\nThe German Institute of Development and Sustainability (IDOS) is inviting applications for a Researcher (m/f/diverse) position within its Research Department “Environmental Governance.” The position focuses on water governance, water security, water politics, environmental governance, and policy advice, particularly in low- and middle-income countries and potentially conflict-affected settings. The opportunity is particularly suited to researchers with […]\nThe post IDOS Researcher Position 2027 in Water Governance and Water Security – Germany appeared first on Opportunities for Youth.\n\n2026-09-13T21:11:30.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/09/13/idos-researcher-position-2027-in-water-governance-and-water-security-germany/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/09/13/idos-researcher-position-2027-in-water-governance-and-water-security-germany/",
+    "dedup_hash": "cef4dd2d0d723397680dc122e35cd1e443907cf6517b827d3e9f1e85ea181651",
+    "raw_content_hash": "1f5de257da9d9b4653e3325be189fdfd0ca05b03b2f1fb8c67ab6d1f01e27b20",
+    "status": "new",
+    "date_discovered": "2026-09-14T03:44:28.682Z",
+    "date_last_checked": "2026-09-14T03:44:28.682Z",
+    "date_last_updated": "2026-09-14T03:44:28.682Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/09/13/idos-researcher-position-2027-in-water-governance-and-water-security-germany/",
+        "first_seen_at": "2026-09-14T03:44:28.682Z",
+        "last_seen_at": "2026-09-14T03:44:28.682Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-09-14T03:44:28.682Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-09-14T03:44:28.682Z"
+      }
+    ]
+  },
+  {
+    "id": "7ece1107-f8ce-42ce-a1c1-da9950a080c5",
+    "organization_id": "e0b37388-1f10-4cfb-8890-58a8e0f2d479",
+    "title": "Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSSS Islands",
+    "normalized_title": "apply for 5 000 12 000 grants for feminist groups in the netherlands and abcsss islands",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Mama Cash Spark Fund 2026: Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSSS Islands\n\nApplications are now open for the Mama Cash Spark Fund 2026, a flexible grant programme supporting self-led feminist groups working for the rights of women, girls, trans people and intersex people in the Netherlands and the ABCSSS islands: Aruba, Bonaire, Curaçao, Saba, Sint Eustatius and Sint Maarten. The Spark Fund is designed particularly for grassroots […]\nThe post Mama Cash Spark Fund 2026: Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSSS Islands appeared first on Opportunities for Youth.\n\n2026-09-13T20:52:20.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/",
+    "dedup_hash": "3d949bce1696708be90b855c7c6be68951e76a2d1f763529211973b14ace75f0",
+    "raw_content_hash": "64fa52f25f89005b3a67808b6d47731795871a12f98c0e7de45e537562ae7226",
+    "status": "new",
+    "date_discovered": "2026-09-14T03:44:28.721Z",
+    "date_last_checked": "2026-09-14T03:44:28.721Z",
+    "date_last_updated": "2026-09-14T03:44:28.721Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/",
+        "first_seen_at": "2026-09-14T03:44:28.721Z",
+        "last_seen_at": "2026-09-14T03:44:28.721Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-09-14T03:44:28.721Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-09-14T03:44:28.721Z"
       }
     ]
   }
