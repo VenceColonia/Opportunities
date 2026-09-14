@@ -848,5 +848,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "8563914a-ee71-468f-af6b-6345bd32fe66",
+    "name": "Opportunities for Youth (scholarships/fellowships/competitions)",
+    "normalized_name": "opportunities for youth scholarships fellowships competitions",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "e0b37388-1f10-4cfb-8890-58a8e0f2d479",
+    "name": "Mama Cash Spark Fund 2026",
+    "normalized_name": "mama cash spark fund 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]

@@ -2320,11 +2320,11 @@
       "Client Management",
       "Project Management"
     ],
-    "description": "Wrike: Account Executive 3 - DACH\n\nHeadquarters: Ireland - Remote\n\n\n\nWrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.\n \nWrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you.\n \nOur vision:  A world where everyone is free to focus on their most purposeful work, together. \n \n\nAs an Account Executive 3 at Wrike, you will play a critical role in landing key enterprise accounts. You’ll own the full sales cycle with new logos, engaging at C-suite/executive level, partnering with cross-functional teams, and demonstrating Wrike’s impact on enterprise transformation and ROI. You’ll thrive in a fast-paced, high-growth environment where your consultative approach and tenacity will directly unlock new business and deepen Wrike’s brand as a leader in the market.\nIf you’re a collaborative professional who thrives in a fast-paced environment and enjoys connecting technology solutions to real business challenges, we want to hear from you!\nYour Impact:\nDevelop, manage, and close complex sales cycles; prospecting, leading discovery, presenting business cases, negotiating contracts, and landing new logos at the enterprise level (5,000+ employees).\nDeliver compelling presentations and business cases to executive audiences, demonstrating strategic thinking, business acumen, and exceptional consultative communication skills.\nProvide highly accurate and insight-driven monthly, quarterly, and annual pipeline forecasts, and maintai",
+    "description": "Wrike: Account Executive 3 - DACH\n\nHeadquarters: Germany - Remote\n\n\n\nWrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.\n \nWrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you.\n \nOur vision:  A world where everyone is free to focus on their most purposeful work, together. \n \n\nAs an Account Executive 3 at Wrike, you will play a critical role in landing key enterprise accounts. You’ll own the full sales cycle with new logos, engaging at C-suite/executive level, partnering with cross-functional teams, and demonstrating Wrike’s impact on enterprise transformation and ROI. You’ll thrive in a fast-paced, high-growth environment where your consultative approach and tenacity will directly unlock new business and deepen Wrike’s brand as a leader in the market.\nIf you’re a collaborative professional who thrives in a fast-paced environment and enjoys connecting technology solutions to real business challenges, we want to hear from you!\nYour Impact:\nDevelop, manage, and close complex sales cycles; prospecting, leading discovery, presenting business cases, negotiating contracts, and landing new logos at the enterprise level (5,000+ employees).\nDeliver compelling presentations and business cases to executive audiences, demonstrating strategic thinking, business acumen, and exceptional consultative communication skills.\nProvide highly accurate and insight-driven monthly, quarterly, and annual pipeline forecasts, and maintai",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach",
+    "application_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -2347,22 +2347,22 @@
       "period": "monthly",
       "notes": null
     },
-    "program_duration": "26 Week",
+    "program_duration": null,
     "sponsorship_available": null,
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1",
     "dedup_hash": "2b3f6affb618ac353365859bb65bb371877bc857f90ea4551d7d92ebe36ca726",
-    "raw_content_hash": "0a2dc4fed73892f82e6e15ffab8130f527b37db3438e07c62eb2cdd016e6ad42",
+    "raw_content_hash": "5077927f158eaf0e3258632645fe69567201c87c57444270dd55eed8f04dc1dd",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.807Z",
-    "date_last_checked": "2026-09-13T20:42:05.503Z",
-    "date_last_updated": "2026-09-13T20:42:05.503Z",
+    "date_last_checked": "2026-09-14T03:44:28.281Z",
+    "date_last_updated": "2026-09-14T03:44:28.281Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1",
         "first_seen_at": "2026-09-13T18:27:38.807Z",
-        "last_seen_at": "2026-09-13T18:29:38.283Z"
+        "last_seen_at": "2026-09-14T03:44:28.281Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
@@ -2399,25 +2399,32 @@
         "old_value": null,
         "new_value": "26 Week",
         "detected_at": "2026-09-13T20:42:05.503Z"
+      },
+      {
+        "change_type": "description_changed",
+        "field_name": "program_duration",
+        "old_value": "26 Week",
+        "new_value": null,
+        "detected_at": "2026-09-14T03:44:28.281Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
         "relevance_score": 100,
-        "career_value_score": 50,
+        "career_value_score": 40,
         "organization_score": 40,
         "student_fit_score": 100,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 63,
+        "overall_score": 60,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-13T20:42:05.502Z"
+        "scored_at": "2026-09-14T03:44:28.281Z"
       }
     ]
   },
@@ -4143,7 +4150,7 @@
       "Data Analytics",
       "Strategy"
     ],
-    "description": "Mixpanel: Customer Engineer\n\nHeadquarters: New York City, US (Remote) \n\n\n\nAbout Mixpanel\nMixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.\n\nAbout the Team\nMixpanel's Customer Engineering team is a cross-functional group of highly technical problem solvers focused on driving customer outcomes across the full commercial lifecycle. Customer Engineers are the technical face of Mixpanel in the field — connecting prospect business problems to Mixpanel's technical capabilities, running sharp evaluations, and ensuring every customer who signs has a clear, fast path to value. The team works in close partnership with Account Executives on new business and expansion, and hands off to Delivery Engineers to own technical activation post-sale.\nAbout the Role\nThe Customer Engineer owns the pre-sales technical journey — from discovery and technical fit assessment through competitive positioning, demo, and POC. You establish whether Mixpanel is the right technical fit before committing to a proof of concept, and when you do run one, you design it to be immediately actionable by the Delivery Engineer: focus metric defined, data validated, success criteria agreed upon. You also return post-sale for cross-sell and strategic expansion that requires a new technical evaluation. A great CE shows up researched, thinks in outcomes, leaves every interaction with more clarity than they walked in with, and treats handoff quality as a first-class output.\nResponsibilities\nLead technical discovery, establishing the prospect's business challenges, technical environment, and qualification before committing to a POC.\nDesign and deliver tailored, research-backed demos that connect Mixpanel's capabilities",
+    "description": "Mixpanel: Customer Engineer\n\nHeadquarters: Remote, US (Remote) \n\n\n\nAbout Mixpanel\nMixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.\n\nAbout the Team\nMixpanel's Customer Engineering team is a cross-functional group of highly technical problem solvers focused on driving customer outcomes across the full commercial lifecycle. Customer Engineers are the technical face of Mixpanel in the field — connecting prospect business problems to Mixpanel's technical capabilities, running sharp evaluations, and ensuring every customer who signs has a clear, fast path to value. The team works in close partnership with Account Executives on new business and expansion, and hands off to Delivery Engineers to own technical activation post-sale.\nAbout the Role\nThe Customer Engineer owns the pre-sales technical journey — from discovery and technical fit assessment through competitive positioning, demo, and POC. You establish whether Mixpanel is the right technical fit before committing to a proof of concept, and when you do run one, you design it to be immediately actionable by the Delivery Engineer: focus metric defined, data validated, success criteria agreed upon. You also return post-sale for cross-sell and strategic expansion that requires a new technical evaluation. A great CE shows up researched, thinks in outcomes, leaves every interaction with more clarity than they walked in with, and treats handoff quality as a first-class output.\nResponsibilities\nLead technical discovery, establishing the prospect's business challenges, technical environment, and qualification before committing to a POC.\nDesign and deliver tailored, research-backed demos that connect Mixpanel's capabilities to the",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -4171,17 +4178,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer",
     "dedup_hash": "b60dcd1cbd434edfbbbe310c60170387c1ac09a389532d6506e69631b7634fdb",
-    "raw_content_hash": "53dce1fc224aab3327f273860a54b27e9d945f468d6790d8cc7f618e73767186",
+    "raw_content_hash": "26f44274b92c6a5eaa66fa0dab66c156bf695b8ec648fe5cc820ad105e754281",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.925Z",
-    "date_last_checked": "2026-09-13T20:42:05.511Z",
+    "date_last_checked": "2026-09-14T03:44:28.291Z",
     "date_last_updated": "2026-09-13T18:27:38.925Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer",
         "first_seen_at": "2026-09-13T18:27:38.925Z",
-        "last_seen_at": "2026-09-13T20:42:05.511Z"
+        "last_seen_at": "2026-09-14T03:44:28.291Z"
       }
     ],
     "updates": [
@@ -4209,7 +4216,7 @@
         "is_time_sensitive": false,
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-13T20:42:05.511Z"
+        "scored_at": "2026-09-14T03:44:28.291Z"
       }
     ]
   },
@@ -8040,6 +8047,156 @@
         "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
         "scoring_method": "heuristic",
         "scored_at": "2026-09-13T20:42:08.154Z"
+      }
+    ]
+  },
+  {
+    "id": "807314f5-140d-4627-90ba-a5d78055acf9",
+    "organization_id": "8563914a-ee71-468f-af6b-6345bd32fe66",
+    "title": "IDOS Researcher Position 2027 in Water Governance and Water Security – Germany",
+    "normalized_title": "idos researcher position 2027 in water governance and water security germany",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "IDOS Researcher Position 2027 in Water Governance and Water Security – Germany\n\nThe German Institute of Development and Sustainability (IDOS) is inviting applications for a Researcher (m/f/diverse) position within its Research Department “Environmental Governance.” The position focuses on water governance, water security, water politics, environmental governance, and policy advice, particularly in low- and middle-income countries and potentially conflict-affected settings. The opportunity is particularly suited to researchers with […]\nThe post IDOS Researcher Position 2027 in Water Governance and Water Security – Germany appeared first on Opportunities for Youth.\n\n2026-09-13T21:11:30.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/09/13/idos-researcher-position-2027-in-water-governance-and-water-security-germany/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/09/13/idos-researcher-position-2027-in-water-governance-and-water-security-germany/",
+    "dedup_hash": "cef4dd2d0d723397680dc122e35cd1e443907cf6517b827d3e9f1e85ea181651",
+    "raw_content_hash": "1f5de257da9d9b4653e3325be189fdfd0ca05b03b2f1fb8c67ab6d1f01e27b20",
+    "status": "new",
+    "date_discovered": "2026-09-14T03:44:28.682Z",
+    "date_last_checked": "2026-09-14T03:44:28.682Z",
+    "date_last_updated": "2026-09-14T03:44:28.682Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/09/13/idos-researcher-position-2027-in-water-governance-and-water-security-germany/",
+        "first_seen_at": "2026-09-14T03:44:28.682Z",
+        "last_seen_at": "2026-09-14T03:44:28.682Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-09-14T03:44:28.682Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-09-14T03:44:28.682Z"
+      }
+    ]
+  },
+  {
+    "id": "7ece1107-f8ce-42ce-a1c1-da9950a080c5",
+    "organization_id": "e0b37388-1f10-4cfb-8890-58a8e0f2d479",
+    "title": "Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSSS Islands",
+    "normalized_title": "apply for 5 000 12 000 grants for feminist groups in the netherlands and abcsss islands",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Mama Cash Spark Fund 2026: Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSSS Islands\n\nApplications are now open for the Mama Cash Spark Fund 2026, a flexible grant programme supporting self-led feminist groups working for the rights of women, girls, trans people and intersex people in the Netherlands and the ABCSSS islands: Aruba, Bonaire, Curaçao, Saba, Sint Eustatius and Sint Maarten. The Spark Fund is designed particularly for grassroots […]\nThe post Mama Cash Spark Fund 2026: Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSSS Islands appeared first on Opportunities for Youth.\n\n2026-09-13T20:52:20.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/",
+    "dedup_hash": "3d949bce1696708be90b855c7c6be68951e76a2d1f763529211973b14ace75f0",
+    "raw_content_hash": "64fa52f25f89005b3a67808b6d47731795871a12f98c0e7de45e537562ae7226",
+    "status": "new",
+    "date_discovered": "2026-09-14T03:44:28.721Z",
+    "date_last_checked": "2026-09-14T03:44:28.721Z",
+    "date_last_updated": "2026-09-14T03:44:28.721Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/",
+        "first_seen_at": "2026-09-14T03:44:28.721Z",
+        "last_seen_at": "2026-09-14T03:44:28.721Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-09-14T03:44:28.721Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Heuristic match for a 3rd year BS Management Engineering student interested in Operations and Consulting. Organization reputation is unverified in the local tier list. (Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-09-14T03:44:28.721Z"
       }
     ]
   }
