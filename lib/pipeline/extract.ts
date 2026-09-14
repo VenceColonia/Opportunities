@@ -55,8 +55,16 @@ function splitTitleAndOrganization(rawTitle: string, sourceName: string): { titl
  * lib/claude/client.ts::extractOpportunity if you opt into the paid path.
  */
 export function extractPendingItems(source: SourceRegistryEntry, pending: PendingItem[]): ExtractedItem[] {
+  // A source using the Greenhouse (or any future single-employer JSON API)
+  // adapter is, by construction, one company's own job board — the source's
+  // name IS the organization, with real confidence, not a guess from title
+  // punctuation. Only RSS aggregators (multi-employer) need the split.
+  const isSingleEmployerApiSource = source.search_method === "api";
+
   return pending.map(({ item, contentHash }) => {
-    const { title, organization, confident } = splitTitleAndOrganization(item.title, source.name);
+    const { title, organization, confident } = isSingleEmployerApiSource
+      ? { title: item.title, organization: source.name, confident: true }
+      : splitTitleAndOrganization(item.title, source.name);
     const extraction = extractHeuristically({ title, rawContent: item.rawContent });
 
     extraction.organization_name = organization;
@@ -65,7 +73,7 @@ export function extractPendingItems(source: SourceRegistryEntry, pending: Pendin
       extraction.extraction_confidence.organization_name = 0.4;
       extraction.unresolved_fields.push("organization_name");
     } else {
-      extraction.extraction_confidence.organization_name = 0.7;
+      extraction.extraction_confidence.organization_name = isSingleEmployerApiSource ? 0.95 : 0.7;
     }
 
     return {

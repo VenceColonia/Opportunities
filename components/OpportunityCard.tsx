@@ -56,8 +56,6 @@ export default function OpportunityCard({
 
       <p className="text-sm text-ink-light">Deadline: {formatDeadline(opportunity.application_deadline, opportunity.deadline_note)}</p>
 
-      {score ? <p className="text-sm text-ink">{score.reasoning}</p> : null}
-
       <div className="mt-auto flex items-center justify-between pt-2">
         {opportunity.application_url ? (
           <a

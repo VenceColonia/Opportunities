@@ -58,5 +58,77 @@
     "active": false,
     "last_checked_at": null,
     "notes": "Placeholder, not a real URL — I could not find and verify a specific consulting-firm or Philippines-focused career-page RSS feed to include by default. Replace with a real, verified feed (e.g. a specific firm's careers RSS, if one exists) and set active: true."
+  },
+  {
+    "id": "source-wwr-product",
+    "name": "We Work Remotely — Product",
+    "url": "https://weworkremotely.com/categories/remote-product-jobs.rss",
+    "source_type": "other",
+    "search_method": "rss",
+    "reliability_score": 0.5,
+    "check_frequency_hours": 12,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "Another We Work Remotely category feed, confirmed documented the same way as the other two WWR sources already proven live. Product roles touch strategy/data/ops work relevant to business students."
+  },
+  {
+    "id": "source-wwr-customer-support",
+    "name": "We Work Remotely — Customer Support",
+    "url": "https://weworkremotely.com/categories/remote-customer-support-jobs.rss",
+    "source_type": "other",
+    "search_method": "rss",
+    "reliability_score": 0.5,
+    "check_frequency_hours": 12,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "Another confirmed WWR category feed — client management / customer success roles, relevant to the profile's Client Management interest."
+  },
+  {
+    "id": "source-greenhouse-stripe",
+    "name": "Stripe",
+    "url": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "source_type": "technology_company",
+    "search_method": "api",
+    "reliability_score": 0.6,
+    "check_frequency_hours": 24,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "Greenhouse's public, unauthenticated Job Board API (boards-api.greenhouse.io) — confirmed real and documented, unlike LinkedIn/JobStreet which offer no such thing (see the two disabled placeholders below). Board token 'stripe' confirmed via search results explicitly describing Stripe's Greenhouse board, including a 'Global Operations' department. Uses lib/sources/greenhouse-adapter.ts, not the RSS adapter."
+  },
+  {
+    "id": "source-greenhouse-airbnb",
+    "name": "Airbnb",
+    "url": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
+    "source_type": "technology_company",
+    "search_method": "api",
+    "reliability_score": 0.5,
+    "check_frequency_hours": 24,
+    "active": true,
+    "last_checked_at": null,
+    "notes": "Same Greenhouse API mechanism as source-greenhouse-stripe. Board token 'airbnb' — Airbnb is confirmed as a major Greenhouse user via search results, but this specific token wasn't individually fetch-verified from this sandbox (egress-restricted). Watch the first pipeline run; disable if it 404s and try 'airbnb' variants (e.g. a regional or brand-specific token) instead."
+  },
+  {
+    "id": "source-jobstreet-philippines",
+    "name": "JobStreet Philippines",
+    "url": "https://ph.jobstreet.com",
+    "source_type": "internship_platform",
+    "search_method": "manual",
+    "reliability_score": 0,
+    "check_frequency_hours": 24,
+    "active": false,
+    "last_checked_at": null,
+    "notes": "Cannot be added to the $0 automated pipeline: JobStreet Philippines has no public RSS feed or free API (confirmed via search) — every option found is a paid third-party scraper (e.g. Apify), which both costs money and risks violating JobStreet's terms of service. Left inactive and set to search_method 'manual' (no adapter reads this) as a documented placeholder rather than silently dropping the request. If you want this source, the honest options are: (a) check JobStreet manually yourself, or (b) accept paid scraping and move to the OPTIONAL_SCALE_UP.md path."
+  },
+  {
+    "id": "source-linkedin-jobs",
+    "name": "LinkedIn Jobs",
+    "url": "https://www.linkedin.com/jobs",
+    "source_type": "other",
+    "search_method": "manual",
+    "reliability_score": 0,
+    "check_frequency_hours": 24,
+    "active": false,
+    "last_checked_at": null,
+    "notes": "Same situation as JobStreet: LinkedIn has no public jobs RSS feed or free API for this use (confirmed via search) — third-party 'LinkedIn to RSS' generator services exist but scrape LinkedIn against its terms of service, which this project won't do even though some of those tools are themselves free. Left inactive as a documented placeholder. LinkedIn's official Jobs API is a gated partner/enterprise product, not available for a $0 personal project."
   }
 ]

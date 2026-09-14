@@ -364,6 +364,12 @@ making.
   sources/
     types.ts
     rss-adapter.ts
+    greenhouse-adapter.ts       -- public, unauthenticated Job Board API
+                                   (boards-api.greenhouse.io) for a specific
+                                   company's own board — a real, free,
+                                   ToS-respecting alternative to scraping a
+                                   platform like LinkedIn or JobStreet, which
+                                   expose neither a feed nor a public API
     registry.ts
 /scripts/
   run-pipeline.ts             -- CLI entry point, run by GitHub Actions

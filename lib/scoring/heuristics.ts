@@ -187,7 +187,10 @@ export function extractHeuristically(params: {
     applications_open = false;
   }
 
-  const locationMatch = text.match(/(?:location|based\s+in)[:\s]+([A-Za-z ,]+?)(?:\.|\n|$)/i);
+  // Includes "-" and "/" so common forms like "Remote - Philippines" or
+  // "Manila / Remote" resolve instead of silently matching nothing (a real
+  // gap: this pattern is how Greenhouse and many other boards phrase it).
+  const locationMatch = text.match(/(?:location|based\s+in)[:\s]+([A-Za-z ,/-]+?)(?:\.|\n|$)/i);
 
   return {
     title: params.title || null,
@@ -368,19 +371,16 @@ function buildReasoning(params: {
   const { profile, extraction, organizationScore, accessibilityScore, urgencyScore } = params;
   const parts: string[] = [];
 
-  parts.push(
-    `Heuristic match for a ${profile.year_level ?? ""} ${profile.degree ?? "business"} student interested in ${
-      profile.interests.slice(0, 2).join(" and ") || "business"
-    }.`.replace(/\s+/g, " ")
+  const matchedInterests = profile.interests.filter((interest) =>
+    extraction.tags.some((tag) => tag.toLowerCase().includes(interest.toLowerCase()))
   );
+  if (matchedInterests.length > 0) {
+    parts.push(`Matches your interest in ${matchedInterests.slice(0, 2).join(" and ")}.`);
+  }
 
-  if (organizationScore >= 75) parts.push("Organization is tagged as a reputable employer in this taxonomy.");
-  else if (organizationScore <= 40) parts.push("Organization reputation is unverified in the local tier list.");
+  if (organizationScore >= 75) parts.push("Recognized employer.");
+  if (accessibilityScore < 50) parts.push("Eligibility or location may limit access.");
+  if (urgencyScore >= 85) parts.push("Deadline is approaching.");
 
-  if (accessibilityScore < 50) parts.push("Eligibility or work-arrangement mismatch may limit accessibility.");
-  if (urgencyScore >= 85) parts.push("Deadline is very close.");
-
-  parts.push("(Rule-based score — see ARCHITECTURE.md §7; re-score with Claude for nuanced judgment.)");
-
-  return parts.join(" ");
+  return parts.length > 0 ? parts.join(" ") : "General fit based on role and location.";
 }
