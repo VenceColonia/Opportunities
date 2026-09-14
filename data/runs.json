@@ -50,5 +50,18 @@
     "items_needs_review": 0,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "ee280d25-44d9-4293-9c69-f6128e675685",
+    "run_type": "manual",
+    "started_at": "2026-09-14T06:43:26.076Z",
+    "completed_at": "2026-09-14T06:44:09.928Z",
+    "items_found": 940,
+    "items_new": 294,
+    "items_updated": 22,
+    "items_duplicate": 0,
+    "items_needs_review": 528,
+    "status": "success",
+    "error_log": null
   }
 ]
