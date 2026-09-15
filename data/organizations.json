@@ -1678,5 +1678,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "8952a461-4918-41bb-9fe3-139952ecac45",
+    "name": "OpenBase LLC",
+    "normalized_name": "openbase llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a4a8a548-c03e-4a0f-9434-96a7548096e3",
+    "name": "Nuffield Foundation Essential Employment Skills Fund 2026",
+    "normalized_name": "nuffield foundation essential employment skills fund 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "999bfef9-46df-4c10-a1b4-4e714749a069",
+    "name": "AFS Youth Assembly Impact Coordinator 2026",
+    "normalized_name": "afs youth assembly impact coordinator 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]

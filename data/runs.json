@@ -128,5 +128,18 @@
     "items_needs_review": 3,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "4c785150-c1bd-4297-aecd-a0aeba648f95",
+    "run_type": "scheduled",
+    "started_at": "2026-09-15T20:56:14.208Z",
+    "completed_at": "2026-09-15T20:56:17.472Z",
+    "items_found": 494,
+    "items_new": 3,
+    "items_updated": 10,
+    "items_duplicate": 0,
+    "items_needs_review": 6,
+    "status": "success",
+    "error_log": null
   }
 ]
