@@ -1608,5 +1608,75 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "c5197d11-4268-42c6-a9e4-7ad9ed8de0d3",
+    "name": "United Nations Young Professionals Programme (YPP)",
+    "normalized_name": "united nations young professionals programme ypp",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2a98446a-29b5-4c77-b590-693a838f909f",
+    "name": "Collective Mind Collaboration Fellows 2026–2027",
+    "normalized_name": "collective mind collaboration fellows 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "949fbd21-9eea-40ec-af97-8be27e046b5b",
+    "name": "Constellation Energy 2027 Summer Sustainability and Climate Strategy Internship",
+    "normalized_name": "constellation energy 2027 summer sustainability and climate strategy internship",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "6e571fd3-058b-4b4f-8b87-edaa699f7578",
+    "name": "Women in Foreign Affairs Mentorship Group 2026 with Alyse Nelson",
+    "normalized_name": "women in foreign affairs mentorship group 2026 with alyse nelson",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "e44f397c-646d-4b97-9518-8911008fb4ad",
+    "name": "Field Studies Council Youth Panel 2026",
+    "normalized_name": "field studies council youth panel 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0a6b83c8-881a-4d85-a2af-de673ccf1c05",
+    "name": "NASA Pathways Internship Program 2027",
+    "normalized_name": "nasa pathways internship program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0641d749-1e4c-40fe-a5cf-83b00d483eeb",
+    "name": "Citi Foundation Global Innovation Challenge 2026",
+    "normalized_name": "citi foundation global innovation challenge 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
