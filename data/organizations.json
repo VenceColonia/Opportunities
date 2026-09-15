@@ -1528,5 +1528,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "c143fb75-5f6f-4cd0-b904-326dc4dbd6b1",
+    "name": "Gusto, Inc.",
+    "normalized_name": "gusto incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "23b126b9-71ed-4f4e-8a42-68b5f67e3d2c",
+    "name": "Newberry Library Short-Term Fellowships 2027–28",
+    "normalized_name": "newberry library short term fellowships 2027 28",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "cec4217b-f2b5-45d1-b835-e6f708391653",
+    "name": "NASA Ames STEM Engagement & Mission Experience Internship 2027",
+    "normalized_name": "nasa ames stem engagement mission experience internship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "eb4f6df9-148c-4a7f-a251-deb2164657b7",
+    "name": "AfricaLics PhD Visiting Fellowship Programme 2027",
+    "normalized_name": "africalics phd visiting fellowship programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "be1a165a-f771-4c1a-a0b5-dc30df650549",
+    "name": "Leading for Humanity 2027",
+    "normalized_name": "leading for humanity 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "fd450b7c-98cb-4330-b559-fea9b0845e79",
+    "name": "Bloomberg Fellows Program 2026–2027 at Johns Hopkins",
+    "normalized_name": "bloomberg fellows program 2026 2027 at johns hopkins",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "cbf0cf2a-a659-454e-8bd2-939a578abaea",
+    "name": "HundrED and Khalifa Award Early Learning Impact 2026",
+    "normalized_name": "hundred and khalifa award early learning impact 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "81664321-0c6b-4c30-9e0c-2394447dd742",
+    "name": "Keeper Security",
+    "normalized_name": "keeper security",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
