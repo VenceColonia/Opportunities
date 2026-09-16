@@ -1748,5 +1748,15 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "80e48e25-4705-4177-8b33-d2f055a2e264",
+    "name": "Salesloft",
+    "normalized_name": "salesloft",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
