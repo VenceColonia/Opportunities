@@ -1708,5 +1708,45 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "105017f9-d274-4be3-928f-857f0787b87b",
+    "name": "SimpleTiger",
+    "normalized_name": "simpletiger",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d049b052-8eec-46fb-815c-201d8ce07991",
+    "name": "Schuman Challenge 2027",
+    "normalized_name": "schuman challenge 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "059d8b48-ed81-4a11-ba36-1b28bfceb258",
+    "name": "ESRC Studentship Funding 2027",
+    "normalized_name": "esrc studentship funding 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "233700d7-1e56-4209-8c6f-395774b77f42",
+    "name": "Inside Mastercard",
+    "normalized_name": "inside mastercard",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
