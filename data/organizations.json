@@ -1868,5 +1868,45 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "35980f92-d33c-49f5-8a1a-18213589ca2d",
+    "name": "Public Health Digital Communication Fellowship",
+    "normalized_name": "public health digital communication fellowship",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3a71acb9-4798-4484-92bb-7ddc1946511a",
+    "name": "EvalYouth Asia 2026 Core Group",
+    "normalized_name": "evalyouth asia 2026 core group",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c00eb8d9-8f45-4771-8bb2-365a076e3990",
+    "name": "Climate and Health Catalyst Awards 2026",
+    "normalized_name": "climate and health catalyst awards 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "00cb96d2-7bd8-4cb8-a06a-d6ef4bd5a355",
+    "name": "Stevens Initiative AI Ignite Lab 2026",
+    "normalized_name": "stevens initiative ai ignite lab 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
