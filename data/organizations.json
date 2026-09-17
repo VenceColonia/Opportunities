@@ -1908,5 +1908,55 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "82c6c074-4b28-45a1-8947-d651edbdf840",
+    "name": "Nuffield Medical Fellowships 2026 at the University of Oxford",
+    "normalized_name": "nuffield medical fellowships 2026 at the university of oxford",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "162f3258-93ef-4416-b4b3-7b6de0c5a014",
+    "name": "Resist Urgent Action Fund Grant 2026",
+    "normalized_name": "resist urgent action fund grant 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0675e2a5-bcb5-4335-bf33-4bbaeb90ad5d",
+    "name": "ESDC Internship 2027 in Brussels, Belgium",
+    "normalized_name": "esdc internship 2027 in brussels belgium",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3ee37694-dcb6-4118-9875-5abcfbfd4a93",
+    "name": "LawAI Seasonal Fellowships",
+    "normalized_name": "lawai seasonal fellowships",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "067e1fb4-5931-4f11-ada7-4c28de0c79a3",
+    "name": "Unearthodox Exploration Co-Lab 2027",
+    "normalized_name": "unearthodox exploration company lab 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
