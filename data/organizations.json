@@ -2148,5 +2148,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "0e201696-079a-4a45-88d2-b1b9029ae252",
+    "name": "Legion",
+    "normalized_name": "legion",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2d662069-8af4-45d3-8679-d35bec3ad632",
+    "name": "CGIAR++ PhD Scholarship 2026",
+    "normalized_name": "cgiar phd scholarship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
