@@ -2208,5 +2208,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "f75d4ffd-0772-47f4-918a-4b216737e476",
+    "name": "EBANX",
+    "normalized_name": "ebanx",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "85a31beb-0b36-46d5-94fb-e011fee3cb69",
+    "name": "MARC Impact Programme 2026",
+    "normalized_name": "marc impact programme 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "94b5ccf4-d074-4e85-a3a6-75022757bdda",
+    "name": "2026 Impact Grant",
+    "normalized_name": "2026 impact grant",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "76be6502-6230-425d-8e6a-e82c7c45da55",
+    "name": "FAPESP Young Investigator Grant for International Researchers 2026",
+    "normalized_name": "fapesp young investigator grant for international researchers 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2cf951a0-8803-46ed-aaa8-beb8e4e21e4b",
+    "name": "Global Futures Scholarships 2027 at the University of Manchester",
+    "normalized_name": "global futures scholarships 2027 at the university of manchester",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "dc6f81c9-e938-4ef5-8b7e-6337fb160b3f",
+    "name": "UK MEET Fellowship 2026 for Journalists and Digital Content Creators in Ghana and Nigeria",
+    "normalized_name": "uk meet fellowship 2026 for journalists and digital content creators in ghana and nigeria",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0c53f32d-f763-49b3-b026-ab352736ff05",
+    "name": "Google for Startups Immersion EMEA 2026",
+    "normalized_name": "google for startups immersion emea 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f170e89c-cfe7-4938-afa8-1fa30f533304",
+    "name": "Global Mental Health Fellowship Program 2026 Cohort 5",
+    "normalized_name": "global mental health fellowship program 2026 cohort 5",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
