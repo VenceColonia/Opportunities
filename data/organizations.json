@@ -2588,5 +2588,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "7b1f7b6e-440a-40dd-a271-2ce9fc876937",
+    "name": "Elemental Claims LLC",
+    "normalized_name": "elemental claims llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9d6ab87e-5aa4-455b-b4bd-76cb8de29825",
+    "name": "Neo Group",
+    "normalized_name": "neo group",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
