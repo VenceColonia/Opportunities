@@ -2488,5 +2488,95 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "0e845891-2a47-4e6c-948c-45434bf4da72",
+    "name": "EA Funds Grants",
+    "normalized_name": "ea funds grants",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "137a3a6b-a0cb-4c9b-b545-211da18efb2d",
+    "name": "NIKE Global Sustainability Graduate Internship 2027",
+    "normalized_name": "nike global sustainability graduate internship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a3910ce9-0d26-4d3b-87e3-d8cc1125d4ca",
+    "name": "Equality Fund Journalism Fellowship 2026",
+    "normalized_name": "equality fund journalism fellowship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "423841fe-005c-4e28-b698-9bdd27f3412b",
+    "name": "Sutton Trust 2026 Programmes",
+    "normalized_name": "sutton trust 2026 programmes",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8d5baa04-ff58-449a-a222-4f15ff18edce",
+    "name": "Become a Young European Ambassador",
+    "normalized_name": "become a young european ambassador",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "cc9e8abe-9bc9-4e24-8aa0-faf0f409363a",
+    "name": "Impact100 DC Fellowship 2026",
+    "normalized_name": "impact100 dc fellowship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a832be95-bae3-44aa-bdf0-cbde16a8e03a",
+    "name": "TradeRoots Africa 2026–2027",
+    "normalized_name": "traderoots africa 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9b5cc544-a798-4dfb-8acb-ca03d9391afa",
+    "name": "University of Cambridge MPhil in Conservation Leadership 2027",
+    "normalized_name": "university of cambridge mphil in conservation leadership 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ab249d99-6322-4056-b60e-16b90eec3408",
+    "name": "The Africa Institute Senior and Postdoctoral Fellowships 2027 in UAE",
+    "normalized_name": "the africa institute senior and postdoctoral fellowships 2027 in uae",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
