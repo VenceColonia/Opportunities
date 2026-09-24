@@ -2708,5 +2708,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "7b66b0b4-5e8d-42ba-866d-5efa46fe05bc",
+    "name": "Oportun",
+    "normalized_name": "oportun",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a17bf5c8-79b2-4b9d-ac9a-ac90de7f03b2",
+    "name": "BBE Marketing Inc",
+    "normalized_name": "bbe marketing incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
