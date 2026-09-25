@@ -596,5 +596,18 @@
     "items_needs_review": 4,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "dad136c4-df46-4b3f-ac2b-faff1167788b",
+    "run_type": "scheduled",
+    "started_at": "2026-09-25T03:47:59.316Z",
+    "completed_at": "2026-09-25T03:48:02.544Z",
+    "items_found": 523,
+    "items_new": 6,
+    "items_updated": 13,
+    "items_duplicate": 0,
+    "items_needs_review": 5,
+    "status": "success",
+    "error_log": null
   }
 ]

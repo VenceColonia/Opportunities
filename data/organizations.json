@@ -2828,5 +2828,55 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "bdc3addf-321d-44d9-af88-f7a61f95e83b",
+    "name": "Kobie Marketing",
+    "normalized_name": "kobie marketing",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1505e9f5-6d36-4d1e-8de7-be274debfcea",
+    "name": "Veeam Software",
+    "normalized_name": "veeam software",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "6cddb1e8-d0aa-41e1-8188-d4178e67711a",
+    "name": "Belkins",
+    "normalized_name": "belkins",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "fa73093c-e42c-457e-9f91-5d4d1494907a",
+    "name": "INFUSE",
+    "normalized_name": "infuse",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ca2ce93a-7467-469e-a0f2-24402f373632",
+    "name": "Xometry Europe",
+    "normalized_name": "xometry europe",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
