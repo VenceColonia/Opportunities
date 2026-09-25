@@ -2878,5 +2878,75 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "fe927df2-9787-4242-bf37-f2950e148005",
+    "name": "Iterable",
+    "normalized_name": "iterable",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "de773650-38ef-42b4-9090-76d6c101e331",
+    "name": "Asana",
+    "normalized_name": "asana",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "792de8d2-5b7f-4a26-ae55-febf31ef632c",
+    "name": "University of Erfurt CEREB PhD Scholarships 2027 in Germany",
+    "normalized_name": "university of erfurt cereb phd scholarships 2027 in germany",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "39edcbaf-2144-4c81-8251-77664f598bf6",
+    "name": "Policy & Monitoring Analyst Programme 2026",
+    "normalized_name": "policy monitoring analyst programme 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "7208fac0-2925-4faa-8ee9-57006c2393fd",
+    "name": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT",
+    "normalized_name": "12 fully funded africa climate collaborative phd fellowships 2027 at uct",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "376db54d-bdaf-4e41-8d1b-1d4966ad985a",
+    "name": "UNDP Ethiopia Call for Proposals 2026",
+    "normalized_name": "undp ethiopia call for proposals 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c48f744d-2d08-488a-b116-79aa9312d46e",
+    "name": "Internet Society Fellowship Program 2027",
+    "normalized_name": "internet society fellowship program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
