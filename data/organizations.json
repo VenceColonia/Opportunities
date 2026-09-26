@@ -3028,5 +3028,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "1dcdf3ce-6694-46b7-bcb1-7b1e49877452",
+    "name": "Dremio",
+    "normalized_name": "dremio",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b475d0d8-2dc6-4ac7-aa43-65368e8a8ae4",
+    "name": "Doximity",
+    "normalized_name": "doximity",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5625d2b4-b8f6-48a5-a13c-801e0ec99a5f",
+    "name": "Ping Identity",
+    "normalized_name": "ping identity",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
