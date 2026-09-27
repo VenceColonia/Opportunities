@@ -20,7 +20,7 @@
     "reliability_score": 0.55,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:37.204Z",
+    "last_checked_at": "2026-09-27T11:32:45.465Z",
     "notes": "We Work Remotely's per-category RSS feed for Management and Finance roles. Confirmed live and working via an actual pipeline run (2026-09-13)."
   },
   {
@@ -32,7 +32,7 @@
     "reliability_score": 0.55,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:37.624Z",
+    "last_checked_at": "2026-09-27T11:32:45.954Z",
     "notes": "Same source/mechanism as source-wwr-management-finance, Sales and Marketing category instead. Also confirmed live via the same pipeline run."
   },
   {
@@ -44,7 +44,7 @@
     "reliability_score": 0.45,
     "check_frequency_hours": 24,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:38.118Z",
+    "last_checked_at": "2026-09-27T11:32:46.722Z",
     "notes": "Global youth-opportunity aggregator (scholarships, fellowships, competitions, internships). Confirmed live and working via an actual pipeline run (2026-09-13). Expect a global mix rather than Philippines-specific or exclusively business-focused postings; the heuristic scorer's accessibility/relevance dimensions should down-rank poor fits rather than needing this source pre-filtered."
   },
   {
@@ -68,7 +68,7 @@
     "reliability_score": 0.5,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:38.290Z",
+    "last_checked_at": "2026-09-27T11:32:47.197Z",
     "notes": "Another We Work Remotely category feed, confirmed documented the same way as the other two WWR sources already proven live. Product roles touch strategy/data/ops work relevant to business students."
   },
   {
@@ -80,7 +80,7 @@
     "reliability_score": 0.5,
     "check_frequency_hours": 12,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:38.535Z",
+    "last_checked_at": "2026-09-27T11:32:47.455Z",
     "notes": "Another confirmed WWR category feed — client management / customer success roles, relevant to the profile's Client Management interest."
   },
   {
@@ -92,7 +92,7 @@
     "reliability_score": 0.6,
     "check_frequency_hours": 24,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:39.003Z",
+    "last_checked_at": "2026-09-27T11:32:48.103Z",
     "notes": "Greenhouse's public, unauthenticated Job Board API (boards-api.greenhouse.io) — confirmed real and documented, unlike LinkedIn/JobStreet which offer no such thing (see the two disabled placeholders below). Board token 'stripe' confirmed via search results explicitly describing Stripe's Greenhouse board, including a 'Global Operations' department. Uses lib/sources/greenhouse-adapter.ts, not the RSS adapter."
   },
   {
@@ -104,7 +104,7 @@
     "reliability_score": 0.5,
     "check_frequency_hours": 24,
     "active": true,
-    "last_checked_at": "2026-09-27T04:03:39.905Z",
+    "last_checked_at": "2026-09-27T11:32:48.952Z",
     "notes": "Same Greenhouse API mechanism as source-greenhouse-stripe. Board token 'airbnb' — Airbnb is confirmed as a major Greenhouse user via search results, but this specific token wasn't individually fetch-verified from this sandbox (egress-restricted). Watch the first pipeline run; disable if it 404s and try 'airbnb' variants (e.g. a regional or brand-specific token) instead."
   },
   {
