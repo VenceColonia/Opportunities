@@ -3188,5 +3188,45 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "c2bf745b-5dfb-49e8-8f6b-bc2aa0ebcc77",
+    "name": "LabStart Fellowship 2027",
+    "normalized_name": "labstart fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f57adbb2-eba6-485e-8aa3-020af76d6454",
+    "name": "SpaceX Intern Program 2026",
+    "normalized_name": "spacex intern program 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "979e9db7-fcbf-4f34-bf0a-298d227c8aa6",
+    "name": "Lynette A. Turner Pathways to Consulting Fellowship",
+    "normalized_name": "lynette a turner pathways to consulting fellowship",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "71e01407-00dc-4639-99b8-48c1bc24bb78",
+    "name": "SAIIA Africa Youth Portal and Research Programme 2027",
+    "normalized_name": "saiia africa youth portal and research programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
