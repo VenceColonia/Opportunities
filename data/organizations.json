@@ -3308,5 +3308,55 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "b1cc354c-45d1-425b-97ba-6a55c8551b21",
+    "name": "Manaferra",
+    "normalized_name": "manaferra",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3d0c2f16-5e77-4ab1-97a9-22902ae85287",
+    "name": "Doctoral Programme in Economics and Finance",
+    "normalized_name": "doctoral programme in economics and finance",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "fbab68cf-d9e5-4885-ae8a-dd246e4b4240",
+    "name": "2027–2028 APAICS Congressional Fellowship",
+    "normalized_name": "2027 2028 apaics congressional fellowship",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "86f88750-d8bc-455b-80b8-74d9b8da2c1d",
+    "name": "Institute for the Study of War (ISW) Spring 2027 Internships",
+    "normalized_name": "institute for the study of war isw spring 2027 internships",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "71b86552-d93d-4fb6-a9d1-3b72e2502de4",
+    "name": "Zanda Health",
+    "normalized_name": "zanda health",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
