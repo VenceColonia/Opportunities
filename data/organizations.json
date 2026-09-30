@@ -3548,5 +3548,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "3c5e23e9-0a00-4b55-beb4-88c4119ee972",
+    "name": "Card Conduit",
+    "normalized_name": "card conduit",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "6258d678-f159-429e-aaa4-413f609a0984",
+    "name": "Canada Graduate Research Scholarship – Doctoral Program",
+    "normalized_name": "canada graduate research scholarship doctoral program",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "85105c7e-aba5-4da4-ad81-c68dc3d02328",
+    "name": "Shout About Us",
+    "normalized_name": "shout about us",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
