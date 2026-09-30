@@ -3658,5 +3658,65 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "a10d445f-2a7c-4469-b35e-0e1321b2569b",
+    "name": "Orchard",
+    "normalized_name": "orchard",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "147928d8-1837-4ae6-bf8a-38aa8e847dbd",
+    "name": "MAXMINDS 2.0 Max Planck Initiative for Researchers At-Risk 2026/27",
+    "normalized_name": "maxminds 2 0 max planck initiative for researchers at risk 2026 27",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "38d72209-7ce7-4c0e-88b6-3e4d80d74ef8",
+    "name": "Harvard Crisis Leadership Summits for Preparedness 2026–2027",
+    "normalized_name": "harvard crisis leadership summits for preparedness 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8cb5adce-7bd4-4e63-b7f8-bacb7f6498f2",
+    "name": "CIHR Health System Impact Fellowship 2027",
+    "normalized_name": "cihr health system impact fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2777a92f-6b23-447a-a34e-1e8f3ee587dd",
+    "name": "King’s Commonwealth Fellowship Programme 2027",
+    "normalized_name": "king s commonwealth fellowship programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b60ddbf2-5660-4ab2-a8f3-e4777a81bb72",
+    "name": "MOPGA 2027 Visiting Fellowship in France for Early-Career International Researchers",
+    "normalized_name": "mopga 2027 visiting fellowship in france for early career international researchers",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
