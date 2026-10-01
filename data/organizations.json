@@ -3718,5 +3718,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "a01c8400-d42a-47eb-85be-31e3c296363e",
+    "name": "Anima Mundi",
+    "normalized_name": "anima mundi",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9c498446-1089-4f94-8be1-204212bb7d85",
+    "name": "Council of Europe HEY Environment Course 2026",
+    "normalized_name": "council of europe hey environment course 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1b7430a1-6696-42b1-8f9b-8fce326eff84",
+    "name": "APSA Diversity Fellowship Program 2027–2028",
+    "normalized_name": "apsa diversity fellowship program 2027 2028",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
