@@ -2235,13 +2235,14 @@
     "opportunity_type": "marketing",
     "tags": [
       "Marketing",
+      "Strategy",
       "Technology"
     ],
-    "description": "OnTheGoSystems: Head of Marketing\n\nHeadquarters: Remote\n    \nURL: http://onthegosystems.com\n\n\nAt OnTheGoSystems, the company behind WPML, Toolset, and PTC, we’re looking for a hands-on, AI-native marketer who wants to take ownership of marketing and help shape how we do it.\nAI is a core part of how we work. We’re looking for someone who already uses AI agents, automation, integrations, and structured workflows to get real marketing work done – and can show us what they’ve achieved with them.\nThis is also a technical role. We’ve built our own analytics, newsletter, and marketing automation systems, so you should be comfortable working with technical tools, setting up a local development environment, and using tools like Claude to help you navigate technical tasks.\nYou won’t be joining an established marketing team or following a fixed playbook. You’ll have the freedom to talk to our clients, understand our business, find the strongest opportunities, and decide what marketing should focus on next.\nWhat You’ll Work On\nSeveral areas currently need an owner:\nSEO / GEO / AEO\nContent and collaborations with partners, authors, and bloggers\nMarketing to existing customers, including retention and expansion\nPaid advertising\nClient analytics\nOther marketing opportunities you identify\nYou’ll work hands-on, from identifying an opportunity through execution, measurement, and improvement.\nYour First Weeks\nWe don’t expect you to arrive with all the answers. We want you to understand the business first and then decide what should be done.\nYou’ll:\nLearn our products, industry, competitors, and ecosystem.\nSpeak directly with customers to understand their needs and how they see our products.\nLook at our data, existing activities, and opportunities.\nIdentify where marketing can have the biggest impact.\nBuild a concrete plan for the areas you propose to own and explain why.\nWhat We’re Looking For\nYou already use AI agents, automation, and advanced AI workflows in your everyday work and c",
+    "description": "OnTheGoSystems: Head of Marketing\n\nHeadquarters: Remote\n    \nURL: http://onthegosystems.com\n\n\nAt OnTheGoSystems (creators of WPML and PTC), content is a key driver of how hundreds of thousands of people discover, understand, and choose our translation and localization products.\nAI is already a core part of how we work. We use it to move faster, automate work, research, analyze, build, and improve our products and processes.\nWe’re looking for a hands-on marketer who works the same way. We’re looking for someone who uses AI agents, automation, integrations, and structured workflows to get real marketing work done – and can show us the results.\nYou won’t be joining to follow a fixed marketing playbook. You’ll have the opportunity to bring your ideas and help shape how marketing works at OTGS, reaching hundreds of thousands of users worldwide.\nWhat You’ll Do\nFind marketing and growth opportunities and turn them into concrete actions.\nWork hands-on across content, SEO/GEO, email, product marketing, acquisition, conversion, and other areas where you can make an impact.\nUse AI agents and automation as a core part of your everyday work.\nBuild and improve workflows that help us achieve more with AI.\nUse data and business results to understand what works, what doesn’t, and what we should improve.\nWork directly with product, development, and support teams to understand our products, customers, and opportunities.\nTake ownership from identifying an opportunity through execution, measurement, and improvement.\nWhat We’re Looking For\nYou already use AI agents, automation, or advanced AI workflows in your everyday work, own the quality of what they produce, and can show us the results.\nYou adapt quickly when priorities change and can work effectively even when not everything is clearly defined from the beginning.\nYou combine strategic thinking with strong hands-on execution. You can identify what needs to be done and turn ideas into action.\nYou understand how marketing connects to b",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing-1",
+    "application_url": "https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -2263,17 +2264,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing",
     "dedup_hash": "7265f8f7c0c8cd9fddc7fff07bc8d3b77368b2b32f6df9b1e2dead8d73c64c42",
-    "raw_content_hash": "b7191ad1489b79e33de252db46d909bdc3d6c70f334bd6cdf0ba6b48a0c64b57",
+    "raw_content_hash": "3b6badfe32b67daa63cabcd53d05bf7bc140f50537f3a50ab31a3a2237573b58",
     "status": "active",
     "date_discovered": "2026-09-13T18:27:38.803Z",
-    "date_last_checked": "2026-10-01T12:35:21.716Z",
+    "date_last_checked": "2026-10-01T22:24:45.005Z",
     "date_last_updated": "2026-09-13T18:27:38.803Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing",
         "first_seen_at": "2026-09-13T18:27:38.803Z",
-        "last_seen_at": "2026-10-01T04:33:30.104Z"
+        "last_seen_at": "2026-10-01T22:24:45.005Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
@@ -2294,20 +2295,20 @@
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 70,
+        "relevance_score": 80,
         "career_value_score": 40,
         "organization_score": 40,
-        "student_fit_score": 60,
+        "student_fit_score": 70,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 48,
+        "overall_score": 51,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "General fit based on role and location.",
+        "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:21.716Z"
+        "scored_at": "2026-10-01T22:24:45.005Z"
       }
     ]
   },
@@ -12083,7 +12084,7 @@
     "location": "Dublin",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -12108,17 +12109,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "dedup_hash": "bc2d06ca2e0564c94ecbbf05cd61d80953463e0691d4df5d5cc09a6ab1bf5762",
-    "raw_content_hash": "b7f5fa075b480277375ad6ea456f877c36592e3968686e016b0bc3f9ac7b9b9f",
+    "raw_content_hash": "3684d3a9b1306105a2723c828ae348c30dd66a4f4fd3897bb5ef19df769c6a4b",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.372Z",
-    "date_last_checked": "2026-10-01T12:35:25.034Z",
+    "date_last_checked": "2026-10-01T22:24:47.893Z",
     "date_last_updated": "2026-09-14T06:43:29.372Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
         "first_seen_at": "2026-09-14T06:43:29.372Z",
-        "last_seen_at": "2026-10-01T04:33:32.370Z"
+        "last_seen_at": "2026-10-01T22:24:47.893Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -12152,7 +12153,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.034Z"
+        "scored_at": "2026-10-01T22:24:47.893Z"
       }
     ]
   },
@@ -12282,14 +12283,14 @@
     "raw_content_hash": "fad693f716d39976a49704cdfec1aff0cab43eb736d701b59224fc7b6c0b47de",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.496Z",
-    "date_last_checked": "2026-10-01T12:35:25.096Z",
+    "date_last_checked": "2026-10-01T22:24:47.969Z",
     "date_last_updated": "2026-09-14T06:43:29.496Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172503",
         "first_seen_at": "2026-09-14T06:43:29.496Z",
-        "last_seen_at": "2026-10-01T12:35:25.096Z"
+        "last_seen_at": "2026-10-01T22:24:47.969Z"
       }
     ],
     "updates": [
@@ -12317,7 +12318,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Data Analytics.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.096Z"
+        "scored_at": "2026-10-01T22:24:47.969Z"
       }
     ]
   },
@@ -17304,7 +17305,7 @@
   {
     "id": "e468f79d-b283-4b46-a430-73be178706aa",
     "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
-    "title": "Account Executive, SMB (Grower)",
+    "title": "Account Executive, SMB Grower",
     "normalized_title": "account executive smb grower",
     "opportunity_type": "operations",
     "tags": [
@@ -17317,7 +17318,7 @@
     "location": "Chicago",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8156996",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=7576999",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -17343,10 +17344,10 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8156996",
     "dedup_hash": "04b8d955822e52a1cb4e7393154c73da714b5201e4b167d4ec82fe51160355a0",
-    "raw_content_hash": "aaeae4b0e9a024ceb13d06da331cb428e8043d4fbe27681f7143eb6a2887e926",
+    "raw_content_hash": "55bd85b8864e003ea2e5c33307c557d13c1b80abb6ef73152793ff2403102e0b",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:31.566Z",
-    "date_last_checked": "2026-10-01T12:35:25.420Z",
+    "date_last_checked": "2026-10-01T22:24:48.396Z",
     "date_last_updated": "2026-09-14T06:43:31.566Z",
     "sources": [
       {
@@ -17359,7 +17360,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=7576999",
         "first_seen_at": "2026-09-22T03:40:46.384Z",
-        "last_seen_at": "2026-10-01T12:35:25.359Z"
+        "last_seen_at": "2026-10-01T22:24:48.396Z"
       }
     ],
     "updates": [
@@ -17387,7 +17388,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.420Z"
+        "scored_at": "2026-10-01T22:24:48.396Z"
       }
     ]
   },
@@ -17732,8 +17733,8 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Dublin\n\nDepartment: 1185 Account Executives (EMEA)\n\n<h2 id=&quot;who-we-are&quot;>Who we are</h2> <h3 id=&quot;about-stripe&quot;>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3 id=&quot;about-the-team&quot;>About the team</h3> <p>The Startup SaaS Platform team works with European startups in one of Stripe’s must-win segments. At Stripe, SaaS platforms are companies that use Stripe to embed payments and make financial services a core part of their product. Their partnership with Stripe is vital to their business success. Examples include Shopify, Mindbody, and Lightspeed.</p> <p>SaaS platforms are a global priority for Stripe. Our team identifies and develops Stripe’s future strategic accounts in Europe. We identify and partner with high-potential companies, helping them leverage Stripe’s solutions to better support their users, scale globally, and create new revenue streams through monetisation of payments and financial services.</p> <h2 id=&quot;what-youll-do&quot;>What you&#39;ll do</h2> <p>As a Grower Account Executive on the Startup SaaS Platforms team, you’ll drive Stripe’s future growth through account expansion and client retention.</p> <p>You’ll advise businesses on how to optimise their operations using Stripe solutions. You’ll help users understand how Stripe’s modern financial infrastructure supports their growth ambitions and provides a competitive edge for their business or product.</p> <h3 id=&quot;responsibilities&quot;>Responsibilities</h3> <ul> <li>Directly manage and cu",
-    "location": "Dublin",
+    "description": "Location: Dublin or London\n\nDepartment: 1185 Account Executives (EMEA)\n\n<h2 id=&quot;who-we-are&quot;>Who we are</h2> <h3 id=&quot;about-stripe&quot;>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3 id=&quot;about-the-team&quot;>About the team</h3> <p>The Startup SaaS Platform team works with European startups in one of Stripe’s must-win segments. At Stripe, SaaS platforms are companies that use Stripe to embed payments and make financial services a core part of their product. Their partnership with Stripe is vital to their business success. Examples include Shopify, Mindbody, and Lightspeed.</p> <p>SaaS platforms are a global priority for Stripe. Our team identifies and develops Stripe’s future strategic accounts in Europe. We identify and partner with high-potential companies, helping them leverage Stripe’s solutions to better support their users, scale globally, and create new revenue streams through monetisation of payments and financial services.</p> <h2 id=&quot;what-youll-do&quot;>What you&#39;ll do</h2> <p>As a Grower Account Executive on the Startup SaaS Platforms team, you’ll drive Stripe’s future growth through account expansion and client retention.</p> <p>You’ll advise businesses on how to optimise their operations using Stripe solutions. You’ll help users understand how Stripe’s modern financial infrastructure supports their growth ambitions and provides a competitive edge for their business or product.</p> <h3 id=&quot;responsibilities&quot;>Responsibilities</h3> <ul> <li>Directly man",
+    "location": "Dublin or London",
     "country": null,
     "work_arrangement": "unknown",
     "application_url": "https://stripe.com/jobs/search?gh_jid=8119498",
@@ -17758,17 +17759,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8119498",
     "dedup_hash": "5c9828976fdc25ca4edd580ad12851543dec24a071881ee03576351f4c56fada",
-    "raw_content_hash": "7bb04582b1c5bfa5bdd0512bab52eedc656a5f4eb0005e1a735a7d051adc7db8",
-    "status": "needs_review",
+    "raw_content_hash": "8785a5e74f429d01edbaa9991083528678f2e65e037e7cfc9357ac7b18d13add",
+    "status": "updated",
     "date_discovered": "2026-09-14T06:43:31.665Z",
-    "date_last_checked": "2026-09-14T06:43:31.665Z",
-    "date_last_updated": "2026-09-14T06:43:31.665Z",
+    "date_last_checked": "2026-10-01T22:24:48.560Z",
+    "date_last_updated": "2026-10-01T22:24:48.560Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8119498",
         "first_seen_at": "2026-09-14T06:43:31.665Z",
-        "last_seen_at": "2026-09-14T06:43:31.665Z"
+        "last_seen_at": "2026-10-01T22:24:48.560Z"
       }
     ],
     "updates": [
@@ -17778,6 +17779,13 @@
         "old_value": null,
         "new_value": null,
         "detected_at": "2026-09-14T06:43:31.665Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Dublin",
+        "new_value": "Dublin or London",
+        "detected_at": "2026-10-01T22:24:48.560Z"
       }
     ],
     "scores": [
@@ -17796,7 +17804,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-14T06:43:31.665Z"
+        "scored_at": "2026-10-01T22:24:48.560Z"
       }
     ]
   },
@@ -26341,13 +26349,14 @@
     "opportunity_type": "operations",
     "tags": [
       "Marketing",
-      "Operations"
+      "Operations",
+      "Entrepreneurship"
     ],
-    "description": "Location: Mexico City \n\nDepartment: 3313 SDC - Financial Crimes\n\n<h2>Who we are</h2> <h3>About Stripe</h3> <p>At Stripe, our Mexico City office is a vibrant hub at the forefront of our mission to reshape the financial landscape for businesses worldwide. Our team prioritizes collaboration, innovation, and excellence. As a member of the Mexico City team, you&#39;ll be part of a mission-driven community dedicated to enhancing the global economy and increasing the GDP of the internet. <br><br>We strive for excellence by creating with craft and beauty, while having fun and celebrating our successes together.We cultivate a culture of collaboration, inclusivity and support where every team member’s voice matters. Our commitment shines through as we handle over a million support cases each year, empowering our users not just to solve problems but to achieve their goals.</p> <h3>About the team</h3> <p><span style=&quot;font-weight: 400;&quot;>Did you know that only around 4% of the world’s GDP comes from internet commerce? At Stripe, we believe that this represents a future with almost limitless potential for innovation, creativity, and global prosperity. While the promise of a global online economy is palpable, it comes with significant risk. Each day, bad actors disrupt the trust and safety of the internet and increase the barrier to entry for online businesses. The Financial Crimes team ensures that our platform remains safe, that prohibited parties are not allowed to utilize our services, and that we identify bad actors engaging in money laundering or other financial crimes.&nbsp;</span></p> <h2>What you’ll do</h2> <p><span style=&quot;font-weight: 400;&quot;>We&#39;re looking for someone who is passionate about fighting financial crimes and solving the puzzle of investigations, is naturally curious, and is comfortable operating in ambiguity and finding creative solutions. You&#39;ll be responsible for conducting investigations and making account-level judgments and reco",
-    "location": "Mexico City",
+    "description": "Location: Bangalore \n\nDepartment: 3313 SDC - Financial Crimes\n\n<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p><span style=&quot;font-weight: 400;&quot;>Did you know that only around 4% of the world’s GDP comes from internet commerce? At Stripe, we believe that this represents a future with almost limitless potential for innovation, creativity and global prosperity. While the promise of a global online economy is palpable, it doesn’t come without significant risk. Each day, bad actors disrupt the trust and safety of the internet and increase the barrier of entry for online businesses. The Financial Crimes team ensures that our platform remains safe, that prohibited parties are not allowed to utilize our services, and that we identify bad actors engaging in money laundering or other financial crimes. </span></p> <h2>What you’ll do</h2> <p><span style=&quot;font-weight: 400;&quot;>We are looking for someone who is passionate about fighting financial crimes and solving the puzzle of investigations, is naturally curious, and is comfortable operating in ambiguity and finding creative solutions. You will be responsible for conducting investigations and making account-level judgments and recommendations for regulatory reporting. You will be confident in looking through data, assessing various indicators, and making judgements on your findings.</span></p> <p><span style=&quot;font-weight: 400;&quot;>The right ca",
+    "location": "Bangalore",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=7202953",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8102597",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -26371,17 +26380,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8102597",
     "dedup_hash": "48a59656c7ab9fee92f23945fecc748cffd992963b0c07a634f05e25793a8691",
-    "raw_content_hash": "caf32053973e89d4a3508e56ee46fa5b21a912e43b3be9b88367f8d20182f0fa",
+    "raw_content_hash": "d7f42fd07aac8471c3a8496aee2fc4b37cd02649792f930571f0ab4c5bbb4b74",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:39.666Z",
-    "date_last_checked": "2026-10-01T12:35:25.568Z",
-    "date_last_updated": "2026-10-01T12:35:25.568Z",
+    "date_last_checked": "2026-10-01T22:24:48.893Z",
+    "date_last_updated": "2026-10-01T22:24:48.893Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8102597",
         "first_seen_at": "2026-09-14T06:43:39.666Z",
-        "last_seen_at": "2026-10-01T04:33:33.056Z"
+        "last_seen_at": "2026-10-01T22:24:48.893Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -26852,25 +26861,32 @@
         "old_value": "Bangalore",
         "new_value": "Mexico City",
         "detected_at": "2026-10-01T12:35:25.568Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Mexico City",
+        "new_value": "Bangalore",
+        "detected_at": "2026-10-01T22:24:48.893Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 70,
+        "relevance_score": 80,
         "career_value_score": 40,
         "organization_score": 40,
         "student_fit_score": 70,
         "accessibility_score": 70,
         "urgency_score": 20,
-        "overall_score": 52,
+        "overall_score": 53,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.568Z"
+        "scored_at": "2026-10-01T22:24:48.893Z"
       }
     ]
   },
@@ -27467,11 +27483,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote\n\nDepartment: 3513 Core Product Partnerships\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Strategic Partnerships team develops and manages relationships with large partners that enable Stripe&#39;s product strategy and deliver new capabilities to Stripe users. Our team executes on high-impact, cross-functional initiatives across new products, geographic expansion, user advocacy, and policy. These partnerships have a significant impact on Stripe and the products used by millions of our users.</p> <p>We&#39;re looking for a senior member to join our team to develop new partnerships with our largest users and strategic partners, and drive critical initiatives that will be foundational for Stripe. A successful candidate will have significant experience delivering complex deal work, creating and driving strategy, working with cross-functional teams to launch new initiatives, and initiating first-of-a-kind partnerships. We&#39;re looking for someone who exhibits a strong sense of ownership, performs at a senior level, drives to have an impact, and has an entrepreneurial spirit.</p> <h3><strong style=&quot;font-size: 14px;&quot;>What you’ll do</strong></h3> <h3><strong>Responsibilities</strong></h3> <ul> <li>Evaluate and develop the business case to support Stripe’s product and engineering investment in new s",
+    "description": "Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote\n\nDepartment: 3513 Core Product Partnerships\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Strategic Partnerships team develops and manages relationships with large partners that enable Stripe&#39;s product strategy and deliver new capabilities to Stripe users. Our team executes on high-impact, cross-functional initiatives across new products, geographic expansion, user advocacy, and policy. These partnerships have a significant impact on Stripe and the products used by millions of our users.</p> <p>We&#39;re looking for a senior member to join our team to develop new partnerships with our largest users and strategic partners, and drive critical initiatives that will be foundational for Stripe. A successful candidate will have significant experience delivering complex deal work, creating and driving strategy, working with cross-functional teams to launch new initiatives, and initiating first-of-a-kind partnerships. We&#39;re looking for someone who exhibits a strong sense of ownership, performs at a senior level, drives to have an impact, and has an entrepreneurial spirit.</p> <h3><strong style=&quot;font-size: 14px;&quot;>What you’ll do</strong></h3> <h3><strong>Responsibilities</strong></h3> <ul> <li>Evaluate and develop the business case to support Stripe’s product and engineering investme",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=7973002",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8094869",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -27498,10 +27514,10 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=7973002",
     "dedup_hash": "eda3cbb9a8dd5b4ccc248c552dbc156fedfad3c30f341c635f11c49c019625cc",
-    "raw_content_hash": "d64d026a4f0c1715c9175e961ccf8f07b94cd8353a68a9710313d2ce1721d23b",
+    "raw_content_hash": "2edf846ace03e9fb300c7e1ea1b0a005d4e439cfe5842032e02452364d60ede2",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:40.471Z",
-    "date_last_checked": "2026-10-01T12:35:25.627Z",
+    "date_last_checked": "2026-10-01T22:24:49.053Z",
     "date_last_updated": "2026-09-14T06:43:40.471Z",
     "sources": [
       {
@@ -27514,7 +27530,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8094869",
         "first_seen_at": "2026-09-14T06:43:40.510Z",
-        "last_seen_at": "2026-10-01T04:33:33.134Z"
+        "last_seen_at": "2026-10-01T22:24:49.053Z"
       }
     ],
     "updates": [
@@ -27542,7 +27558,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.627Z"
+        "scored_at": "2026-10-01T22:24:49.053Z"
       }
     ]
   },
@@ -30088,11 +30104,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: United States\n\nDepartment: 4892 Risk Operations Enablement\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Risk PMO team protects Stripe’s revenue and drives cross-functional strategy for company-level and org-level priorities. As Stripe operates across an increasingly complex and fast-moving global regulatory environment, one of our most important functions is ensuring that our largest, most strategic users can grow with us—compliantly, confidently, and at speed.</p> <p>We sit at the intersection of Legal, Compliance, Engineering, Product, Data Science, and GTM—serving as the bridge between teams coordinating massive programs with global, wide-reaching impact. We build durable systems that enable strong collaboration across functions and seamless experiences for our users.</p> <p>If you&#39;re energized by high-stakes, ambiguous problems and thrive on building programs from scratch in environments where the rules are still being written—we want to hear from you.</p> <h2><strong>What you’ll do</strong></h2> <p>You will define, own, and execute program strategies for large-scale regulatory initiatives, operating with significant autonomy across a portfolio of global projects.</p> <p>This is a highly visible, senior individual contributor (IC) role. While you will influence senior leadership and set strategic direction, you are also",
-    "location": "United States",
+    "description": "Location: Dublin, Ireland\n\nDepartment: 4892 Risk Operations Enablement\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Risk PMO team protects Stripe’s revenue and drives cross-functional strategy for company-level and org-level priorities. As Stripe operates across an increasingly complex and fast-moving global regulatory environment, one of our most important functions is ensuring that our largest, most strategic users can grow with us—compliantly, confidently, and at speed.</p> <p>We sit at the intersection of Legal, Compliance, Engineering, Product, Data Science, and GTM—serving as the bridge between teams coordinating massive programs with global, wide-reaching impact. We build durable systems that enable strong collaboration across functions and seamless experiences for our users.</p> <p>If you&#39;re energized by high-stakes, ambiguous problems and thrive on building programs from scratch in environments where the rules are still being written—we want to hear from you.</p> <h2><strong>What you’ll do</strong></h2> <p>You will define, own, and execute program strategies for large-scale regulatory initiatives, operating with significant autonomy across a portfolio of global projects.</p> <p>This is a highly visible, senior individual contributor (IC) role. While you will influence senior leadership and set strategic direction, you are al",
+    "location": "Dublin, Ireland",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8158082",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8209641",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -30119,11 +30135,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8158082",
     "dedup_hash": "ff3906a713306d16664cdb12b858b9cfed86c3cddec8abe2f1002fc24b61019c",
-    "raw_content_hash": "efc801f5cf8e945f12146ff7d634fa81b34dbb11c1e90b9128b4ed843e0a595a",
+    "raw_content_hash": "818b6b5f798e8a41f7073a233e14c0b934e69ca37701cc6efbd825cd28f34e05",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:44.100Z",
-    "date_last_checked": "2026-10-01T12:35:25.686Z",
-    "date_last_updated": "2026-10-01T12:35:25.686Z",
+    "date_last_checked": "2026-10-01T22:24:49.145Z",
+    "date_last_updated": "2026-10-01T22:24:49.145Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -30135,7 +30151,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8209641",
         "first_seen_at": "2026-09-23T10:55:08.418Z",
-        "last_seen_at": "2026-10-01T04:33:33.221Z"
+        "last_seen_at": "2026-10-01T22:24:49.145Z"
       }
     ],
     "updates": [
@@ -30355,6 +30371,13 @@
         "old_value": "Dublin, Ireland",
         "new_value": "United States",
         "detected_at": "2026-10-01T12:35:25.686Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "United States",
+        "new_value": "Dublin, Ireland",
+        "detected_at": "2026-10-01T22:24:49.145Z"
       }
     ],
     "scores": [
@@ -30373,7 +30396,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Consulting.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.686Z"
+        "scored_at": "2026-10-01T22:24:49.145Z"
       }
     ]
   },
@@ -33293,16 +33316,17 @@
     "tags": [
       "Consulting",
       "Finance",
+      "Marketing",
       "Operations",
       "Strategy",
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: (San Francisco, Chicago, NYC)\n\nDepartment: 1520 Sales Operations (SS&O)\n\n<p><strong>Who we are</strong></p> <p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Global GTM Operations team is responsible for overall productivity and effectiveness of the sales organization, partnering closely with the sales team and teams across Stripe to drive initiatives.&nbsp; Within the Sales Strategy and Operations team, the <strong>Global Product Sales Strategy and Operations team</strong> is aligned to each of Stripe’s Product Pillars (Revenue Suite, Money Management and Payments) and are heavily focused on partnering with both GTM and Product to drive the rhythm of business, strategic initiatives, bi-annual planning and execution. We advance the sales policies, processes and tools to drive revenue and growth. Within Stripe, the goal of the Product sellers is to help users understand Stripe’s specialised offerings and recommend the right Stripe solutions and implementation path.</p> <p>This is an incredible opportunity that plays an integral role in shaping and executing GTM strategies with Sales leaders.&nbsp; You will partner with senior Sales leadership and the broader Sales team to drive the overall productivity and effectiveness of the mid market segment. Responsibilities include go-to-market design, resource planning, quota setting and management, sales process optimization and business analytics. You will also partner with key cross-fun",
-    "location": null,
+    "description": "Location: San Francisco\n\nDepartment: 1520 Sales Operations (SS&O)\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Global GTM Operations team is responsible for overall productivity and effectiveness of the sales organization, partnering closely with the sales team and teams across Stripe to drive initiatives. Within this, the Strategy and Operations organization is at the forefront of driving revenue and growth. This is an incredible opportunity to be part of the team that plays an integral role in shaping and executing GTM strategies with sales and marketing leaders of the business. We&#39;re looking for a proactive self-starter who is passionate about their work, detail-oriented, and data-driven, with demonstrated success in navigating ambiguity in a high-growth environment.</p> <h2><strong>What you’ll do</strong></h2> <p>By being part of our Sales Strategy and Operations team, you&#39;ll partner with GTM leadership and the broader Sales and Marketing (PMM, Demand Marketing, Sales Development) team to drive the overall effectiveness of the organization. Responsibilities include assessing the health of our sales pipeline, go-to-market analysis, reporting, sales pipeline process optimization, and sales program orchestration. You&#39;ll have significant experience in (1) scaling a technology sales organization, (2) contributing to the growth",
+    "location": "San Francisco",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8089882",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=7944515",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -33319,7 +33343,6 @@
     "skills_required": [
       "Excel",
       "SQL",
-      "Tableau",
       "Communication",
       "Leadership"
     ],
@@ -33334,11 +33357,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8089882",
     "dedup_hash": "c3397358d33a1827099c5b590a4ea8ed8f2aff9073fdf96e1d332ccfb221f5c6",
-    "raw_content_hash": "01437b611096ac5957f2df18842c1dc62fd35c7661fc2d197f369c2824229212",
+    "raw_content_hash": "f3ce5ee244ca5e7d60daf1609309eee0d51fdb403ac6a137df221a1848e664b2",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:46.097Z",
-    "date_last_checked": "2026-10-01T12:35:25.756Z",
-    "date_last_updated": "2026-10-01T12:35:25.756Z",
+    "date_last_checked": "2026-10-01T22:24:49.759Z",
+    "date_last_updated": "2026-10-01T22:24:49.759Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -33350,7 +33373,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=7944515",
         "first_seen_at": "2026-09-17T03:46:59.779Z",
-        "last_seen_at": "2026-10-01T04:33:33.324Z"
+        "last_seen_at": "2026-10-01T22:24:49.759Z"
       }
     ],
     "updates": [
@@ -33738,6 +33761,13 @@
         "old_value": "San Francisco",
         "new_value": null,
         "detected_at": "2026-10-01T12:35:25.756Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "San Francisco",
+        "detected_at": "2026-10-01T22:24:49.759Z"
       }
     ],
     "scores": [
@@ -33756,7 +33786,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Consulting.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.756Z"
+        "scored_at": "2026-10-01T22:24:49.759Z"
       }
     ]
   },
@@ -40119,11 +40149,11 @@
       "Technology",
       "Client Management"
     ],
-    "description": "Location: Vietnam\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The role needs to be physically based in Bangkok, Thailand.&nbsp;</strong></p> <p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.",
-    "location": "Vietnam",
+    "description": "Location: Bangkok, Thailand\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.</p> <p><strong>A typical day:&nbsp;</strong></p> <ul> <li>Build and manage part",
+    "location": "Bangkok, Thailand",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
+    "application_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -40149,17 +40179,17 @@
     "applications_open": true,
     "primary_source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "dedup_hash": "4139f5db5ce884c5344ab037ba920b7c22c8a57f17baeeb09703c2a85d1fb05c",
-    "raw_content_hash": "977fee79b884be68c50d54d3795778e3b6caaec81e37b8bda34d3b84038d6dac",
+    "raw_content_hash": "8495f70db54c9b2001dff5b054f8e28113c313b78a4670302376226b15f071e1",
     "status": "updated",
     "date_discovered": "2026-09-14T06:44:03.685Z",
-    "date_last_checked": "2026-10-01T12:35:26.136Z",
-    "date_last_updated": "2026-10-01T12:35:26.136Z",
+    "date_last_checked": "2026-10-01T22:24:50.248Z",
+    "date_last_updated": "2026-10-01T22:24:50.248Z",
     "sources": [
       {
         "source_id": "source-greenhouse-airbnb",
         "source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
         "first_seen_at": "2026-09-14T06:44:03.685Z",
-        "last_seen_at": "2026-10-01T04:33:33.565Z"
+        "last_seen_at": "2026-10-01T22:24:50.248Z"
       },
       {
         "source_id": "source-greenhouse-airbnb",
@@ -40630,6 +40660,13 @@
         "old_value": "Bangkok, Thailand",
         "new_value": "Vietnam",
         "detected_at": "2026-10-01T12:35:26.136Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Vietnam",
+        "new_value": "Bangkok, Thailand",
+        "detected_at": "2026-10-01T22:24:50.248Z"
       }
     ],
     "scores": [
@@ -40648,7 +40685,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Client Management and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:26.136Z"
+        "scored_at": "2026-10-01T22:24:50.248Z"
       }
     ]
   },
@@ -41831,15 +41868,18 @@
   {
     "id": "a01b27a9-7ce0-4f75-bc74-4f5432b07386",
     "organization_id": "ed14a23b-83a6-4453-a1de-0e0ae0ba4f02",
-    "title": "Affiliate Business Development Manager, CIS",
-    "normalized_title": "affiliate business development manager cis",
-    "opportunity_type": "other",
-    "tags": [],
-    "description": "OKX: Affiliate Business Development Manager, CIS\n\nHeadquarters: Ukraine (Remote)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho We Are\nWe Before Me, Do the Right Thing, and Get Things Done. These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more.\n \nAbout the Role\n \nWe're looking for a proactive CIS Crypto Affiliate BD Manager to expand our affiliate network and drive revenue growth across the CIS region.\n \nWhat You'll Do\nIdentify and attract new affiliates: KOLs, influencers, trading schools, etc. \nBuild and maintain strong partner relationships aligned with business objectives.\nAnalyze affiliate performance data to scale partnerships and inform decisions.\nMonitor market trends and competitor activity to maintain a competitive edge.\nCollaborate with the product team to optimize offerings and attract quality users.\n \nWhat We Look For\n \nFluent English and Ukrainian (required)\nProven experience in affiliate or BD roles in the crypto industry, preferably in CIS\nStrong analytical, communication, and negotiation skills\nGoal-oriented with a track record of exceeding targets\nSolid understanding of CIS crypto market dynamics and regulations\n \nNice to Have\n \nExperience with cross-cultural or cross-timezone teams\nPrevious experience at a crypto exchange\nPassion for blockchain and crypto payments\nPerks & Benefits \nCompetitive total compensation package\nL&D programs and Education subsidy for employees' growth and development\nVarious team building programs and company events\nMore that we love to tell you along the process!\nOKX Statement:\nOKX is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physic",
+    "title": "Affiliate Business Development Manager",
+    "normalized_title": "affiliate business development manager",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy"
+    ],
+    "description": "OKX: Affiliate Business Development Manager\n\nHeadquarters: South Asia (Remote)\n\n\n\n\nWho We Are\nAt OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom.\n \nOKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.\n \nAcross our multiple offices globally, we are united by our core principles: We Before Me, Do the Right Thing, and Get Things Done. These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er.\n \nOKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more.\nAbout the Opportunity\nWhat You'll Be Doing\nDevelop, manage, and optimise affiliate campaigns; develop new affiliate networks and improve the performance of existing affiliates\nMainly focus on expanding the influencer resources in the local market, which could bring trading users and income to the platform\nDevise creative ways to identify potential affiliates\nOptimise the strategy of business development and plan corresponding actions to ensure the conversion rate\nAnalyse user habits and user behaviour, and judge the trend of business development\nWhat We Look For In You\n3+ years of affiliate marketing/business development experience in the Cryptocurrency space\nExperience in building large affiliate networks from start to finish\nExperience with analytical tools and reporting such as Google Analytics and Amplitude\nUnderstanding of fundamental affiliate customer acquisition KPIs and optimization methods to improve performance through data analysis and segmentation\n Fluency in 1 or more South Asia Lanaguage (Urdu, Punjabi) and English\nPerk",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/okx-affiliate-business-development-manager-cis",
+    "application_url": "https://weworkremotely.com/remote-jobs/okx-affiliate-business-development-manager",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -41849,9 +41889,7 @@
     "year_level_requirements": [],
     "citizenship_requirements": [],
     "gpa_requirement": null,
-    "skills_required": [
-      "Communication"
-    ],
+    "skills_required": [],
     "compensation": {
       "amount": null,
       "currency": null,
@@ -41863,10 +41901,10 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/okx-affiliate-business-development-manager-cis",
     "dedup_hash": "ec24b97752cce03ef2167378fdc7ce43b062626d5d1403f28d90e73e69d7478c",
-    "raw_content_hash": "16d414715c22ab7e4b0c5e369e4addd14b5b1a086a88028d00a300bcbdea7c12",
+    "raw_content_hash": "9aa83be92826a358194bc36bbf0c44c6ef74bd4268721bd3ae39e57d9a3438bb",
     "status": "active",
     "date_discovered": "2026-09-14T12:00:10.396Z",
-    "date_last_checked": "2026-10-01T12:35:21.825Z",
+    "date_last_checked": "2026-10-01T22:24:44.925Z",
     "date_last_updated": "2026-09-14T12:00:10.396Z",
     "sources": [
       {
@@ -41879,7 +41917,7 @@
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/okx-affiliate-business-development-manager",
         "first_seen_at": "2026-09-14T12:00:10.421Z",
-        "last_seen_at": "2026-10-01T04:33:30.024Z"
+        "last_seen_at": "2026-10-01T22:24:44.925Z"
       }
     ],
     "updates": [
@@ -41894,20 +41932,20 @@
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 50,
-        "career_value_score": 30,
+        "relevance_score": 70,
+        "career_value_score": 40,
         "organization_score": 40,
-        "student_fit_score": 60,
+        "student_fit_score": 70,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 42,
+        "overall_score": 50,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "General fit based on role and location.",
+        "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:21.825Z"
+        "scored_at": "2026-10-01T22:24:44.925Z"
       }
     ]
   },
@@ -43467,10 +43505,10 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Dublin or Berlin\n\nDepartment: 1185 Account Executives (EMEA)\n\n<h1>Account Executive, DACH, Commercial (Existing Business)</h1> <h2><strong>About Stripe</strong></h2> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h2><strong>About the team</strong></h2> <p>The Commercial Grower team works with the most ambitious and fastest growing companies in the Commercial segment. Our Commercial segment includes businesses typically processing $20M–$50M in annual payment volume. Stripe’s payments and financial infrastructure unlocks new revenue streams and growth opportunities for these businesses. The Commercial Grower team supports our users to increase their domestic presence whilst expanding into new territories and unlocking new revenue streams.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive (Existing Business), you will deepen and expand partnerships between Stripe and the most innovative and fastest-growing companies in EMEA by helping them to understand how Stripe’s online commerce infrastructure can make payments a competitive advantage for their businesses.</p> <p>&nbsp;</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Directly manage and nurture a named account list and develop territory and account plans for winning and expanding business with the Commercial segment.</li> <li>Own the renewal and retention strategy for your territory, proactively identifying and mitigating churn risk.</li> <li>Build and maintain key relationships with C-level executives, while orchestrating the",
-    "location": "Dublin or Berlin",
+    "description": "Location: Dublin or Germany (Berlin or Remote)\n\nDepartment: 1185 Account Executives (EMEA)\n\n<h1>Account Executive, DACH, Commercial (Existing Business)</h1> <h2><strong>About Stripe</strong></h2> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h2><strong>About the team</strong></h2> <p>The Commercial Grower team works with the most ambitious and fastest growing companies in the Commercial segment. Our Commercial segment includes businesses typically processing $20M–$50M in annual payment volume. Stripe’s payments and financial infrastructure unlocks new revenue streams and growth opportunities for these businesses. The Commercial Grower team supports our users to increase their domestic presence whilst expanding into new territories and unlocking new revenue streams. This is a role that can be based out of our Dublin or Berlin office or Germany remote.&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive (Existing Business), you will deepen and expand partnerships between Stripe and the most innovative and fastest-growing companies in EMEA by helping them to understand how Stripe’s online commerce infrastructure can make payments a competitive advantage for their businesses.</p> <p>&nbsp;</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Directly manage and nurture a named account list and develop territory and account plans for winning and expanding business with the Commercial segment.</li> <li>Own the renewal and retention strategy for your territory, proactively identifying and miti",
+    "location": null,
     "country": null,
-    "work_arrangement": "unknown",
+    "work_arrangement": "remote",
     "application_url": "https://stripe.com/jobs/search?gh_jid=8201690",
     "application_deadline": null,
     "deadline_note": null,
@@ -43495,17 +43533,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8201690",
     "dedup_hash": "96ef51c6081d208c3051f8648fd3836b548230cb5824c68cc630a4b9cb3bb5b3",
-    "raw_content_hash": "e1a9ed849a0cdb3d91b45c7c2003ab8fe86d97196c4b87174b3f720d53c3df24",
-    "status": "needs_review",
+    "raw_content_hash": "42ca48f01a3e22acf2ad79d2991beb0a3b45c0e5a513ac18181b9286b04e58e1",
+    "status": "updated",
     "date_discovered": "2026-09-14T18:03:18.233Z",
-    "date_last_checked": "2026-09-14T18:03:18.233Z",
-    "date_last_updated": "2026-09-14T18:03:18.233Z",
+    "date_last_checked": "2026-10-01T22:24:48.069Z",
+    "date_last_updated": "2026-10-01T22:24:48.069Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8201690",
         "first_seen_at": "2026-09-14T18:03:18.233Z",
-        "last_seen_at": "2026-09-14T18:03:18.233Z"
+        "last_seen_at": "2026-10-01T22:24:48.069Z"
       }
     ],
     "updates": [
@@ -43515,6 +43553,20 @@
         "old_value": null,
         "new_value": null,
         "detected_at": "2026-09-14T18:03:18.233Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Dublin or Berlin",
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:48.069Z"
+      },
+      {
+        "change_type": "work_arrangement_changed",
+        "field_name": "work_arrangement",
+        "old_value": "unknown",
+        "new_value": "remote",
+        "detected_at": "2026-10-01T22:24:48.069Z"
       }
     ],
     "scores": [
@@ -43524,16 +43576,16 @@
         "career_value_score": 55,
         "organization_score": 40,
         "student_fit_score": 80,
-        "accessibility_score": 70,
+        "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 62,
+        "overall_score": 60,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-14T18:03:18.233Z"
+        "scored_at": "2026-10-01T22:24:48.069Z"
       }
     ]
   },
@@ -50011,7 +50063,7 @@
       "Strategy",
       "Entrepreneurship"
     ],
-    "description": "Location: Dublin\n\nDepartment: 1180 GEO Sales HQ (EMEA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The EMEA SMB team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers.&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <p>As a Sales Manager at Stripe, you’ll play an instrumental role in fueling Stripe’s growth in Southern Europe through new customer acquisition. You&#39;ll lead and coach high-performing account executives, helping them deliver on ambitious targets, as well as roll up your sleeves to work directly with users and prospects. We are looking for an individual who is keen to work alongside a high-performing team of individuals to navigate complex organizations and find new opportunities to make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Recruit, develop and lead a team of sales professionals, with a particular focus on the SMB segment in Southern Europe</li> <li>Develop the long-term vision and strategy for the team and manage day-to-day operations, with a focus on performance against key sales metrics</li> <li>Be accountable for new client acquisition&nbsp;</li> <li>Driving deal strategy and execution including strong pipeline development, opportunity management, and forecasting</li> <li>Coach and guide the team in developing consu",
+    "description": "Location: Dublin\n\nDepartment: 1180 GEO Sales HQ (EMEA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The EMEA SMB team is a highly consultative sales team that is responsible for new customer acquisition.&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <p>As a Sales Manager at Stripe, you’ll play an instrumental role in fueling Stripe’s growth in Southern Europe through new customer acquisition. You&#39;ll lead and coach high-performing account executives, helping them deliver on ambitious targets, as well as roll up your sleeves to work directly with users and prospects. We are looking for an individual who is keen to work alongside a high-performing team of individuals to navigate complex organizations and find new opportunities to make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Recruit, develop and lead a team of sales professionals, with a particular focus on the SMB segment in Southern Europe</li> <li>Develop the long-term vision and strategy for the team and manage day-to-day operations, with a focus on performance against key sales metrics</li> <li>Be accountable for new client acquisition&nbsp;</li> <li>Driving deal strategy and execution including strong pipeline development, opportunity management, and forecasting</li> <li>Coach and guide the team in developing consultative and solution-based sales skills through all fa",
     "location": "Dublin",
     "country": null,
     "work_arrangement": "unknown",
@@ -50037,17 +50089,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8141677",
     "dedup_hash": "cd89c07612ec66cfc1ee2288fc1f688e74ce3c72bb39f0778ba9d5d26c18e7be",
-    "raw_content_hash": "e024307eb23f53e89fb25378a01f5f7884634b79c0cf3664d6aa8c5e424e64b3",
-    "status": "needs_review",
+    "raw_content_hash": "b6802e1ecfcd5e72f38084f4d52adea1aefd42318f02dbad98612a51c3f63545",
+    "status": "active",
     "date_discovered": "2026-09-16T16:17:21.917Z",
-    "date_last_checked": "2026-09-16T16:17:21.917Z",
+    "date_last_checked": "2026-10-01T22:24:49.448Z",
     "date_last_updated": "2026-09-16T16:17:21.917Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8141677",
         "first_seen_at": "2026-09-16T16:17:21.917Z",
-        "last_seen_at": "2026-09-16T16:17:21.917Z"
+        "last_seen_at": "2026-10-01T22:24:49.448Z"
       }
     ],
     "updates": [
@@ -50075,7 +50127,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-16T16:17:21.917Z"
+        "scored_at": "2026-10-01T22:24:49.448Z"
       }
     ]
   },
@@ -52485,7 +52537,7 @@
       "Strategy",
       "Entrepreneurship"
     ],
-    "description": "Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago\n\nDepartment: 3511 Financial Services Partnerships\n\n<h2 id=&quot;who-we-are&quot;>Who we are</h2> <h3 id=&quot;about-stripe&quot;>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3 id=&quot;about-the-team&quot;>About the team</h3> <p>The Financial Partnerships team sits within the Global Partnerships organization and is foundational to Stripe’s success. Our team is responsible for developing and managing Stripe’s relationships with global and regional banks, card networks, and money movement product partners that enable Stripe’s product strategy and deliver new capabilities to Stripe users.</p> <p>Our team executes high-impact, cross-functional product partnership initiatives across existing products and early-stage financial products further up the stack. These partnerships have a significant impact on Stripe and are essential to offering products used by millions of Stripe users.</p> <h2 id=&quot;what-youll-do&quot;>What you’ll do</h2> <p>We’re looking for someone to develop and execute high-impact initiatives and strategies with new and existing AMER bank partners. You’ll work closely with Product to support Stripe’s Treasury, Issuing, Capital, and Crypto businesses. This includes product development, defining and aligning on partner requirements, leading partner relationships to execute on those requirements, and negotiating, signing, and managing relationships with global partners to support Stripe’s growing MaaS product l",
+    "description": "Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago\n\nDepartment: 3511 Payments Financial Partnerships\n\n<h2 id=&quot;who-we-are&quot;>Who we are</h2> <h3 id=&quot;about-stripe&quot;>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3 id=&quot;about-the-team&quot;>About the team</h3> <p>The Financial Partnerships team sits within the Global Partnerships organization and is foundational to Stripe’s success. Our team is responsible for developing and managing Stripe’s relationships with global and regional banks, card networks, and money movement product partners that enable Stripe’s product strategy and deliver new capabilities to Stripe users.</p> <p>Our team executes high-impact, cross-functional product partnership initiatives across existing products and early-stage financial products further up the stack. These partnerships have a significant impact on Stripe and are essential to offering products used by millions of Stripe users.</p> <h2 id=&quot;what-youll-do&quot;>What you’ll do</h2> <p>We’re looking for someone to develop and execute high-impact initiatives and strategies with new and existing AMER bank partners. You’ll work closely with Product to support Stripe’s Treasury, Issuing, Capital, and Crypto businesses. This includes product development, defining and aligning on partner requirements, leading partner relationships to execute on those requirements, and negotiating, signing, and managing relationships with global partners to support Stripe’s growing MaaS product l",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -52513,17 +52565,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8187566",
     "dedup_hash": "f47b41c93543dac1e8700b3a00108765df479d76f2e78856cd0402931138e59f",
-    "raw_content_hash": "2bb319418bb614b44861635a0885f5e2b399b6db704032798578a2b862889f5b",
+    "raw_content_hash": "8114c9314b613fe172d6ce0256cdf18bd70d7894b2a210487013a533f1a97376",
     "status": "active",
     "date_discovered": "2026-09-17T16:24:31.719Z",
-    "date_last_checked": "2026-09-22T20:58:03.515Z",
+    "date_last_checked": "2026-10-01T22:24:48.971Z",
     "date_last_updated": "2026-09-17T16:24:31.719Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8187566",
         "first_seen_at": "2026-09-17T16:24:31.719Z",
-        "last_seen_at": "2026-09-22T20:58:03.515Z"
+        "last_seen_at": "2026-10-01T22:24:48.971Z"
       }
     ],
     "updates": [
@@ -52551,7 +52603,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-22T20:58:03.515Z"
+        "scored_at": "2026-10-01T22:24:48.971Z"
       }
     ]
   },
@@ -53407,11 +53459,11 @@
       "Strategy",
       "Client Management"
     ],
-    "description": "Location: United States\n\nDepartment: Business Operations/Analysis\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;><strong>The Community You Will Join:&nbsp;</strong></span></p> <p>Hotels represent one of Airbnb&#39;s most exciting growth frontiers,&nbsp; bringing professional hospitality partners onto the platform and making it possible for guests to choose Airbnb for every kind of trip. By ensuring a robust and exceptional hotel supply, the Revenue Operations team plays a critical role in shaping Airbnb&#39;s future and delivering on its mission to create a world where anyone can belong anywhere.</p> <p>The Revenue Operations team partners across the company to build world-class Sales, Onboarding, and Account Management capabilities. We support partners across the full journey –&nbsp; from identifying and acquiring the right supply in the right markets, to seamless onboarding and integration, to the tools, programs, and insights that help partners grow and succeed on our platform. We own critical growth levers that ladder directly into business goals, and we build the central infrastructure that powers in-market execution for field teams worldwide.</p> <p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;><strong>The Difference You Will Make:</strong></span></p> <p>Acquiring the right hotels in the right markets is one of the most critical drivers of Hotels growth at Airbnb – and this role sits at the c",
+    "description": "Location: United States \n\nDepartment: Business Operations/Analysis\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;><strong>The Community You Will Join:&nbsp;</strong></span></p> <p>Hotels represent one of Airbnb&#39;s most exciting growth frontiers,&nbsp; bringing professional hospitality partners onto the platform and making it possible for guests to choose Airbnb for every kind of trip. By ensuring a robust and exceptional hotel supply, the Revenue Operations team plays a critical role in shaping Airbnb&#39;s future and delivering on its mission to create a world where anyone can belong anywhere.</p> <p>The Revenue Operations team partners across the company to build world-class Sales, Onboarding, and Account Management capabilities. We support partners across the full journey –&nbsp; from identifying and acquiring the right supply in the right markets, to seamless onboarding and integration, to the tools, programs, and insights that help partners grow and succeed on our platform. We own critical growth levers that ladder directly into business goals, and we build the central infrastructure that powers in-market execution for field teams worldwide.</p> <p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;><strong>The Difference You Will Make:</strong></span></p> <p>Optimized hotel supply is one of the most important drivers of Hotels performance at Airbnb, and this role sits at the center of that effor",
     "location": "United States",
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://careers.airbnb.com/positions/8083716?gh_jid=8083716",
+    "application_url": "https://careers.airbnb.com/positions/8244229?gh_jid=8244229",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -53441,10 +53493,10 @@
     "applications_open": true,
     "primary_source_url": "https://careers.airbnb.com/positions/8083716?gh_jid=8083716",
     "dedup_hash": "c016dcb2c43a7ff3205f002dc1f7577e3f65df5a223f851e0f03e5ccb760cb21",
-    "raw_content_hash": "424df68d4a07d30737586905145d79d1ba4db92e31edb2612d231fb719ae48db",
+    "raw_content_hash": "0fd76a02d79fd4d485beb1b512b7bbafe5174ce922618b2015180867ac45cbcf",
     "status": "active",
     "date_discovered": "2026-09-17T21:00:34.634Z",
-    "date_last_checked": "2026-09-19T03:30:40.512Z",
+    "date_last_checked": "2026-10-01T22:24:50.324Z",
     "date_last_updated": "2026-09-17T21:00:34.634Z",
     "sources": [
       {
@@ -53452,6 +53504,12 @@
         "source_url": "https://careers.airbnb.com/positions/8083716?gh_jid=8083716",
         "first_seen_at": "2026-09-17T21:00:34.634Z",
         "last_seen_at": "2026-09-19T03:30:40.512Z"
+      },
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8244229?gh_jid=8244229",
+        "first_seen_at": "2026-10-01T22:24:50.324Z",
+        "last_seen_at": "2026-10-01T22:24:50.324Z"
       }
     ],
     "updates": [
@@ -53479,7 +53537,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-19T03:30:40.512Z"
+        "scored_at": "2026-10-01T22:24:50.324Z"
       }
     ]
   },
@@ -70608,11 +70666,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Singapore\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across APAC. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to Australia and New Zealand, Japan, India, Singapore, and Southeast Asia. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through business-case deve",
-    "location": "Singapore",
+    "description": "Location: London\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across EMEA. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to Europe, the Middle East, and Africa. The role will initially emphasize Stripe’s largest European markets and the markets where local payment preferences are most pronounced—including the UK and Ireland, DACH and Switzerland, Benelux, the Nordics, Southern Europe, and selected Central and Eastern European markets—while supporting priority growth opportunities in the Middle East and Africa.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption ",
+    "location": "London",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8174160",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8196267",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -70634,17 +70692,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
     "dedup_hash": "29c7716e634cd800ad52f6f3cd3b9894ea33a5243de88013bb7784bbebb1122d",
-    "raw_content_hash": "4370d1e85f0ee1a728163bfacc21d3f35ae1458ea4b71919c51e7f70fd62b99d",
+    "raw_content_hash": "a6afbd3dbe58aab50f67b448b4b442beee8675b06b299ea3e1d252507fba7136",
     "status": "updated",
     "date_discovered": "2026-09-26T03:53:45.478Z",
-    "date_last_checked": "2026-10-01T12:35:25.240Z",
-    "date_last_updated": "2026-10-01T12:35:25.240Z",
+    "date_last_checked": "2026-10-01T22:24:48.320Z",
+    "date_last_updated": "2026-10-01T22:24:48.320Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
         "first_seen_at": "2026-09-26T03:53:45.478Z",
-        "last_seen_at": "2026-10-01T04:33:32.626Z"
+        "last_seen_at": "2026-10-01T22:24:48.229Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -70656,7 +70714,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8196267",
         "first_seen_at": "2026-09-28T22:59:27.888Z",
-        "last_seen_at": "2026-10-01T12:35:25.164Z"
+        "last_seen_at": "2026-10-01T22:24:48.320Z"
       }
     ],
     "updates": [
@@ -70799,6 +70857,20 @@
         "old_value": "London",
         "new_value": "Singapore",
         "detected_at": "2026-10-01T12:35:25.240Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Singapore",
+        "new_value": "US-CA",
+        "detected_at": "2026-10-01T22:24:48.229Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "US-CA",
+        "new_value": "London",
+        "detected_at": "2026-10-01T22:24:48.320Z"
       }
     ],
     "scores": [
@@ -70817,7 +70889,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.240Z"
+        "scored_at": "2026-10-01T22:24:48.320Z"
       }
     ]
   },
@@ -71235,17 +71307,14 @@
     "opportunity_type": "consulting",
     "tags": [
       "Consulting",
-      "Marketing",
-      "Strategy",
       "Technology",
-      "Entrepreneurship",
-      "Client Management"
+      "Entrepreneurship"
     ],
-    "description": "Ping Identity: Customer Success Manager\n\nHeadquarters: UK - Remote\n\n\n\nAbout Ping Identity: \nAt Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. \nOur intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. \nWhile protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. \nWe're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. \n\nThe Customer Success Manager (CSM) is responsible for driving adoption, value realization, renewal, and expansion within a defined portfolio of customers. You will act as the primary post‑sales relationship owner, orchestrating the right resources across Support, Product, Services, and Sales to ensure customers achieve their desired outcomes and view us as a strategic partner.\nKey Responsibilities\n1. Customer Outcomes & Revenue\nOwn customer health, retention, and risk management for your portfolio, in partnership with Sales and Renewals.\nBuild, maintain, and execute customer success plans for priority accounts, with clear business outcomes, milestones, and owners.\nProactively identify renewal and churn risk, create save plans, and track mitigation act",
+    "description": "Ping Identity: Customer Success Manager\n\nHeadquarters: USA - Remote \n\n\n\nAbout Ping Identity: \nAt Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. \nOur intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. \nWhile protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. \nWe're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. \n\nAs a CSM, you will serve as a named resource and partner for customer organizations. You will build and maintain trusting relationships, acting as a technical resource for day-to-day operational needs. Your responsibilities will include:\nAct as a point of contact for any major customer incidents, being responsible for managing expectations and communications through resolution.\nAnalyzing customer data such as support cases, survey responses, and renewal behaviors to identify technical trends and risks.\nAct as the voice of the customer internally to advocate for their needs.\nMonitor and identify adoption and utilization trends, providing recommendations based on risk and customer needs.\nProviding proactive guidance on Ping's features based on the cus",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
+    "application_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -71255,13 +71324,10 @@
     "year_level_requirements": [],
     "citizenship_requirements": [],
     "gpa_requirement": null,
-    "skills_required": [
-      "Communication",
-      "Leadership"
-    ],
+    "skills_required": [],
     "compensation": {
-      "amount": null,
-      "currency": null,
+      "amount": 76000,
+      "currency": "USD",
       "period": null,
       "notes": null
     },
@@ -71270,11 +71336,11 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
     "dedup_hash": "fb2e2851b758c1cdeada77c21c48e1969fd337a7b0df1d43e117eec7ca2444ad",
-    "raw_content_hash": "f1c447bee38ef209773c538b00d5618b50266cbcd15f0882b072742502b6de06",
+    "raw_content_hash": "d1f0f95b0b6b801e639ef5f0977d8cddae88af40928eec94fb72d5da216bdd3f",
     "status": "updated",
     "date_discovered": "2026-09-26T10:56:23.016Z",
-    "date_last_checked": "2026-10-01T12:35:24.627Z",
-    "date_last_updated": "2026-10-01T12:35:24.627Z",
+    "date_last_checked": "2026-10-01T22:24:47.357Z",
+    "date_last_updated": "2026-10-01T22:24:47.357Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
@@ -71286,7 +71352,7 @@
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager",
         "first_seen_at": "2026-09-26T10:56:23.090Z",
-        "last_seen_at": "2026-10-01T04:33:31.876Z"
+        "last_seen_at": "2026-10-01T22:24:47.357Z"
       }
     ],
     "updates": [
@@ -71422,25 +71488,32 @@
         "old_value": "{\"amount\":76000,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
         "new_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
         "detected_at": "2026-10-01T12:35:24.627Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
+        "new_value": "{\"amount\":76000,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
+        "detected_at": "2026-10-01T22:24:47.357Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 100,
-        "career_value_score": 40,
+        "relevance_score": 90,
+        "career_value_score": 55,
         "organization_score": 40,
-        "student_fit_score": 90,
+        "student_fit_score": 70,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 58,
+        "overall_score": 56,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "Matches your interest in Consulting and Client Management.",
+        "reasoning": "Matches your interest in Consulting.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:24.627Z"
+        "scored_at": "2026-10-01T22:24:47.357Z"
       }
     ]
   },
@@ -74484,11 +74557,11 @@
       "Strategy",
       "Technology"
     ],
-    "description": "Dropbox: Customer Evidence Manager\n\nHeadquarters: Remote - Canada: Select locations\n\n\nRole Description\nDropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a customer story is not that it gets published — it is that it protects customer trust, gives buyers credible, accurate proof and moves a deal forward. You are the editorial authority on what good looks like, not the person writing every script: execution (writing, video, design) is delivered through agency partners you brief and direct.\nEnterprise buyers do not decide on brand claims. They decide on credible proof from organizations like theirs: customer stories, ROI evidence, video testimonials, peer reviews, and competitive validation. In this role, you will produce that evidence and ensure it reaches sellers and customers at the moments it can have the greatest commercial impact.\nYou will own the program outcomes and operational rigor — setting the creative and editorial bar for what makes a great customer story, directing the agency partners who produce the work, and deploying that proof into active deals — and measuring evidence's impact on pipeline, win rates, and sales-cycle velocity. You will partner closely with Sales, Customer Success, Campaign Enablement, and product teams to prioritize proof for the full suite of Dropbox products and solutions, including  AI capabilities, multi-product platform adoption, and priority vertical workflows. You will get substantial senior Sales and Marketing leadership exposure and a direct, measurable line to revenue during a pivotal shift in how Dropbox goes to market.\nResponsibilities\nIdentify advocates, coordinate outreach with account teams, manage consent and approvals, record participation preferences, and avoid customer fatigue. \nSet the cre",
+    "description": "Dropbox: Customer Evidence Manager\n\nHeadquarters: Remote - US: Select locations\n\n\nRole Description\nDropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a customer story is not that it gets published — it is that it protects customer trust, gives buyers credible, accurate proof and moves a deal forward. You are the editorial authority on what good looks like, not the person writing every script: execution (writing, video, design) is delivered through agency partners you brief and direct.\nEnterprise buyers do not decide on brand claims. They decide on credible proof from organizations like theirs: customer stories, ROI evidence, video testimonials, peer reviews, and competitive validation. In this role, you will produce that evidence and ensure it reaches sellers and customers at the moments it can have the greatest commercial impact.\nYou will own the program outcomes and operational rigor — setting the creative and editorial bar for what makes a great customer story, directing the agency partners who produce the work, and deploying that proof into active deals — and measuring evidence's impact on pipeline, win rates, and sales-cycle velocity. You will partner closely with Sales, Customer Success, Campaign Enablement, and product teams to prioritize proof for the full suite of Dropbox products and solutions, including  AI capabilities, multi-product platform adoption, and priority vertical workflows. You will get substantial senior Sales and Marketing leadership exposure and a direct, measurable line to revenue during a pivotal shift in how Dropbox goes to market.\nResponsibilities\nIdentify advocates, coordinate outreach with account teams, manage consent and approvals, record participation preferences, and avoid customer fatigue. \nSet the creativ",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
+    "application_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -74504,7 +74577,7 @@
       "Leadership"
     ],
     "compensation": {
-      "amount": 142800,
+      "amount": 157600,
       "currency": "USD",
       "period": "monthly",
       "notes": null
@@ -74514,11 +74587,11 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
     "dedup_hash": "2e19caa76582ec395d08d2bb5ec6327f2f8fd302eda09be6bc27c6cef77ab624",
-    "raw_content_hash": "ccfa93c411c16c29f15854e9fff7fd6d2ff349db6a0807b774adbe34dcc259b6",
+    "raw_content_hash": "20be64c8260715d45a3e7a7254cc61755d67e487f175f70513a6c26d489ed992",
     "status": "updated",
     "date_discovered": "2026-09-28T13:06:34.389Z",
-    "date_last_checked": "2026-10-01T12:35:24.566Z",
-    "date_last_updated": "2026-10-01T12:35:24.566Z",
+    "date_last_checked": "2026-10-01T22:24:47.160Z",
+    "date_last_updated": "2026-10-01T22:24:47.160Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
@@ -74530,7 +74603,7 @@
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager",
         "first_seen_at": "2026-09-28T13:06:34.555Z",
-        "last_seen_at": "2026-10-01T04:33:31.794Z"
+        "last_seen_at": "2026-10-01T22:24:47.160Z"
       }
     ],
     "updates": [
@@ -74610,6 +74683,13 @@
         "old_value": "{\"amount\":157600,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "new_value": "{\"amount\":142800,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "detected_at": "2026-10-01T12:35:24.566Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":142800,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "new_value": "{\"amount\":157600,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "detected_at": "2026-10-01T22:24:47.160Z"
       }
     ],
     "scores": [
@@ -74628,7 +74708,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:24.566Z"
+        "scored_at": "2026-10-01T22:24:47.160Z"
       }
     ]
   },
@@ -76655,7 +76735,7 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Bengaluru\n\nDepartment: 6510 People Operations\n\n<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team and the role</strong></h3> <p>The People Systems Operations Administrator supports the day-to-day work that keeps Stripe’s People technology running accurately and reliably. The role sits in the Service Delivery Center and works as part of the wider People Solutions team, with a close dotted-line partnership to People Solutions Systems Management.</p> <p>You’ll own a defined set of routine tier 1 and tier 2 operational work across Workday and related People Systems. This includes monitoring support channels and system inboxes, triaging requests, completing repeatable administrative tasks, maintaining documentation, and routing complex issues to the right People Systems owner.</p> <p>This is a hands-on operations role. It creates clearer separation between routine support work and the configuration, architecture, governance, and project delivery owned by the People Systems team.</p> <h3><strong>What you’ll do</strong></h3> <h4><strong>Support queue and request triage</strong></h4> <ul> <li>Monitor the Salesforce case management queue and Jira requests for People Systems work.</li> <li>Triage incoming requests by urgency, business impact, data sensitivity, and defined support process.</li> <li>Resolve standard requests using documented procedures, and route exceptions or higher-complexity work to the appropriate People Systems owner.</li> <li>Keep request ",
+    "description": "Location: Bengaluru\n\nDepartment: 6510 People Operations\n\n<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team and the role</strong></h3> <p>The People Systems Operations Administrator supports the day-to-day work that keeps Stripe’s People technology running accurately and reliably. The role sits in the Service Delivery Center and works as part of the wider People Solutions team, with a close dotted-line partnership to People Solutions Systems Management.</p> <p>You’ll own a defined set of routine tier 1 and tier 2 operational work across Workday and related People Systems. This includes monitoring support channels and system inboxes, triaging requests, completing repeatable administrative tasks, maintaining documentation, and routing complex issues to the right People Systems owner.</p> <p>This is a hands-on operations role. It creates clearer separation between routine support work and the configuration, architecture, governance, and project delivery owned by the People Systems team.</p> <h3><strong>What you’ll do</strong></h3> <h3><strong>Support queue and request triage</strong></h3> <ul> <li>&nbsp;Monitor the Salesforce case management queue and Jira requests for People Systems work.</li> <li>Triage incoming requests by urgency, business impact, data sensitivity, and defined support process.</li> <li>Resolve standard requests using documented procedures, and route exceptions or higher-complexity work to the appropriate People Systems owner.<br>Keep request ",
     "location": "Bengaluru",
     "country": null,
     "work_arrangement": "unknown",
@@ -76683,17 +76763,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8227570",
     "dedup_hash": "804f331bed28d53b5e76cec6e0931783e83c5c8b5c5e7b008be440b17090c8b1",
-    "raw_content_hash": "d5c7649c7241464b3f4dad1ad83b9209c46bd23b995e6f78374c383d04fe93f2",
-    "status": "needs_review",
+    "raw_content_hash": "41c0b4dc1fb97ca09b7bbf6db18bf9c8a27bae90d200e136a575d80fbffa6506",
+    "status": "active",
     "date_discovered": "2026-09-29T12:16:23.252Z",
-    "date_last_checked": "2026-09-29T12:16:23.252Z",
+    "date_last_checked": "2026-10-01T22:24:48.649Z",
     "date_last_updated": "2026-09-29T12:16:23.252Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8227570",
         "first_seen_at": "2026-09-29T12:16:23.252Z",
-        "last_seen_at": "2026-09-29T12:16:23.252Z"
+        "last_seen_at": "2026-10-01T22:24:48.649Z"
       }
     ],
     "updates": [
@@ -76721,7 +76801,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-29T12:16:23.252Z"
+        "scored_at": "2026-10-01T22:24:48.649Z"
       }
     ]
   },
@@ -80438,11 +80518,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Toronto, Canada \n\nDepartment: 1175 Enterprise - Account Executives (NA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Account Executive, SMB Grower team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers. As an Account Executive, SMB Grower team member, you’ll identify new opportunities for our clients to get the most out of Stripe by quickly understanding our clients’ needs, execute scaled sales strategies to close upsell and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe’s offerings.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own contract renewals and lead negotiations to increase and retain existing customer revenue and Stripe market share</li> <li>Develop and implement full sales cycle strategies for driving product adoption, net new product sales, and client retention at scale among existing Stripe customers</li> <li>Solve complex client needs and work across product, sales, risk, and operations teams to improve our product</li> <li>Own the full sales cycle from lead to close for startups and small/medium businesses</li> <li>Generate your own leads through cold calling, blitzing, research, networking, and driving your territory.</li> <li>Make every potential Stripe user happy with every",
+    "description": "Location: Toronto, Canada\n\nDepartment: 1175 Enterprise - Account Executives (NA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Account Executive, SMB Grower team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers. As an Account Executive, SMB Grower team member, you’ll identify new opportunities for our clients to get the most out of Stripe by quickly understanding our clients’ needs, execute scaled sales strategies to close upsell and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe’s offerings.</p> <p>&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own contract renewals and lead negotiations to increase and retain existing customer revenue and Stripe market share</li> <li>Develop and implement full sales cycle strategies for driving product adoption, net new product sales, and client retention at scale among existing Stripe customers</li> <li>Solve complex client needs and work across product, sales, risk, and operations teams to improve our product</li> <li>Own the full sales cycle from lead to close for startups and small/medium businesses</li> <li>Generate your own leads through cold calling, blitzing, research, networking, and driving your territory.</li> <li>Make every potential Stripe user hap",
     "location": "Toronto, Canada",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8238741",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8238743",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -80468,17 +80548,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8238743",
     "dedup_hash": "6b3a1b390dc8badc4d3fe4da7c87701ffe09f27dc04dc89994dc11cf5cf3710c",
-    "raw_content_hash": "2b5cbf00b9a00b2a73cf0e6faca7cd75bf7f5ac049b8de14e07d9112548ad022",
+    "raw_content_hash": "1cc181159f1086f6a05ef18ce50902532646f441e679cce5ed9ff97786b9a749",
     "status": "active",
     "date_discovered": "2026-09-30T21:56:40.251Z",
-    "date_last_checked": "2026-10-01T12:35:25.299Z",
+    "date_last_checked": "2026-10-01T22:24:48.472Z",
     "date_last_updated": "2026-09-30T21:56:40.251Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8238743",
         "first_seen_at": "2026-09-30T21:56:40.251Z",
-        "last_seen_at": "2026-10-01T04:33:32.706Z"
+        "last_seen_at": "2026-10-01T22:24:48.472Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -80512,7 +80592,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-01T12:35:25.299Z"
+        "scored_at": "2026-10-01T22:24:48.472Z"
       }
     ]
   },
@@ -82415,6 +82495,878 @@
         "reasoning": "General fit based on role and location.",
         "scoring_method": "heuristic",
         "scored_at": "2026-10-01T12:35:24.508Z"
+      }
+    ]
+  },
+  {
+    "id": "a012c2bc-e2ce-4e62-8943-96072497c017",
+    "organization_id": "8dce5f1f-5258-475f-9021-9d6ddaf978d8",
+    "title": "Full-Time Climate Innovation Fellowship and Funding for Global Innovators",
+    "normalized_title": "full time climate innovation fellowship and funding for global innovators",
+    "opportunity_type": "fellowship",
+    "tags": [
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Breakthrough Energy Fellows 2027: Full-Time Climate Innovation Fellowship and Funding for Global Innovators\n\nBreakthrough Energy Fellows 2027: Full-Time Climate Innovation Fellowship and Funding for Global Innovators The Breakthrough Energy Fellows program is a global opportunity designed to accelerate early-stage climate technology innovation and help scientists, engineers, entrepreneurs, and business professionals develop solutions capable of addressing some of the world’s most difficult climate challenges. The program is part of […]\nThe post Breakthrough Energy Fellows 2027: Full-Time Climate Innovation Fellowship and Funding for Global Innovators appeared first on Opportunities for Youth.\n\n2026-10-01T19:09:21.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/01/breakthrough-energy-fellows-2027-full-time-climate-innovation-fellowship-and-funding-for-global-innovators/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/01/breakthrough-energy-fellows-2027-full-time-climate-innovation-fellowship-and-funding-for-global-innovators/",
+    "dedup_hash": "a6c83b38d9176127a8a1ec5a4f8aced58fd9bbdaeb2e6edba051506c0d92258b",
+    "raw_content_hash": "22a86546ac8e1777f6ab88f63c1c069f70ade01a697a6a7bd4f4005ec210041a",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:45.873Z",
+    "date_last_checked": "2026-10-01T22:24:45.873Z",
+    "date_last_updated": "2026-10-01T22:24:45.873Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/01/breakthrough-energy-fellows-2027-full-time-climate-innovation-fellowship-and-funding-for-global-innovators/",
+        "first_seen_at": "2026-10-01T22:24:45.873Z",
+        "last_seen_at": "2026-10-01T22:24:45.873Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:45.873Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 70,
+        "career_value_score": 60,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 55,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:45.873Z"
+      }
+    ]
+  },
+  {
+    "id": "f9549905-54e7-4f72-a9e9-51945ed172b1",
+    "organization_id": "1aa629ae-2723-4baf-bf94-ddd79ab0f8d2",
+    "title": "Funded Policy Fellowship for UK Public and Civil Servants to Work With Leading Academic Experts",
+    "normalized_title": "funded policy fellowship for uk public and civil servants to work with leading academic experts",
+    "opportunity_type": "fellowship",
+    "tags": [],
+    "description": "EvEx Policy Fellowship 2026–2027: Funded Policy Fellowship for UK Public and Civil Servants to Work With Leading Academic Experts\n\nThe EvEx Policy Fellowship is a funded professional development and knowledge-exchange opportunity designed to bring public and civil servants together with academics and experts from universities and research organisations. The programme gives participants dedicated time to explore real-world policy challenges, access specialist research expertise, strengthen their professional networks and develop evidence-informed approaches to their work. […]\nThe post EvEx Policy Fellowship 2026–2027: Funded Policy Fellowship for UK Public and Civil Servants to Work With Leading Academic Experts appeared first on Opportunities for Youth.\n\n2026-10-01T19:02:39.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/01/evex-policy-fellowship-2026-2027-funded-policy-fellowship-for-uk-public-and-civil-servants-to-work-with-leading-academic-experts/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/01/evex-policy-fellowship-2026-2027-funded-policy-fellowship-for-uk-public-and-civil-servants-to-work-with-leading-academic-experts/",
+    "dedup_hash": "bd170df611fc293dfcccc13d8091a467bef049e5b1b347846e300c9f73b7b4f7",
+    "raw_content_hash": "7406a3f2e2126c1428d93437332849dde272c7db269d42fadf4ed8834a14c117",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:45.964Z",
+    "date_last_checked": "2026-10-01T22:24:45.964Z",
+    "date_last_updated": "2026-10-01T22:24:45.964Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/01/evex-policy-fellowship-2026-2027-funded-policy-fellowship-for-uk-public-and-civil-servants-to-work-with-leading-academic-experts/",
+        "first_seen_at": "2026-10-01T22:24:45.964Z",
+        "last_seen_at": "2026-10-01T22:24:45.964Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:45.964Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 60,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 52,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:45.964Z"
+      }
+    ]
+  },
+  {
+    "id": "6c65d99d-9359-40a5-856b-f2b766ba34d7",
+    "organization_id": "b98a44f8-0984-4996-bf37-df1cc58b6dd6",
+    "title": "Fully Funded Doctoral Program in the USA — Eligibility, Requirements, Funding and November 18, 2026 Deadline",
+    "normalized_title": "fully funded doctoral program in the usa eligibility requirements funding and november 18 2026 deadline",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Stanford University Linguistics PhD 2027-28: Fully Funded Doctoral Program in the USA — Eligibility, Requirements, Funding and November 18, 2026 Deadline\n\nStanford University’s Department of Linguistics is accepting applications for its Ph.D. program for the 2027-28 academic year, offering an opportunity for aspiring linguists and researchers to pursue advanced doctoral study at one of the world’s leading universities. The program combines rigorous theoretical work with empirical research, advanced methodological training, individualized academic development, teaching experience, and […]\nThe post Stanford University Linguistics PhD 2027-28: Fully Funded Doctoral Program in the USA — Eligibility, Requirements, Funding and November 18, 2026 Deadline appeared first on Opportunities for Youth.\n\n2026-10-01T14:57:39.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/01/stanford-university-linguistics-phd-2027-28-fully-funded-doctoral-program-in-the-usa-eligibility-requirements-funding-and-november-18-2026-deadline/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/01/stanford-university-linguistics-phd-2027-28-fully-funded-doctoral-program-in-the-usa-eligibility-requirements-funding-and-november-18-2026-deadline/",
+    "dedup_hash": "a97568cc18dce0e7e4b7e2cba24c0bc846e36c9686db746ef8fa73e63d505e89",
+    "raw_content_hash": "42e0d65abfb5c4ca646c7a414ec73faf581dafbeb3361ea5f64d3a0769d12ccb",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:46.075Z",
+    "date_last_checked": "2026-10-01T22:24:46.075Z",
+    "date_last_updated": "2026-10-01T22:24:46.075Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/01/stanford-university-linguistics-phd-2027-28-fully-funded-doctoral-program-in-the-usa-eligibility-requirements-funding-and-november-18-2026-deadline/",
+        "first_seen_at": "2026-10-01T22:24:46.075Z",
+        "last_seen_at": "2026-10-01T22:24:46.075Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:46.075Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:46.075Z"
+      }
+    ]
+  },
+  {
+    "id": "ef5f573c-bdda-444d-8762-10f037e5662c",
+    "organization_id": "a64ddada-1712-46c1-b718-e12d8cf27e73",
+    "title": "Remote US-Based Executive Job Paying Up to $200,000",
+    "normalized_title": "remote us based executive job paying up to 200 000",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Chief Executive Officer, Girls Leadership: Remote US-Based Executive Job Paying Up to $200,000\n\nThe Chief Executive Officer, Girls Leadership opportunity offers an experienced nonprofit or social-impact executive the chance to lead a national organization focused on helping girls and gender-expansive youth develop confidence, leadership, social-emotional skills and the ability to use their voices. The recruitment is being managed by Carrington Talent Group on behalf of Girls Leadership, a […]\nThe post Chief Executive Officer, Girls Leadership: Remote US-Based Executive Job Paying Up to $200,000 appeared first on Opportunities for Youth.\n\n2026-10-01T13:34:04.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/01/chief-executive-officer-girls-leadership-remote-us-based-executive-job-paying-up-to-200000/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": 200000,
+      "currency": "USD",
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/01/chief-executive-officer-girls-leadership-remote-us-based-executive-job-paying-up-to-200000/",
+    "dedup_hash": "0f82a457b2d191c0bf4fb1e03328f003bb996a9ead2cebebfef9bf41dca14145",
+    "raw_content_hash": "0a685c360b6af9b975a882ea305e1af99b6ccfdb418f5d611a3c56fd8ff7a6eb",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:46.165Z",
+    "date_last_checked": "2026-10-01T22:24:46.165Z",
+    "date_last_updated": "2026-10-01T22:24:46.165Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/01/chief-executive-officer-girls-leadership-remote-us-based-executive-job-paying-up-to-200000/",
+        "first_seen_at": "2026-10-01T22:24:46.165Z",
+        "last_seen_at": "2026-10-01T22:24:46.165Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:46.165Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 45,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 46,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:46.165Z"
+      }
+    ]
+  },
+  {
+    "id": "ed4d5945-ebd3-422f-8989-b9e7c7b4323f",
+    "organization_id": "8563914a-ee71-468f-af6b-6345bd32fe66",
+    "title": "Atlassian Foundation Open Call for Proposals 2026 – Up to US$1 Million for Education Initiatives",
+    "normalized_title": "atlassian foundation open call for proposals 2026 up to us 1 million for education initiatives",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Atlassian Foundation Open Call for Proposals 2026 – Up to US$1 Million for Education Initiatives\n\nAtlassian Foundation Open Call for Proposals 2026 The Atlassian Foundation Open Call for Proposals 2026 is now open for registered nonprofit organisations working as part of collective action initiatives to improve education for disadvantaged learners in the AI era. The Atlassian Foundation is deploying US$8 million over the next two years to help disadvantaged learners […]\nThe post Atlassian Foundation Open Call for Proposals 2026 – Up to US$1 Million for Education Initiatives appeared first on Opportunities for Youth.\n\n2026-10-01T12:51:48.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/01/atlassian-foundation-open-call-for-proposals-2026-up-to-us1-million-for-education-initiatives/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/01/atlassian-foundation-open-call-for-proposals-2026-up-to-us1-million-for-education-initiatives/",
+    "dedup_hash": "c5dfbc71cf315d5b5fedd0e6c9d352bbc5e309254a80b0e74774f99ccd11c248",
+    "raw_content_hash": "63428403bf931f8b9cd92ba4e1e007e1c203509b7a0d511188640ada600329f1",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:46.270Z",
+    "date_last_checked": "2026-10-01T22:24:46.270Z",
+    "date_last_updated": "2026-10-01T22:24:46.270Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/01/atlassian-foundation-open-call-for-proposals-2026-up-to-us1-million-for-education-initiatives/",
+        "first_seen_at": "2026-10-01T22:24:46.270Z",
+        "last_seen_at": "2026-10-01T22:24:46.270Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:46.270Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:46.270Z"
+      }
+    ]
+  },
+  {
+    "id": "1451b726-24d1-421c-83e9-c44764ae4679",
+    "organization_id": "a332ff0a-aa4a-4d40-adff-513aeb08860b",
+    "title": "€1,170 Monthly Grant and Accommodation Allowance in Frankfurt",
+    "normalized_title": "1 170 monthly grant and accommodation allowance in frankfurt",
+    "opportunity_type": "finance",
+    "tags": [
+      "Finance"
+    ],
+    "description": "ECB Traineeship in International Policy Analysis 2027: €1,170 Monthly Grant and Accommodation Allowance in Frankfurt\n\nThe European Central Bank (ECB) is inviting applications for a Traineeship in International Policy Analysis within its Directorate General International and European Relations. Based in Frankfurt am Main, Germany, this traineeship provides an opportunity for qualified candidates to gain practical experience in international finance, monetary economics, financial markets, data analysis, econometrics and international macroeconomics while […]\nThe post ECB Traineeship in International Policy Analysis 2027: €1,170 Monthly Grant and Accommodation Allowance in Frankfurt appeared first on Opportunities for Youth.\n\n2026-10-01T11:59:23.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/01/traineeship-in-digital-communications-at-the-european-central-bank-ecb-apply-by-10-june-2025/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": "monthly",
+      "notes": null
+    },
+    "program_duration": "70 Month",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/01/traineeship-in-digital-communications-at-the-european-central-bank-ecb-apply-by-10-june-2025/",
+    "dedup_hash": "7d9b98762d616b59849cc9085c7994922512b2d56dcea42135b1a8c5e0f0ec1e",
+    "raw_content_hash": "34981de3a84c37fd0da3286346cbb02ab9c90efcc912d4c39288318c813d501f",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:46.363Z",
+    "date_last_checked": "2026-10-01T22:24:46.363Z",
+    "date_last_updated": "2026-10-01T22:24:46.363Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/01/traineeship-in-digital-communications-at-the-european-central-bank-ecb-apply-by-10-june-2025/",
+        "first_seen_at": "2026-10-01T22:24:46.363Z",
+        "last_seen_at": "2026-10-01T22:24:46.363Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:46.363Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 70,
+        "career_value_score": 50,
+        "organization_score": 40,
+        "student_fit_score": 70,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 54,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Finance.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:46.362Z"
+      }
+    ]
+  },
+  {
+    "id": "4593e766-640f-479b-b730-9344e2945a64",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Account Executive, Platforms (Nordic Region)",
+    "normalized_title": "account executive platforms nordic region",
+    "opportunity_type": "finance",
+    "tags": [
+      "Finance",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Location: Dublin\n\nDepartment: 1185 Account Executives (EMEA)\n\n<p><strong>Who we are&nbsp;</strong></p> <p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have an extraordinary amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <p><strong>About the team</strong></p> <p>Stripe&#39;s Platform Sales team works with B2B software platforms to help them facilitate payments for their customers using Stripe Connect. Our users are software businesses who serve other businesses — platforms like Shopify, Treatwell, Sage, and DesignMyNight already rely on Stripe to power their payments infrastructure.</p> <p>As a key member of the Platforms team, you will manage and deepen relationships with a named account list while identifying new growth opportunities and finding ways Stripe can exceed expectations.</p> <p><strong>What you&#39;ll do</strong></p> <p>As an Account Executive (Grower), you will build partnerships between Stripe and the most innovative and fastest-growing software platforms in the world, helping them understand how Stripe&#39;s financial infrastructure can make payments a true competitive advantage for their businesses.</p> <p><strong>Responsibilities</strong></p> <ul> <li>Directly manage and develop a named account list, building account plans to win and expand business with upper middle market and enterprise SaaS platform companies</li> <li>Build and maintain key relationships with C-level executives, orchestrating the right executive touchpoints throughout the sales cycle</li> <li>Own the full sales cycle from lead to close for upper middle ",
+    "location": "Dublin",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8241304",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8241304",
+    "dedup_hash": "a0f29bd736a9c960b8ce140aeafb9f86fdf5758ebaa42a49f31489e831fd5698",
+    "raw_content_hash": "e179d0e15b3f80682f5efa546d78e48775867caf4022f9e62ac1004216ef29d9",
+    "status": "needs_review",
+    "date_discovered": "2026-10-01T22:24:48.153Z",
+    "date_last_checked": "2026-10-01T22:24:48.153Z",
+    "date_last_updated": "2026-10-01T22:24:48.153Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8241304",
+        "first_seen_at": "2026-10-01T22:24:48.153Z",
+        "last_seen_at": "2026-10-01T22:24:48.153Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:48.153Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 80,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 58,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Finance and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:48.153Z"
+      }
+    ]
+  },
+  {
+    "id": "11b65958-134d-468c-ba4f-7545e8273ce0",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Integrated Campaigns Manager",
+    "normalized_title": "integrated campaigns manager",
+    "opportunity_type": "finance",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Location: US; Remote\n\nDepartment: 2326 Bridge - Marketing\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Stripe’s global demand campaigns team delivers marketing campaigns that drive awareness and engagement for our audiences, solutions, and products worldwide. Working closely with sales and marketing teams, our campaigns support Stripe’s larger business objectives and deliver impact. We build, deliver, monitor, and evolve campaign delivery across a broad suite of content, tactics, and channels. Using a broad suite of metrics, we continuously measure our work and refine our strategies to improve outreach, enhance the customer journey, and support revenue growth for the organization.</p> <h2><strong>What you’ll do</strong></h2> <p>In this role, you&#39;ll quarterback the integrated campaign strategies, plans, and playbooks focused on Stripe’s stablecoin and crypto products (including Bridge). You&#39;ll champion the needs of the core audiences for this product area, holding deep market and audience insight and direct business accountability. You&#39;ll lead a large, global, cross-functional workstream to build campaign strategies and content, then work with regional teams to craft local strategies and to deliver activations through integrated channels. You&#39;ll capture performance against all of your efforts, analyze results, and share learnings to drive continuous improvement and impact. Ultimately",
+    "location": null,
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8248207",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8248207",
+    "dedup_hash": "41301a498614f913627bf87f72d2138aff88de48ba902215749b5bf5fd5d088f",
+    "raw_content_hash": "fdaa14053ce41ce5cc41e8d5fbbddd90ca598e72f0f69a8e4e6fbc255966fb17",
+    "status": "needs_review",
+    "date_discovered": "2026-10-01T22:24:48.731Z",
+    "date_last_checked": "2026-10-01T22:24:48.731Z",
+    "date_last_updated": "2026-10-01T22:24:48.731Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8248207",
+        "first_seen_at": "2026-10-01T22:24:48.731Z",
+        "last_seen_at": "2026-10-01T22:24:48.731Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:48.731Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 65,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 53,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Finance and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:48.731Z"
+      }
+    ]
+  },
+  {
+    "id": "e3613130-90d8-4a0f-a927-05beb2a5f22d",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Manager, Customer Success Enterprise",
+    "normalized_title": "manager customer success enterprise",
+    "opportunity_type": "strategy",
+    "tags": [
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management"
+    ],
+    "description": "Location: Atlanta, GA; Chicago, IL \n\nDepartment: 1340 Customer Success Management\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Our users are the heart of our business. Stripe’s Global Customer Success Team is responsible for managing our largest and most strategic relationships, such as Doordash, Lyft, and Shopify. In this manager role you’ll be responsible for a high-performing team of Customer Success Managers. You’ll lead and coach the team, helping them deliver on ambitious targets, roll up your sleeves to work directly with executives at existing enterprise Stripe customers and partner cross functionally to help users execute their business priorities.</p> <p>We are looking for a hands-on, visionary leader who has demonstrated success dealing with ambiguity, operating in a high-growth environment, and solving complicated problems with limited oversight. Ideal candidates will have management and leadership experience scaling a technology Customer Success team, superior communication skills, and a track record for building trusted relationships with senior stakeholders and understanding unique customer needs.</p> <p><strong>What you’ll do</strong></p> <p>We are seeking a Manager to lead a team of high-performing Customer Success Managers to build and grow the relationships with our most complex users. You will:</p> <ul> <li>Recruit, devel",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8181032",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8181032",
+    "dedup_hash": "969c49afc963894ef555ac29ae1223a59adeb578e0ff3078e7340401c7e3699f",
+    "raw_content_hash": "a0ce07ee004f2751f187d633f17b600ccd2b273bd82fde4155ae54fca27650ff",
+    "status": "needs_review",
+    "date_discovered": "2026-10-01T22:24:48.815Z",
+    "date_last_checked": "2026-10-01T22:24:48.815Z",
+    "date_last_updated": "2026-10-01T22:24:48.815Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8181032",
+        "first_seen_at": "2026-10-01T22:24:48.815Z",
+        "last_seen_at": "2026-10-01T22:24:48.815Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:48.815Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 90,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 65,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 54,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Client Management and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:48.815Z"
+      }
+    ]
+  },
+  {
+    "id": "92de9f21-eee5-40ec-99bb-a98cfc380575",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Sales Manager, SMB, UKI ",
+    "normalized_title": "sales manager smb uki",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Operations",
+      "Strategy",
+      "Entrepreneurship"
+    ],
+    "description": "Location: Dublin\n\nDepartment: 1180 GEO Sales HQ (EMEA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The EMEA SMB team is a highly consultative sales team that is responsible for new customer acquisition.&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <p>As a Sales Manager at Stripe, you’ll play an instrumental role in fueling Stripe’s growth in UKI through new customer acquisition. You&#39;ll lead and coach high-performing account executives, helping them deliver on ambitious targets, as well as roll up your sleeves to work directly with users and prospects. We are looking for an individual who is keen to work alongside a high-performing team of individuals to navigate complex organizations and find new opportunities to make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Recruit, develop and lead a team of sales professionals, with a particular focus on the SMB segment for UKI&nbsp;</li> <li>Develop the long-term vision and strategy for the team and manage day-to-day operations, with a focus on performance against key sales metrics</li> <li>Be accountable for new client acquisition&nbsp;</li> <li>Driving deal strategy and execution including strong pipeline development, opportunity management, and forecasting</li> <li>Coach and guide the team in developing consultative and solution-based sales skills through all facets of the sales",
+    "location": "Dublin",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8176728",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8176728",
+    "dedup_hash": "6dc4db321d6bdf1f09b9b84599b8a774e03e976c195b31006159dbb08f88d1ed",
+    "raw_content_hash": "54a0e09476fc65e38e3433a5a6e9269a40ee8300dd5a75a7ce7464d6b184c181",
+    "status": "needs_review",
+    "date_discovered": "2026-10-01T22:24:49.307Z",
+    "date_last_checked": "2026-10-01T22:24:49.307Z",
+    "date_last_updated": "2026-10-01T22:24:49.307Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8176728",
+        "first_seen_at": "2026-10-01T22:24:49.307Z",
+        "last_seen_at": "2026-10-01T22:24:49.307Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:49.307Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 90,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 80,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Operations and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:49.307Z"
+      }
+    ]
+  },
+  {
+    "id": "473a8ccc-5b25-47d5-aa93-4f93cfcdba81",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Regulatory Operations Lead",
+    "normalized_title": "regulatory operations lead",
+    "opportunity_type": "consulting",
+    "tags": [
+      "Consulting",
+      "Operations",
+      "Strategy",
+      "Project Management"
+    ],
+    "description": "Location: United States\n\nDepartment: Business Operations/Analysis\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;><strong>The Community You Will Join:&nbsp;</strong></span></p> <p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;>The Cities team leads the work necessary to implement the regulatory products and processes needed globally to comply with regulations, and does so in a manner that also sustainably supports Airbnb’s growth.</span></p> <p><span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;><strong>The Difference You Will Make:</strong></span></p> <p>As a Regulatory Operations Lead, you will bring specialized experience in regulatory operations, expertise in team management and the ability to advise and guide cross-functional teams across geographies based on trends and observations to continuously evolve our long term strategy. You will lead with influence, build structure through ambiguity, and deliver innovation that enables scalable, elegant solutions.</p> <p>You will be responsible for driving the delivery of centrally run strategic programs, while also defining and executing localized strategies that play a key role in accelerating Airbnb&#39;s growth and retention efforts. You should be comfortable developing operational programs and processes, have experience navigating complex regulatory environments, and possess a keen eye for quality/detail that inspires",
+    "location": "United States",
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://careers.airbnb.com/positions/7789528?gh_jid=7789528",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": 160000,
+      "currency": "USD",
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/7789528?gh_jid=7789528",
+    "dedup_hash": "ca5ba713f65b1396c58ab51e73fd6bc2de65ce3e04e66a988a6ab2942b16b0ad",
+    "raw_content_hash": "fe79702bef021f4713a66067615042c7e07ffb0b5157706c4668d4e2ee2374fd",
+    "status": "new",
+    "date_discovered": "2026-10-01T22:24:50.157Z",
+    "date_last_checked": "2026-10-01T22:24:50.157Z",
+    "date_last_updated": "2026-10-01T22:24:50.157Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/7789528?gh_jid=7789528",
+        "first_seen_at": "2026-10-01T22:24:50.157Z",
+        "last_seen_at": "2026-10-01T22:24:50.157Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-01T22:24:50.157Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 55,
+        "organization_score": 40,
+        "student_fit_score": 85,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 61,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Operations and Consulting.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-01T22:24:50.156Z"
       }
     ]
   }
