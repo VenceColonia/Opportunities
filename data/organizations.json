@@ -4078,5 +4078,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "7cd19174-fb37-4061-ae92-981eb43e97ad",
+    "name": "Teach For Uganda STEM Fellowship 2026",
+    "normalized_name": "teach for uganda stem fellowship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "425b80cd-895d-43e4-95c1-51dc2f506a8c",
+    "name": "Harvard Loeb Fellowship 2027–28",
+    "normalized_name": "harvard loeb fellowship 2027 28",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
