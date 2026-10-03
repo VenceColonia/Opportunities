@@ -4108,5 +4108,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "9b4c41ae-b3cb-4487-b3dd-be155a8df8ef",
+    "name": "Feedzai",
+    "normalized_name": "feedzai",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "15c3350e-4b88-487d-ae49-0e68ecdb42db",
+    "name": "Webflow",
+    "normalized_name": "webflow",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "7aa37b7f-e629-45aa-bee3-0315c6b7a309",
+    "name": "Talkspace",
+    "normalized_name": "talkspace",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5f785875-4767-498c-985d-0f6e82a3c6f1",
+    "name": "Fin",
+    "normalized_name": "fin",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "bdc66d43-1c1b-4c45-acce-8e75aa21ce5b",
+    "name": "Emerging Leaders Programme 2026–2027",
+    "normalized_name": "emerging leaders programme 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "fdcc890d-5855-483d-bbe0-97c11d370544",
+    "name": "Overseas Press Club Foundation Scholar Awards 2027",
+    "normalized_name": "overseas press club foundation scholar awards 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c404f620-526a-414d-b77a-9cc40db0b6a6",
+    "name": "ESRC Centre for Digital Futures at Work Scholarship 2026/27 at the University of Leeds",
+    "normalized_name": "esrc centre for digital futures at work scholarship 2026 27 at the university of leeds",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0341c8c0-d251-47c8-b9b1-992a6bb9f157",
+    "name": "Global Leadership Challenge 2026",
+    "normalized_name": "global leadership challenge 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
