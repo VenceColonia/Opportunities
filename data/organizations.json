@@ -4188,5 +4188,45 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "fcc449e6-bab0-474e-8369-d970bc5e4a95",
+    "name": "Connect & Create Relay Scheme 2026",
+    "normalized_name": "connect create relay scheme 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0402d30f-6e48-4a0b-abd3-e15e99f2c538",
+    "name": "InnoTadweer",
+    "normalized_name": "innotadweer",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a47ddd01-da24-4eac-a097-6732265bc8e8",
+    "name": "Goldman Sachs 2026 Emerging Leaders Series",
+    "normalized_name": "goldman sachs 2026 emerging leaders series",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "cae9bceb-c84c-40dc-8044-af033cec01b9",
+    "name": "Visa Foundation U.S. Small Business Growth and Innovation Program",
+    "normalized_name": "visa foundation u s small business growth and innovation program",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
