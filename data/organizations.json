@@ -4228,5 +4228,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "c08ef52c-58eb-4350-a619-53f88693a962",
+    "name": "IMF Economist Program 2027",
+    "normalized_name": "imf economist program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b4d2ef0b-4bcc-47ac-937b-e873f425fd15",
+    "name": "Solon Fellowship Program 2026",
+    "normalized_name": "solon fellowship program 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
