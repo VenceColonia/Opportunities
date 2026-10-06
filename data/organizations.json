@@ -4598,5 +4598,75 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "f73b64ae-47bb-4351-bf7e-c4de722ed25e",
+    "name": "Sister2Sister Advanced Leadership Program Canada 2026",
+    "normalized_name": "sister2sister advanced leadership program canada 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9961e636-6c61-468b-9673-4f99a609e0c1",
+    "name": "University of Pretoria Postdoctoral Fellowship Programme 2027",
+    "normalized_name": "university of pretoria postdoctoral fellowship programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9c4a0018-bd63-4439-9304-9f1c38f9736d",
+    "name": "JPMorganChase Corporate Analyst Development Program 2027",
+    "normalized_name": "jpmorganchase corporate analyst development program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "76403226-ed72-4305-bb47-b4681b598af3",
+    "name": "Durham University Transformative Humanities PhD Studentships 2027",
+    "normalized_name": "durham university transformative humanities phd studentships 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f3aceb34-265f-493f-82a6-f16a3f51fe7c",
+    "name": "FP Markets",
+    "normalized_name": "fp markets",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "688a869c-4303-4633-8786-f1143ef3a413",
+    "name": "Müller`s Solutions",
+    "normalized_name": "muller s solutions",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a0132b10-0b3b-4e0a-9500-583c42dbc8dc",
+    "name": "HubSpot",
+    "normalized_name": "hubspot",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
