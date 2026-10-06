@@ -4518,5 +4518,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "2138ea45-5ecc-4771-bef6-6b137d1da7fe",
+    "name": "France Pacific Fund 2027",
+    "normalized_name": "france pacific fund 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "675d8c15-a8dd-4db3-98cb-c59e0e81274a",
+    "name": "Harvard Belfer Center Fellowships 2027–2028",
+    "normalized_name": "harvard belfer center fellowships 2027 2028",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "de0a5fa5-4921-424e-a786-af2c23393945",
+    "name": "HM Treasury Graduate Policy Programme 2026–2027",
+    "normalized_name": "hm treasury graduate policy programme 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0ad64624-ed7b-476c-9135-86987516b780",
+    "name": "Harvard LEAD Fellowship 2027–2028",
+    "normalized_name": "harvard lead fellowship 2027 2028",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a9d66359-ce19-4085-8656-827fc69e51ee",
+    "name": "DAAD In-Country/In-Region Scholarships 2026–2027",
+    "normalized_name": "daad in country in region scholarships 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "68a69bbc-f3b4-48ec-ac64-f651667d023e",
+    "name": "Jerome R. Lewis Legislative Fellows Program 2027",
+    "normalized_name": "jerome r lewis legislative fellows program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0df5f857-cee9-48e0-b56b-114b26a8d1ef",
+    "name": "Erasmus Mundus Joint Master in International Law of Security, Peace and Sustainable Development 2027–2029",
+    "normalized_name": "erasmus mundus joint master in international law of security peace and sustainable development 2027 2029",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "41201ecd-ae06-42a7-b712-a19c525c311f",
+    "name": "Semaphore",
+    "normalized_name": "semaphore",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
