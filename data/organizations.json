@@ -4748,5 +4748,125 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "f2e45aaa-9567-490f-b5e8-2bad44c8901e",
+    "name": "Logicstics",
+    "normalized_name": "logicstics",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4c0f4fd9-57ec-4594-8b4a-176e22b87302",
+    "name": "Gilbert Pharmaceuticals",
+    "normalized_name": "gilbert pharmaceuticals",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a1ece689-a33b-4d92-92a6-203f383f62bb",
+    "name": "Novo Nordisk Foundation Postdoctoral Fellowships at MIT 2027",
+    "normalized_name": "novo nordisk foundation postdoctoral fellowships at mit 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c95ca459-7c90-4d5e-b4e6-cffac6b59b79",
+    "name": "WES Ecosystem Fund 2027",
+    "normalized_name": "wes ecosystem fund 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "71729e65-9dcc-4656-83e2-56644cd8b54c",
+    "name": "UC Merced PhD in Public Health 2027",
+    "normalized_name": "uc merced phd in public health 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4d73a05d-84c8-4c97-8370-d071b4ed2764",
+    "name": "the University of Cape Town 2027",
+    "normalized_name": "the university of cape town 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9e1e76c9-0b5b-4ece-a1ba-8d5e36d88fc9",
+    "name": "CSIS Strategy and Statecraft Fellowship 2027",
+    "normalized_name": "csis strategy and statecraft fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5f68862e-a261-492c-b970-a26528ecc41d",
+    "name": "Stanford CISAC Fellowships 2027–2028",
+    "normalized_name": "stanford cisac fellowships 2027 2028",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "6869e4bf-8eb9-4877-b233-968e454627fd",
+    "name": "Apple Hardware PhD Internships 2026",
+    "normalized_name": "apple hardware phd internships 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "503e57ac-b4e6-42c0-8c04-e2b8c989fddf",
+    "name": "Ernst Mach Grant 2026–2027",
+    "normalized_name": "ernst mach grant 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "22dc7cc6-2baa-485f-b1eb-362bc80dc36c",
+    "name": "ALF Knowledge for Action K4A Cycle 2",
+    "normalized_name": "alf knowledge for action k4a cycle 2",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "34d3c5a0-3032-4841-bb4b-3717f7164c57",
+    "name": "IFAD $2 Million Grant Call for Proposals",
+    "normalized_name": "ifad 2 million grant call for proposals",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
