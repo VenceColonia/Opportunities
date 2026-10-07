@@ -4668,5 +4668,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "1b6f20e5-03bd-4313-8893-ed064bfcafab",
+    "name": "Harvard Nieman Fellowship 2027-28",
+    "normalized_name": "harvard nieman fellowship 2027 28",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c5af2e62-c61f-49eb-a27e-3571d52b75b8",
+    "name": "Max Planck School of Cognition 2027",
+    "normalized_name": "max planck school of cognition 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0578ae6d-d3ab-4a0f-a750-88470a2dd088",
+    "name": "10,000 Black Interns Programme 2027",
+    "normalized_name": "10 000 black interns programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b3f20010-a3df-4ddd-9ac8-f3cc1d74e14c",
+    "name": "LSE MPhil/PhD Law 2027",
+    "normalized_name": "lse mphil phd law 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "117367f1-f8c6-4d74-956b-71ffbad69ab3",
+    "name": "The Ethics Centre Young Writers’ Competition 2026",
+    "normalized_name": "the ethics centre young writers competition 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8d31d1ad-acf6-4a7c-99f7-7bc1e86aa8fd",
+    "name": "Children and Youth Pavilion COP31 Spokesperson Application",
+    "normalized_name": "children and youth pavilion cop31 spokesperson application",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9db4f378-cd30-4206-9798-5c5c46a55172",
+    "name": "Assistant Professor – Civics Education at UC Berkeley",
+    "normalized_name": "assistant professor civics education at uc berkeley",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d30d9097-6bcc-4d92-8507-92243a9de096",
+    "name": "Mixmax",
+    "normalized_name": "mixmax",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
