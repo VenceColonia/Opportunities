@@ -4878,5 +4878,85 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "cb4beead-f311-4ab3-baf0-8aa9f549f007",
+    "name": "Alloy",
+    "normalized_name": "alloy",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1f6e14f7-ec42-4611-92db-7a5ebc44a272",
+    "name": "MENA Regenerative Agriculture Venture Programme 2026/2027",
+    "normalized_name": "mena regenerative agriculture venture programme 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "74f31f2d-8d43-4025-ab94-91c9d0037b3d",
+    "name": "Gloria’s Foundation Fellowship 2027",
+    "normalized_name": "gloria s foundation fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "69dea90c-b5ee-4335-b75c-d8195593f37f",
+    "name": "University of Oxford Master of Public Policy Scholarships 2027–28",
+    "normalized_name": "university of oxford master of public policy scholarships 2027 28",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "56c0558d-693c-482a-b7fd-dc71c3bde4fd",
+    "name": "Rutgers University Global Urban Studies PhD 2027",
+    "normalized_name": "rutgers university global urban studies phd 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4680fc6f-4eb7-4246-bf8a-d62bccc7a9ff",
+    "name": "the University of Bonn, Germany – Fully Funded Research Fellowship for Scholars of Slavery and Dependency Studies",
+    "normalized_name": "the university of bonn germany fully funded research fellowship for scholars of slavery and dependency studies",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3dae7394-cf80-4788-b21e-4ddc51cceff1",
+    "name": "HYROS",
+    "normalized_name": "hyros",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f0d8e8bf-2860-42a1-af29-007c79d6d0bb",
+    "name": "Forter",
+    "normalized_name": "forter",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
