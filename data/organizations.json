@@ -5068,5 +5068,95 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "af173cdf-f3e6-42c1-bef7-d6348daa91a0",
+    "name": "Amwell",
+    "normalized_name": "amwell",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "522abb9d-7ac3-46b9-8512-527506871f42",
+    "name": "the University of Oslo, Norway (2026)",
+    "normalized_name": "the university of oslo norway 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "73586337-f8e7-4415-b836-bc2610bbd1aa",
+    "name": "Skills Nation DC 2026",
+    "normalized_name": "skills nation dc 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d18610e1-7f59-4fa1-a695-cb768ce928c9",
+    "name": "The Atlantic Careers 2026",
+    "normalized_name": "the atlantic careers 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "e2e2364e-be04-4065-ad9a-3ffd8deba303",
+    "name": "The Experiment Summer 2027 Programs",
+    "normalized_name": "the experiment summer 2027 programs",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c7054854-3946-462a-828d-0ee02cc9e982",
+    "name": "World Bank Government Analytics Fellowship 2027",
+    "normalized_name": "world bank government analytics fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "834ade70-04e6-4e11-a497-be7dc166e6bd",
+    "name": "World Finance Innovation Awards 2026",
+    "normalized_name": "world finance innovation awards 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "dfc0a139-fff4-414d-aad6-b2880564ce6d",
+    "name": "UN Indigenous Peoples Fund 2027",
+    "normalized_name": "un indigenous peoples fund 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0ae699b4-1502-48a2-908e-aad8c546ade2",
+    "name": "JetBrains",
+    "normalized_name": "jetbrains",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
