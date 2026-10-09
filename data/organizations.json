@@ -5158,5 +5158,95 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "b97f1506-9181-4fde-b4f5-a96ab9d71d9a",
+    "name": "RETR",
+    "normalized_name": "retr",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8f4b0643-5d51-4f1c-af56-c7bdef612465",
+    "name": "TWAS Visiting Expert Programme 2026",
+    "normalized_name": "twas visiting expert programme 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ed6f16f4-ea88-4cf5-8d8f-533ef99115c0",
+    "name": "ELLIS PhD Program 2027 in Europe",
+    "normalized_name": "ellis phd program 2027 in europe",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "e5779a8d-7089-4303-92e9-b0d26e2a1339",
+    "name": "2027 Indigenous Youth Fellowship by Cultural Survival",
+    "normalized_name": "2027 indigenous youth fellowship by cultural survival",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "14e87916-8464-4a5d-bc37-e1af580b314e",
+    "name": "12 UK Government and Public Sector Graduate Jobs 2026",
+    "normalized_name": "12 uk government and public sector graduate jobs 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5bde4de1-55b7-4b40-99e7-299e1bb0e011",
+    "name": "ETH AI Center Fellowships 2027 in Switzerland",
+    "normalized_name": "eth ai center fellowships 2027 in switzerland",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4c03efe2-8973-4ecd-9a46-d1397fec4b6d",
+    "name": "Healthy Food Policy Fellowship 2026",
+    "normalized_name": "healthy food policy fellowship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4d47bfcd-f2d1-4304-b7c0-6ddb46178053",
+    "name": "SafeTech Africa HackLab 2026",
+    "normalized_name": "safetech africa hacklab 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ade694fe-6bf4-4ca3-a2f5-a5ea8097cba4",
+    "name": "TIMERA Fellowship 2026–2029",
+    "normalized_name": "timera fellowship 2026 2029",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
