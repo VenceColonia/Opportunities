@@ -5678,5 +5678,65 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "dfcda15f-a2b3-4739-aeb6-a9e07eac29b1",
+    "name": "Tailscale",
+    "normalized_name": "tailscale",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "087c616f-e383-458e-8e0a-6bc251516bbe",
+    "name": "Lattice",
+    "normalized_name": "lattice",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8a9fcb42-8d10-4131-a499-e9b81dd01f15",
+    "name": "Airtable",
+    "normalized_name": "airtable",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "59500132-8404-44da-a6c2-8cde45b2f168",
+    "name": "UK Data Service Data Impact Fellows 2027–28",
+    "normalized_name": "uk data service data impact fellows 2027 28",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "970d445f-3043-4474-80d8-5c222d3ba963",
+    "name": "UNESCO Request for Proposal 2026",
+    "normalized_name": "unesco request for proposal 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a50321a2-e046-4603-8ec2-28c9c98b88b6",
+    "name": "AI, Ethics and Climate Governance Fellowship 2026",
+    "normalized_name": "ai ethics and climate governance fellowship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
