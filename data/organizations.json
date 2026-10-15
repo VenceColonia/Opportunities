@@ -5818,5 +5818,55 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "035ffe5e-d741-4f58-9e00-5bde15020c49",
+    "name": "StockX",
+    "normalized_name": "stockx",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "956730a6-3808-43ef-92e3-77e34855d6b9",
+    "name": "Adaptation & Resilience ClimAccelerator Tanzania 2026",
+    "normalized_name": "adaptation resilience climaccelerator tanzania 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c75d85d1-385b-42c8-89e3-f7b51fd4c674",
+    "name": "Sweden–UNICEF FemTech Ventures 2026",
+    "normalized_name": "sweden unicef femtech ventures 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "90c17423-f5dc-4760-b57c-0effa37b18d4",
+    "name": "2027 Processing Foundation Fellowship",
+    "normalized_name": "2027 processing foundation fellowship",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "649f4eb8-35ee-4e7c-8888-e2c8da194b63",
+    "name": "United Nations Regional Course in International Law for Africa 2027 in Ethiopia",
+    "normalized_name": "united nations regional course in international law for africa 2027 in ethiopia",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
