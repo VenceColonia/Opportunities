@@ -1493,5 +1493,18 @@
     "items_needs_review": 5,
     "status": "partial",
     "error_log": "[Opportunities for Youth (scholarships/fellowships/competitions)] Status code 403"
+  },
+  {
+    "id": "aa08a646-a829-4c22-8411-164d358ab02e",
+    "run_type": "scheduled",
+    "started_at": "2026-10-15T21:00:13.947Z",
+    "completed_at": "2026-10-15T21:00:35.757Z",
+    "items_found": 522,
+    "items_new": 11,
+    "items_updated": 13,
+    "items_duplicate": 0,
+    "items_needs_review": 1,
+    "status": "partial",
+    "error_log": "[We Work Remotely — Sales & Marketing] Request timed out after 15000ms"
   }
 ]

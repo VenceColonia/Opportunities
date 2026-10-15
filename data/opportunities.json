@@ -12089,7 +12089,7 @@
     "location": "Dublin",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -12114,17 +12114,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "dedup_hash": "bc2d06ca2e0564c94ecbbf05cd61d80953463e0691d4df5d5cc09a6ab1bf5762",
-    "raw_content_hash": "b7f5fa075b480277375ad6ea456f877c36592e3968686e016b0bc3f9ac7b9b9f",
+    "raw_content_hash": "3684d3a9b1306105a2723c828ae348c30dd66a4f4fd3897bb5ef19df769c6a4b",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.372Z",
-    "date_last_checked": "2026-10-15T16:27:00.610Z",
+    "date_last_checked": "2026-10-15T21:00:34.121Z",
     "date_last_updated": "2026-09-14T06:43:29.372Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
         "first_seen_at": "2026-09-14T06:43:29.372Z",
-        "last_seen_at": "2026-10-15T10:58:15.647Z"
+        "last_seen_at": "2026-10-15T21:00:34.121Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -12158,7 +12158,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:00.610Z"
+        "scored_at": "2026-10-15T21:00:34.121Z"
       }
     ]
   },
@@ -12288,14 +12288,14 @@
     "raw_content_hash": "fad693f716d39976a49704cdfec1aff0cab43eb736d701b59224fc7b6c0b47de",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.496Z",
-    "date_last_checked": "2026-10-15T16:27:00.708Z",
+    "date_last_checked": "2026-10-15T21:00:34.306Z",
     "date_last_updated": "2026-09-14T06:43:29.496Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172503",
         "first_seen_at": "2026-09-14T06:43:29.496Z",
-        "last_seen_at": "2026-10-15T16:27:00.708Z"
+        "last_seen_at": "2026-10-15T21:00:34.306Z"
       }
     ],
     "updates": [
@@ -12323,7 +12323,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Data Analytics.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:00.708Z"
+        "scored_at": "2026-10-15T21:00:34.306Z"
       }
     ]
   },
@@ -30847,11 +30847,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: United States\n\nDepartment: 4892 Risk Operations Enablement\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Risk PMO team protects Stripe’s revenue and drives cross-functional strategy for company-level and org-level priorities. As Stripe operates across an increasingly complex and fast-moving global regulatory environment, one of our most important functions is ensuring that our largest, most strategic users can grow with us—compliantly, confidently, and at speed.</p> <p>We sit at the intersection of Legal, Compliance, Engineering, Product, Data Science, and GTM—serving as the bridge between teams coordinating massive programs with global, wide-reaching impact. We build durable systems that enable strong collaboration across functions and seamless experiences for our users.</p> <p>If you&#39;re energized by high-stakes, ambiguous problems and thrive on building programs from scratch in environments where the rules are still being written—we want to hear from you.</p> <h2><strong>What you’ll do</strong></h2> <p>You will define, own, and execute program strategies for large-scale regulatory initiatives, operating with significant autonomy across a portfolio of global projects.</p> <p>This is a highly visible, senior individual contributor (IC) role. While you will influence senior leadership and set strategic direction, you are also",
-    "location": "United States",
+    "description": "Location: Dublin, Ireland\n\nDepartment: 4892 Risk Operations Enablement\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Risk PMO team protects Stripe’s revenue and drives cross-functional strategy for company-level and org-level priorities. As Stripe operates across an increasingly complex and fast-moving global regulatory environment, one of our most important functions is ensuring that our largest, most strategic users can grow with us—compliantly, confidently, and at speed.</p> <p>We sit at the intersection of Legal, Compliance, Engineering, Product, Data Science, and GTM—serving as the bridge between teams coordinating massive programs with global, wide-reaching impact. We build durable systems that enable strong collaboration across functions and seamless experiences for our users.</p> <p>If you&#39;re energized by high-stakes, ambiguous problems and thrive on building programs from scratch in environments where the rules are still being written—we want to hear from you.</p> <h2><strong>What you’ll do</strong></h2> <p>You will define, own, and execute program strategies for large-scale regulatory initiatives, operating with significant autonomy across a portfolio of global projects.</p> <p>This is a highly visible, senior individual contributor (IC) role. While you will influence senior leadership and set strategic direction, you are al",
+    "location": "Dublin, Ireland",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8158082",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8209641",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -30878,11 +30878,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8158082",
     "dedup_hash": "ff3906a713306d16664cdb12b858b9cfed86c3cddec8abe2f1002fc24b61019c",
-    "raw_content_hash": "efc801f5cf8e945f12146ff7d634fa81b34dbb11c1e90b9128b4ed843e0a595a",
+    "raw_content_hash": "818b6b5f798e8a41f7073a233e14c0b934e69ca37701cc6efbd825cd28f34e05",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:44.100Z",
-    "date_last_checked": "2026-10-15T16:27:01.929Z",
-    "date_last_updated": "2026-10-15T16:27:01.929Z",
+    "date_last_checked": "2026-10-15T21:00:34.974Z",
+    "date_last_updated": "2026-10-15T21:00:34.974Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -30894,7 +30894,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8209641",
         "first_seen_at": "2026-09-23T10:55:08.418Z",
-        "last_seen_at": "2026-10-15T10:58:16.382Z"
+        "last_seen_at": "2026-10-15T21:00:34.974Z"
       }
     ],
     "updates": [
@@ -31436,6 +31436,13 @@
         "old_value": "Dublin, Ireland",
         "new_value": "United States",
         "detected_at": "2026-10-15T16:27:01.929Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "United States",
+        "new_value": "Dublin, Ireland",
+        "detected_at": "2026-10-15T21:00:34.974Z"
       }
     ],
     "scores": [
@@ -31454,7 +31461,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Consulting.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:01.929Z"
+        "scored_at": "2026-10-15T21:00:34.974Z"
       }
     ]
   },
@@ -34067,14 +34074,14 @@
     "raw_content_hash": "ed4c8babf706d151dda361577af6ee1d39ced2fdf6d28d24291c05b4d23c7a07",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:45.893Z",
-    "date_last_checked": "2026-10-15T16:27:02.029Z",
+    "date_last_checked": "2026-10-15T21:00:35.218Z",
     "date_last_updated": "2026-09-14T06:43:45.893Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8176730",
         "first_seen_at": "2026-09-14T06:43:45.893Z",
-        "last_seen_at": "2026-10-15T16:27:02.029Z"
+        "last_seen_at": "2026-10-15T21:00:35.218Z"
       }
     ],
     "updates": [
@@ -34102,7 +34109,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Client Management.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:02.029Z"
+        "scored_at": "2026-10-15T21:00:35.218Z"
       }
     ]
   },
@@ -35865,31 +35872,27 @@
     "tags": [
       "Operations",
       "Technology",
-      "Entrepreneurship",
-      "Project Management"
+      "Entrepreneurship"
     ],
-    "description": "Location: Seattle, WA\n\nDepartment: Global Operations\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe&nbsp;</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Conducting technical interviews;&nbsp;</li> <li>Creating software, tooling and distributed systems for automating and managing data center network hardware and compute stacks;</li> <li>Creating and operating shared infrastructure for Stripe’s Cardholder data environment;</li> <li>Deployment tooling;&nbsp;</li> <li>SOX compliance audit prep interviews, and remediations;&nbsp;</li> <li>PCI compliance audit prep, interviews, and remediations;&nbsp;</li> <li>Project management;</li> <li>Mentoring junior engineers;&nbsp;</li> <li>On-call responsibilities.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <p>Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science, Software Engineering, or related field, plus two (2) years of Software Development experience. Position also requires the following:</p> <ul> <li>2 years of experience with AWS cloud infrastructure and Terraform infrastructure automation;</li> <li>2 years of experience with reliability, scalability, and distributed systems principles;</li> <li>1 year of experience in Go and Ansible programming languages;</li> <li>1 year of experience in Puppet host configuration;</li> <li>1 year of experience in Ruby programming lan",
+    "description": "Location: Seattle, WA\n\nDepartment: Global Operations\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe&nbsp;</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Design, build, and operate critical tier-0 backend services that must achieve 99.99%+ availability and handle security-sensitive data.</li> <li>Responsible for improving developer tooling.&nbsp;</li> <li>Design and implement robust, scalable infrastructure, participate in an on-call rotation, and collaborate with engineering teams across the company to plan and safely execute changes in production.&nbsp;</li> <li>Set up and operate infrastructure that participates in decentralized distributed systems, including creating deploy pipelines for artifacts.&nbsp;</li> <li>Build and harden custom Amazon Machine Images (AMIs) used to bootstrap EC2 instances, and implement monitoring, logging, and alerting for these systems.&nbsp;</li> <li>Participate in roadmap planning and prioritization.&nbsp;</li> <li>Deliver value through a strong collaborative approach with multiple customers and stakeholders across Stripe.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <h3>Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science or a related field, plus three (3) years of software engineering or related experience.</h3> <p>Must have three (3) years of experience in each of the following",
     "location": "Seattle, WA",
     "country": null,
-    "work_arrangement": "remote",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8249901",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
     "end_date": null,
     "eligibility_text": null,
     "degree_requirements": [],
-    "year_level_requirements": [
-      "3rd year"
-    ],
+    "year_level_requirements": [],
     "citizenship_requirements": [],
     "gpa_requirement": null,
     "skills_required": [
-      "Python",
-      "Leadership"
+      "Python"
     ],
     "compensation": {
-      "amount": 190400,
+      "amount": 156800,
       "currency": "USD",
       "period": "stipend",
       "notes": null
@@ -35899,11 +35902,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8174105",
     "dedup_hash": "d018ef20b3d11203ad09b2d355ff85f95003a3cf68cce98cf7347f0547b9b66a",
-    "raw_content_hash": "4e231750d65460a6e03611cca2f71162418042d9565c440d6dc037728328b4d5",
+    "raw_content_hash": "bb4c7e96ba7146fd7ae7080f5ffc4505d7b1b4eacd816909ef9f462d2ea56a40",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:47.458Z",
-    "date_last_checked": "2026-10-15T16:27:02.258Z",
-    "date_last_updated": "2026-10-15T16:27:02.258Z",
+    "date_last_checked": "2026-10-15T21:00:35.349Z",
+    "date_last_updated": "2026-10-15T21:00:35.349Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -35915,7 +35918,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8249901",
         "first_seen_at": "2026-10-02T21:54:19.245Z",
-        "last_seen_at": "2026-10-15T10:58:16.504Z"
+        "last_seen_at": "2026-10-15T21:00:35.349Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -36204,25 +36207,39 @@
         "old_value": "{\"amount\":156800,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
         "new_value": "{\"amount\":190400,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
         "detected_at": "2026-10-15T16:27:02.258Z"
+      },
+      {
+        "change_type": "work_arrangement_changed",
+        "field_name": "work_arrangement",
+        "old_value": "remote",
+        "new_value": "unknown",
+        "detected_at": "2026-10-15T21:00:35.349Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":190400,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
+        "new_value": "{\"amount\":156800,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
+        "detected_at": "2026-10-15T21:00:35.349Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 90,
+        "relevance_score": 80,
         "career_value_score": 55,
         "organization_score": 40,
-        "student_fit_score": 80,
-        "accessibility_score": 50,
+        "student_fit_score": 70,
+        "accessibility_score": 70,
         "urgency_score": 20,
-        "overall_score": 58,
+        "overall_score": 57,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "Matches your interest in Operations and Project Management.",
+        "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:02.258Z"
+        "scored_at": "2026-10-15T21:00:35.349Z"
       }
     ]
   },
@@ -41684,11 +41701,11 @@
       "Technology",
       "Client Management"
     ],
-    "description": "Location: Vietnam\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The role needs to be physically based in Bangkok, Thailand.&nbsp;</strong></p> <p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.",
-    "location": "Vietnam",
+    "description": "Location: Bangkok, Thailand\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.</p> <p><strong>A typical day:&nbsp;</strong></p> <ul> <li>Build and manage part",
+    "location": "Bangkok, Thailand",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
+    "application_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -41714,17 +41731,17 @@
     "applications_open": true,
     "primary_source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "dedup_hash": "4139f5db5ce884c5344ab037ba920b7c22c8a57f17baeeb09703c2a85d1fb05c",
-    "raw_content_hash": "977fee79b884be68c50d54d3795778e3b6caaec81e37b8bda34d3b84038d6dac",
+    "raw_content_hash": "8495f70db54c9b2001dff5b054f8e28113c313b78a4670302376226b15f071e1",
     "status": "updated",
     "date_discovered": "2026-09-14T06:44:03.685Z",
-    "date_last_checked": "2026-10-15T16:27:02.928Z",
-    "date_last_updated": "2026-10-15T16:27:02.928Z",
+    "date_last_checked": "2026-10-15T21:00:35.676Z",
+    "date_last_updated": "2026-10-15T21:00:35.676Z",
     "sources": [
       {
         "source_id": "source-greenhouse-airbnb",
         "source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
         "first_seen_at": "2026-09-14T06:44:03.685Z",
-        "last_seen_at": "2026-10-15T10:58:16.768Z"
+        "last_seen_at": "2026-10-15T21:00:35.676Z"
       },
       {
         "source_id": "source-greenhouse-airbnb",
@@ -42517,6 +42534,13 @@
         "old_value": "Bangkok, Thailand",
         "new_value": "Vietnam",
         "detected_at": "2026-10-15T16:27:02.928Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Vietnam",
+        "new_value": "Bangkok, Thailand",
+        "detected_at": "2026-10-15T21:00:35.676Z"
       }
     ],
     "scores": [
@@ -42535,7 +42559,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Client Management and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:02.928Z"
+        "scored_at": "2026-10-15T21:00:35.676Z"
       }
     ]
   },
@@ -51575,7 +51599,7 @@
   {
     "id": "53a61839-e209-49d4-94c8-cef52a323da2",
     "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
-    "title": "Account Executive, Product Sales (Billing) - Grower",
+    "title": "Account Executive, Product Sales, Billing (Grower)",
     "normalized_title": "account executive product sales billing grower",
     "opportunity_type": "finance",
     "tags": [
@@ -51586,11 +51610,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Dublin\n\nDepartment: 1644 Product Sales - Prime Billing\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in the Stripe portfolio. Revenue and Finance Automation (RFA) Product Sales is tasked with attacking a $100B market opportunity for back-office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you&#39;ll do</strong></h2> <p>As a Billing Account Executive (Grower) at Stripe, you&#39;ll use your sales and product expertise to help drive growth to existing Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll be instrumental in leading in-depth product discussions with existing and prospective customers—and building and executing against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Build deep, resilient, and multi-threaded relationships across SMB client organizations, with the ability to articulate value across different functions and key business stakeholders.</li> <li>The capability to develop and execute formal Strategic Account Plans that map out the client organization, identify short-term and long-term growth opportu",
-    "location": "Dublin",
+    "description": "Location: US-SF-HQ, US-SEA, US-CHI, US-NYC\n\nDepartment: 1643 Product Sales - Billing\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Billing Account Executive at Stripe, you&#39;ll use your sales and product expertise to help drive growth through existing Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll lead in-depth product discussions with existing customers and build and execute against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Drive revenue to achieve and overperform on targets</li> <li>Lead upsell conversations of Stripe for existing customers</li> <li>Drive strategic thought leadership within assigned territory to ensure user success and revenue growth</li> <li>Understand the sales process and competitors for Stripe, including software, hardware, and payments</li> <li>Serve as both an internal and customer-facing expert on St",
+    "location": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8211151",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8215758",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -51615,11 +51639,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8196257",
     "dedup_hash": "1480411a32ffe839288c4b4625656286cf3f31779899740de4fe33861a2aa2d6",
-    "raw_content_hash": "162206d2265c0f5fd4bc5d6d9ea25293d95e48f9e85f029b3d8f1fd5ab19143a",
+    "raw_content_hash": "50627fd926ef7f3715553d0e24fa7c60bd97f23a6198e09c9b6508e34e18aba0",
     "status": "updated",
     "date_discovered": "2026-09-16T16:17:21.554Z",
-    "date_last_checked": "2026-10-15T16:27:01.502Z",
-    "date_last_updated": "2026-10-15T16:27:01.502Z",
+    "date_last_checked": "2026-10-15T21:00:34.586Z",
+    "date_last_updated": "2026-10-15T21:00:34.586Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -51637,7 +51661,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8215758",
         "first_seen_at": "2026-10-14T21:20:59.645Z",
-        "last_seen_at": "2026-10-15T10:58:16.110Z"
+        "last_seen_at": "2026-10-15T21:00:34.586Z"
       }
     ],
     "updates": [
@@ -51675,6 +51699,13 @@
         "old_value": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
         "new_value": "Dublin",
         "detected_at": "2026-10-15T16:27:01.502Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Dublin",
+        "new_value": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
+        "detected_at": "2026-10-15T21:00:34.586Z"
       }
     ],
     "scores": [
@@ -51693,7 +51724,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:01.502Z"
+        "scored_at": "2026-10-15T21:00:34.585Z"
       }
     ]
   },
@@ -58140,8 +58171,8 @@
       "Strategy",
       "Entrepreneurship"
     ],
-    "description": "Location: San Francisco\n\nDepartment: 1512 Global Sales Enablement\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Go-to-Market (GTM) Enablement develops the capabilities that help Stripe’s customer-facing teams deliver greater value to users. We define expectations for role excellence, build practical learning experiences, and equip managers to reinforce new skills and behaviors.</p> <p>Enablement Business Partners connect our global strategy with the needs of specific regions, segments, roles, and business teams. They partner with leaders to identify performance needs, adapt enablement for the field, and embed learning into everyday coaching and business rhythms.</p> <h2><strong>What you’ll do</strong></h2> <p>You’ll lead a team of Enablement Business Partners responsible for deploying and adapting enablement across Stripe’s GTM organization. You’ll shape how the team works at scale, including how it prioritizes demand, responds to urgent needs, measures impact, and gives leaders visibility into progress and tradeoffs.<br><br>You’ll serve as a trusted partner to the Global Head of GTM Enablement and senior GTM leaders. You’ll combine field insights, performance data, and business context to identify needs, guide investments, and help customer-facing teams improve how they serve Stripe’s users.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Develop and execute an Enablement Business Partner",
-    "location": "San Francisco",
+    "description": "Location: San Francisco; Chicago\n\nDepartment: 1512 Global Sales Enablement\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Go-to-Market (GTM) Enablement develops the capabilities that help Stripe’s customer-facing teams deliver greater value to users. We define expectations for role excellence, build practical learning experiences, and equip managers to reinforce new skills and behaviors.</p> <p>Enablement Business Partners connect our global strategy with the needs of specific regions, segments, roles, and business teams. They partner with leaders to identify performance needs, adapt enablement for the field, and embed learning into everyday coaching and business rhythms.</p> <h2><strong>What you’ll do</strong></h2> <p>You’ll lead a team of Enablement Business Partners responsible for deploying and adapting enablement across Stripe’s GTM organization. You’ll shape how the team works at scale, including how it prioritizes demand, responds to urgent needs, measures impact, and gives leaders visibility into progress and tradeoffs.<br><br>You’ll serve as a trusted partner to the Global Head of GTM Enablement and senior GTM leaders. You’ll combine field insights, performance data, and business context to identify needs, guide investments, and help customer-facing teams improve how they serve Stripe’s users.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Develop and execute an Enablement Busines",
+    "location": null,
     "country": null,
     "work_arrangement": "unknown",
     "application_url": "https://stripe.com/jobs/search?gh_jid=8212674",
@@ -58170,17 +58201,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8212674",
     "dedup_hash": "459fe0e4d88a0ab1d0072e6988accea27dbe240c5d537f2526fc8f2969f67866",
-    "raw_content_hash": "06a15ee1b462a93ab2dccd36515e9633c97e9b7718a3fa63953dc45d1cc30f19",
-    "status": "needs_review",
+    "raw_content_hash": "9f61e4baad3627b71606953abfa8cac7101c43a140072630dfc292186cc9cd0a",
+    "status": "updated",
     "date_discovered": "2026-09-19T03:30:39.240Z",
-    "date_last_checked": "2026-09-19T03:30:39.240Z",
-    "date_last_updated": "2026-09-19T03:30:39.240Z",
+    "date_last_checked": "2026-10-15T21:00:34.835Z",
+    "date_last_updated": "2026-10-15T21:00:34.835Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8212674",
         "first_seen_at": "2026-09-19T03:30:39.240Z",
-        "last_seen_at": "2026-09-19T03:30:39.240Z"
+        "last_seen_at": "2026-10-15T21:00:34.835Z"
       }
     ],
     "updates": [
@@ -58190,6 +58221,13 @@
         "old_value": null,
         "new_value": null,
         "detected_at": "2026-09-19T03:30:39.240Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "San Francisco",
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:34.835Z"
       }
     ],
     "scores": [
@@ -58208,7 +58246,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Consulting and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-09-19T03:30:39.240Z"
+        "scored_at": "2026-10-15T21:00:34.835Z"
       }
     ]
   },
@@ -72562,11 +72600,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Singapore\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across APAC. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to Australia and New Zealand, Japan, India, Singapore, and Southeast Asia. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through business-case deve",
-    "location": "Singapore",
+    "description": "Location: US-CA\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across AMER. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to North America and Latin America. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through bus",
+    "location": "US-CA",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8174160",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8190036",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -72588,17 +72626,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
     "dedup_hash": "29c7716e634cd800ad52f6f3cd3b9894ea33a5243de88013bb7784bbebb1122d",
-    "raw_content_hash": "4370d1e85f0ee1a728163bfacc21d3f35ae1458ea4b71919c51e7f70fd62b99d",
+    "raw_content_hash": "850d9cb9b93aa060417c5e621b4746bd11fa5e20edd30b3dbdbb2381e3202b09",
     "status": "updated",
     "date_discovered": "2026-09-26T03:53:45.478Z",
-    "date_last_checked": "2026-10-15T16:27:01.383Z",
-    "date_last_updated": "2026-10-15T16:27:01.383Z",
+    "date_last_checked": "2026-10-15T21:00:34.441Z",
+    "date_last_updated": "2026-10-15T21:00:34.441Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
         "first_seen_at": "2026-09-26T03:53:45.478Z",
-        "last_seen_at": "2026-10-15T16:27:01.269Z"
+        "last_seen_at": "2026-10-15T21:00:34.441Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -73397,6 +73435,13 @@
         "old_value": "US-CA",
         "new_value": "Singapore",
         "detected_at": "2026-10-15T16:27:01.383Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Singapore",
+        "new_value": "US-CA",
+        "detected_at": "2026-10-15T21:00:34.441Z"
       }
     ],
     "scores": [
@@ -73415,7 +73460,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:01.383Z"
+        "scored_at": "2026-10-15T21:00:34.440Z"
       }
     ]
   },
@@ -73833,14 +73878,17 @@
     "opportunity_type": "consulting",
     "tags": [
       "Consulting",
+      "Marketing",
+      "Strategy",
       "Technology",
-      "Entrepreneurship"
+      "Entrepreneurship",
+      "Client Management"
     ],
-    "description": "Ping Identity: Customer Success Manager\n\nHeadquarters: USA - Remote \n\n\n\nAbout Ping Identity: \nAt Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. \nOur intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. \nWhile protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. \nWe're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. \n\nAs a CSM, you will serve as a named resource and partner for customer organizations. You will build and maintain trusting relationships, acting as a technical resource for day-to-day operational needs. Your responsibilities will include:\nAct as a point of contact for any major customer incidents, being responsible for managing expectations and communications through resolution.\nAnalyzing customer data such as support cases, survey responses, and renewal behaviors to identify technical trends and risks.\nAct as the voice of the customer internally to advocate for their needs.\nMonitor and identify adoption and utilization trends, providing recommendations based on risk and customer needs.\nProviding proactive guidance on Ping's features based on the cus",
+    "description": "Ping Identity: Customer Success Manager\n\nHeadquarters: UK - Remote\n\n\n\nAbout Ping Identity: \nAt Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. \nOur intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. \nWhile protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. \nWe're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. \n\nThe Customer Success Manager (CSM) is responsible for driving adoption, value realization, renewal, and expansion within a defined portfolio of customers. You will act as the primary post‑sales relationship owner, orchestrating the right resources across Support, Product, Services, and Sales to ensure customers achieve their desired outcomes and view us as a strategic partner.\nKey Responsibilities\n1. Customer Outcomes & Revenue\nOwn customer health, retention, and risk management for your portfolio, in partnership with Sales and Renewals.\nBuild, maintain, and execute customer success plans for priority accounts, with clear business outcomes, milestones, and owners.\nProactively identify renewal and churn risk, create save plans, and track mitigation act",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager",
+    "application_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -73850,10 +73898,13 @@
     "year_level_requirements": [],
     "citizenship_requirements": [],
     "gpa_requirement": null,
-    "skills_required": [],
+    "skills_required": [
+      "Communication",
+      "Leadership"
+    ],
     "compensation": {
-      "amount": 76000,
-      "currency": "USD",
+      "amount": null,
+      "currency": null,
       "period": null,
       "notes": null
     },
@@ -73862,17 +73913,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
     "dedup_hash": "fb2e2851b758c1cdeada77c21c48e1969fd337a7b0df1d43e117eec7ca2444ad",
-    "raw_content_hash": "d1f0f95b0b6b801e639ef5f0977d8cddae88af40928eec94fb72d5da216bdd3f",
+    "raw_content_hash": "f1c447bee38ef209773c538b00d5618b50266cbcd15f0882b072742502b6de06",
     "status": "updated",
     "date_discovered": "2026-09-26T10:56:23.016Z",
-    "date_last_checked": "2026-10-15T16:27:00.056Z",
-    "date_last_updated": "2026-10-15T16:27:00.056Z",
+    "date_last_checked": "2026-10-15T21:00:33.505Z",
+    "date_last_updated": "2026-10-15T21:00:33.505Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
         "first_seen_at": "2026-09-26T10:56:23.016Z",
-        "last_seen_at": "2026-10-15T10:58:15.162Z"
+        "last_seen_at": "2026-10-15T21:00:33.505Z"
       },
       {
         "source_id": "source-wwr-customer-support",
@@ -74329,25 +74380,32 @@
         "old_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
         "new_value": "{\"amount\":76000,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
         "detected_at": "2026-10-15T16:27:00.056Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":76000,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
+        "new_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
+        "detected_at": "2026-10-15T21:00:33.505Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 90,
-        "career_value_score": 55,
+        "relevance_score": 100,
+        "career_value_score": 40,
         "organization_score": 40,
-        "student_fit_score": 70,
+        "student_fit_score": 90,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 56,
+        "overall_score": 58,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "Matches your interest in Consulting.",
+        "reasoning": "Matches your interest in Consulting and Client Management.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:00.056Z"
+        "scored_at": "2026-10-15T21:00:33.505Z"
       }
     ]
   },
@@ -77391,11 +77449,11 @@
       "Strategy",
       "Technology"
     ],
-    "description": "Dropbox: Customer Evidence Manager\n\nHeadquarters: Remote - US: Select locations\n\n\nRole Description\nDropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a customer story is not that it gets published — it is that it protects customer trust, gives buyers credible, accurate proof and moves a deal forward. You are the editorial authority on what good looks like, not the person writing every script: execution (writing, video, design) is delivered through agency partners you brief and direct.\nEnterprise buyers do not decide on brand claims. They decide on credible proof from organizations like theirs: customer stories, ROI evidence, video testimonials, peer reviews, and competitive validation. In this role, you will produce that evidence and ensure it reaches sellers and customers at the moments it can have the greatest commercial impact.\nYou will own the program outcomes and operational rigor — setting the creative and editorial bar for what makes a great customer story, directing the agency partners who produce the work, and deploying that proof into active deals — and measuring evidence's impact on pipeline, win rates, and sales-cycle velocity. You will partner closely with Sales, Customer Success, Campaign Enablement, and product teams to prioritize proof for the full suite of Dropbox products and solutions, including  AI capabilities, multi-product platform adoption, and priority vertical workflows. You will get substantial senior Sales and Marketing leadership exposure and a direct, measurable line to revenue during a pivotal shift in how Dropbox goes to market.\nResponsibilities\nIdentify advocates, coordinate outreach with account teams, manage consent and approvals, record participation preferences, and avoid customer fatigue. \nSet the creativ",
+    "description": "Dropbox: Customer Evidence Manager\n\nHeadquarters: Remote - Canada: Select locations\n\n\nRole Description\nDropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a customer story is not that it gets published — it is that it protects customer trust, gives buyers credible, accurate proof and moves a deal forward. You are the editorial authority on what good looks like, not the person writing every script: execution (writing, video, design) is delivered through agency partners you brief and direct.\nEnterprise buyers do not decide on brand claims. They decide on credible proof from organizations like theirs: customer stories, ROI evidence, video testimonials, peer reviews, and competitive validation. In this role, you will produce that evidence and ensure it reaches sellers and customers at the moments it can have the greatest commercial impact.\nYou will own the program outcomes and operational rigor — setting the creative and editorial bar for what makes a great customer story, directing the agency partners who produce the work, and deploying that proof into active deals — and measuring evidence's impact on pipeline, win rates, and sales-cycle velocity. You will partner closely with Sales, Customer Success, Campaign Enablement, and product teams to prioritize proof for the full suite of Dropbox products and solutions, including  AI capabilities, multi-product platform adoption, and priority vertical workflows. You will get substantial senior Sales and Marketing leadership exposure and a direct, measurable line to revenue during a pivotal shift in how Dropbox goes to market.\nResponsibilities\nIdentify advocates, coordinate outreach with account teams, manage consent and approvals, record participation preferences, and avoid customer fatigue. \nSet the cre",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager",
+    "application_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -77411,7 +77469,7 @@
       "Leadership"
     ],
     "compensation": {
-      "amount": 157600,
+      "amount": 142800,
       "currency": "USD",
       "period": "monthly",
       "notes": null
@@ -77421,17 +77479,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
     "dedup_hash": "2e19caa76582ec395d08d2bb5ec6327f2f8fd302eda09be6bc27c6cef77ab624",
-    "raw_content_hash": "20be64c8260715d45a3e7a7254cc61755d67e487f175f70513a6c26d489ed992",
+    "raw_content_hash": "ccfa93c411c16c29f15854e9fff7fd6d2ff349db6a0807b774adbe34dcc259b6",
     "status": "updated",
     "date_discovered": "2026-09-28T13:06:34.389Z",
-    "date_last_checked": "2026-10-15T16:26:59.953Z",
-    "date_last_updated": "2026-10-15T16:26:59.953Z",
+    "date_last_checked": "2026-10-15T21:00:33.239Z",
+    "date_last_updated": "2026-10-15T21:00:33.239Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
         "first_seen_at": "2026-09-28T13:06:34.389Z",
-        "last_seen_at": "2026-10-15T10:58:15.095Z"
+        "last_seen_at": "2026-10-15T21:00:33.239Z"
       },
       {
         "source_id": "source-wwr-customer-support",
@@ -77832,6 +77890,13 @@
         "old_value": "{\"amount\":142800,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "new_value": "{\"amount\":157600,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "detected_at": "2026-10-15T16:26:59.953Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":157600,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "new_value": "{\"amount\":142800,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "detected_at": "2026-10-15T21:00:33.239Z"
       }
     ],
     "scores": [
@@ -77850,7 +77915,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:26:59.953Z"
+        "scored_at": "2026-10-15T21:00:33.239Z"
       }
     ]
   },
@@ -83695,11 +83760,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Toronto, Canada \n\nDepartment: 1175 Enterprise - Account Executives (NA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Account Executive, SMB Grower team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers. As an Account Executive, SMB Grower team member, you’ll identify new opportunities for our clients to get the most out of Stripe by quickly understanding our clients’ needs, execute scaled sales strategies to close upsell and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe’s offerings.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own contract renewals and lead negotiations to increase and retain existing customer revenue and Stripe market share</li> <li>Develop and implement full sales cycle strategies for driving product adoption, net new product sales, and client retention at scale among existing Stripe customers</li> <li>Solve complex client needs and work across product, sales, risk, and operations teams to improve our product</li> <li>Own the full sales cycle from lead to close for startups and small/medium businesses</li> <li>Generate your own leads through cold calling, blitzing, research, networking, and driving your territory.</li> <li>Make every potential Stripe user happy with every",
+    "description": "Location: Toronto, Canada\n\nDepartment: 1175 Enterprise - Account Executives (NA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Account Executive, SMB Grower team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers. As an Account Executive, SMB Grower team member, you’ll identify new opportunities for our clients to get the most out of Stripe by quickly understanding our clients’ needs, execute scaled sales strategies to close upsell and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe’s offerings.</p> <p>&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own contract renewals and lead negotiations to increase and retain existing customer revenue and Stripe market share</li> <li>Develop and implement full sales cycle strategies for driving product adoption, net new product sales, and client retention at scale among existing Stripe customers</li> <li>Solve complex client needs and work across product, sales, risk, and operations teams to improve our product</li> <li>Own the full sales cycle from lead to close for startups and small/medium businesses</li> <li>Generate your own leads through cold calling, blitzing, research, networking, and driving your territory.</li> <li>Make every potential Stripe user hap",
     "location": "Toronto, Canada",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8238741",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8238743",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -83725,17 +83790,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8238743",
     "dedup_hash": "6b3a1b390dc8badc4d3fe4da7c87701ffe09f27dc04dc89994dc11cf5cf3710c",
-    "raw_content_hash": "2b5cbf00b9a00b2a73cf0e6faca7cd75bf7f5ac049b8de14e07d9112548ad022",
+    "raw_content_hash": "1cc181159f1086f6a05ef18ce50902532646f441e679cce5ed9ff97786b9a749",
     "status": "active",
     "date_discovered": "2026-09-30T21:56:40.251Z",
-    "date_last_checked": "2026-10-15T16:27:01.600Z",
+    "date_last_checked": "2026-10-15T21:00:34.698Z",
     "date_last_updated": "2026-09-30T21:56:40.251Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8238743",
         "first_seen_at": "2026-09-30T21:56:40.251Z",
-        "last_seen_at": "2026-10-15T10:58:16.238Z"
+        "last_seen_at": "2026-10-15T21:00:34.698Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -83769,7 +83834,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-15T16:27:01.600Z"
+        "scored_at": "2026-10-15T21:00:34.698Z"
       }
     ]
   },
@@ -113914,11 +113979,11 @@
     "normalized_title": "call for young african creatives to design the official au theme of the year visual identity",
     "opportunity_type": "competition",
     "tags": [],
-    "description": "African Union Logo Design Competition 2027: Call for Young African Creatives to Design the Official AU Theme of the Year Visual Identity\n\nIntroduction The African Union Commission has announced a call for entries inviting young African creatives to participate in the design of the official logo and visual identity for the African Union (AU) Theme of the Year 2027. This competition offers an opportunity for emerging designers and creative professionals across Africa to contribute their artistic talent, […]\nThe post African Union Logo Design Competition 2027: Call for Young African Creatives to Design the Official AU Theme of the Year Visual Identity appeared first on Opportunities for Youth.\n\n2026-10-14T14:11:24.000Z",
+    "description": "African Union Logo Design Competition 2027: Call for Young African Creatives to Design the Official AU Theme of the Year Visual Identity\n\nThe African Union Commission has invited young African creatives to participate in an international design competition to develop the official logo and visual identity for the African Union Theme of the Year 2027. The initiative provides an opportunity for young designers across Africa to showcase their creativity, contribute to the African Union’s continental vision, and […]\nThe post African Union Logo Design Competition 2027: Call for Young African Creatives to Design the Official AU Theme of the Year Visual Identity appeared first on Opportunities for Youth.\n\n2026-10-15T14:05:18.000Z",
     "location": null,
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://opportunitiesforyouth.org/2026/10/14/african-union-logo-design-competition-2027-call-for-young-african-creatives-to-design-the-official-au-theme-of-the-year-visual-identity/",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/african-union-logo-design-competition-2027-call-for-young-african-creatives-to-design-the-official-au-theme-of-the-year-visual-identity-2/",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -113940,10 +114005,10 @@
     "applications_open": true,
     "primary_source_url": "https://opportunitiesforyouth.org/2026/10/14/african-union-logo-design-competition-2027-call-for-young-african-creatives-to-design-the-official-au-theme-of-the-year-visual-identity/",
     "dedup_hash": "0045321be9efd56810e7538b07ce82873b3ed2be91b3cf8529dbae22ae23ac4e",
-    "raw_content_hash": "97cdbbc9fca8fd9a32c31e7ac111c1da7b91c5f07719652e37e685c302eb3b33",
-    "status": "new",
+    "raw_content_hash": "ab7599c1c73dd7bfe6a48d064fec2392d70e0712b8d30ceb0753fcaae0120cb5",
+    "status": "active",
     "date_discovered": "2026-10-14T16:41:51.407Z",
-    "date_last_checked": "2026-10-14T16:41:51.407Z",
+    "date_last_checked": "2026-10-15T21:00:31.344Z",
     "date_last_updated": "2026-10-14T16:41:51.407Z",
     "sources": [
       {
@@ -113951,6 +114016,12 @@
         "source_url": "https://opportunitiesforyouth.org/2026/10/14/african-union-logo-design-competition-2027-call-for-young-african-creatives-to-design-the-official-au-theme-of-the-year-visual-identity/",
         "first_seen_at": "2026-10-14T16:41:51.407Z",
         "last_seen_at": "2026-10-14T16:41:51.407Z"
+      },
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/african-union-logo-design-competition-2027-call-for-young-african-creatives-to-design-the-official-au-theme-of-the-year-visual-identity-2/",
+        "first_seen_at": "2026-10-15T21:00:31.344Z",
+        "last_seen_at": "2026-10-15T21:00:31.344Z"
       }
     ],
     "updates": [
@@ -113978,7 +114049,7 @@
         "is_time_sensitive": false,
         "reasoning": "General fit based on role and location.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-14T16:41:51.407Z"
+        "scored_at": "2026-10-15T21:00:31.344Z"
       }
     ]
   },
@@ -116484,6 +116555,934 @@
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
         "scored_at": "2026-10-15T16:27:02.809Z"
+      }
+    ]
+  },
+  {
+    "id": "a4d88d2a-1039-4d69-b7f1-00c12d753819",
+    "organization_id": "ace80285-60f1-4cb2-be7e-865480fc2bb3",
+    "title": "Mid-Career Global Leadership Opportunity",
+    "normalized_title": "mid career global leadership opportunity",
+    "opportunity_type": "fellowship",
+    "tags": [],
+    "description": "Comprehensive Guide to the 2027–2028 CFR International Affairs Fellowship in Canada: Mid-Career Global Leadership Opportunity\n\nThe Council on Foreign Relations (CFR) has officially opened applications for its International Affairs Fellowship (IAF) in Canada. Designed to cultivate deeper mutual understanding and cross-border collaboration between rising decision-makers, this fully funded exchange initiative enables American professionals to immerse themselves directly within the Canadian policy landscape. Sponsored by the Power Corporation of Canada, the […]\nThe post Comprehensive Guide to the 2027–2028 CFR International Affairs Fellowship in Canada: Mid-Career Global Leadership Opportunity appeared first on Opportunities for Youth.\n\n2026-10-15T19:34:46.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/comprehensive-guide-to-the-2027-2028-cfr-international-affairs-fellowship-in-canada-mid-career-global-leadership-opportunity/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/comprehensive-guide-to-the-2027-2028-cfr-international-affairs-fellowship-in-canada-mid-career-global-leadership-opportunity/",
+    "dedup_hash": "1b70562e08ed7fc66aef40c9029a85ee76c7111a5577e6de4280ea4cb31c6a6f",
+    "raw_content_hash": "461cdcd97837335487ab554c4a04fddd739160338d14b85edd95130523ba98ec",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:30.321Z",
+    "date_last_checked": "2026-10-15T21:00:30.321Z",
+    "date_last_updated": "2026-10-15T21:00:30.321Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/comprehensive-guide-to-the-2027-2028-cfr-international-affairs-fellowship-in-canada-mid-career-global-leadership-opportunity/",
+        "first_seen_at": "2026-10-15T21:00:30.321Z",
+        "last_seen_at": "2026-10-15T21:00:30.321Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:30.321Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 60,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 52,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:30.320Z"
+      }
+    ]
+  },
+  {
+    "id": "3535db48-e84c-4420-813a-76d1e860c161",
+    "organization_id": "c7fedb40-c4af-43c5-8398-0f9d1ddc9143",
+    "title": "Leadership Opportunity for Farmers and Advocates in the United States",
+    "normalized_title": "leadership opportunity for farmers and advocates in the united states",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "National Young Farmers Coalition Board of Directors Application 2026: Leadership Opportunity for Farmers and Advocates in the United States\n\nThe National Young Farmers Coalition (Young Farmers) Board of Directors Application invites interested individuals to apply for a volunteer leadership position with an organization dedicated to supporting young farmers, strengthening agricultural communities, and addressing the structural and economic barriers that prevent young people from establishing and growing successful farming businesses. The National Young Farmers Coalition […]\nThe post National Young Farmers Coalition Board of Directors Application 2026: Leadership Opportunity for Farmers and Advocates in the United States appeared first on Opportunities for Youth.\n\n2026-10-15T19:25:04.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/national-young-farmers-coalition-board-of-directors-application-2026-leadership-opportunity-for-farmers-and-advocates-in-the-united-states/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/national-young-farmers-coalition-board-of-directors-application-2026-leadership-opportunity-for-farmers-and-advocates-in-the-united-states/",
+    "dedup_hash": "a58bca27fd25f6be24d5eb124244cc3c63555a493ad5fd4e3848d581902ff3f1",
+    "raw_content_hash": "8e26c6d36b67f3b02c0122d3562aea651cb05f8066db03bf5eaa017f2796b2f8",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:30.474Z",
+    "date_last_checked": "2026-10-15T21:00:30.474Z",
+    "date_last_updated": "2026-10-15T21:00:30.474Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/national-young-farmers-coalition-board-of-directors-application-2026-leadership-opportunity-for-farmers-and-advocates-in-the-united-states/",
+        "first_seen_at": "2026-10-15T21:00:30.474Z",
+        "last_seen_at": "2026-10-15T21:00:30.474Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:30.474Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:30.474Z"
+      }
+    ]
+  },
+  {
+    "id": "74b02bbc-476c-49c7-b57d-632b5bea5f1e",
+    "organization_id": "5cbd74a7-f679-4ec0-9075-968c31a9d10a",
+    "title": "Apply to Join the Technical Advisory Group on AI for Health (TAG-AI) in 2026",
+    "normalized_title": "apply to join the technical advisory group on ai for health tag ai in 2026",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "WHO Calls for Experts in Artificial Intelligence for Health: Apply to Join the Technical Advisory Group on AI for Health (TAG-AI) in 2026\n\nThe World Health Organization (WHO) is inviting qualified experts in artificial intelligence, digital health, healthcare policy, machine learning, health regulation, bioethics, and related fields to express interest in joining its Technical Advisory Group on Artificial Intelligence for Health (TAG-AI). The initiative seeks multidisciplinary expertise to help guide the responsible, equitable, and effective use of artificial […]\nThe post WHO Calls for Experts in Artificial Intelligence for Health: Apply to Join the Technical Advisory Group on AI for Health (TAG-AI) in 2026 appeared first on Opportunities for Youth.\n\n2026-10-15T18:18:27.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/who-calls-for-experts-in-artificial-intelligence-for-health-apply-to-join-the-technical-advisory-group-on-ai-for-health-tag-ai-in-2026/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/who-calls-for-experts-in-artificial-intelligence-for-health-apply-to-join-the-technical-advisory-group-on-ai-for-health-tag-ai-in-2026/",
+    "dedup_hash": "3f7f449a5694b8695257d7176ef8cde40581625ab2e642ee40882474d58ae84a",
+    "raw_content_hash": "0a4fa52e2e5f494d0f2c4bec3e79712682269e2d6aa4def742917eba39380d0d",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:30.616Z",
+    "date_last_checked": "2026-10-15T21:00:30.616Z",
+    "date_last_updated": "2026-10-15T21:00:30.616Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/who-calls-for-experts-in-artificial-intelligence-for-health-apply-to-join-the-technical-advisory-group-on-ai-for-health-tag-ai-in-2026/",
+        "first_seen_at": "2026-10-15T21:00:30.616Z",
+        "last_seen_at": "2026-10-15T21:00:30.616Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:30.616Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:30.615Z"
+      }
+    ]
+  },
+  {
+    "id": "4297999e-889a-4eb7-a037-f8ac48bb3f62",
+    "organization_id": "63799b09-a512-42ef-8201-f0f9e3e25638",
+    "title": "Funding, Eligibility, Application Process and Deadline",
+    "normalized_title": "funding eligibility application process and deadline",
+    "opportunity_type": "scholarship",
+    "tags": [],
+    "description": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships 2027 in the UK: Funding, Eligibility, Application Process and Deadline\n\nAre you an ambitious graduate looking to pursue a PhD in the United Kingdom and contribute to innovative research that addresses important academic, social, scientific and technological challenges? The Liverpool John Moores University (LJMU) Vice-Chancellor’s PhD Scholarships Scheme 2027 offers an opportunity for outstanding prospective doctoral researchers to undertake research at a UK university known […]\nThe post Liverpool John Moores University Vice-Chancellor’s PhD Scholarships 2027 in the UK: Funding, Eligibility, Application Process and Deadline appeared first on Opportunities for Youth.\n\n2026-10-15T15:40:23.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/liverpool-john-moores-university-vice-chancellors-phd-scholarships-2027-in-the-uk-funding-eligibility-application-process-and-deadline/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/liverpool-john-moores-university-vice-chancellors-phd-scholarships-2027-in-the-uk-funding-eligibility-application-process-and-deadline/",
+    "dedup_hash": "08bbe4b2611ebfe04010e22d41e36c316e634b4f68c6f7886d17daf91b37d93c",
+    "raw_content_hash": "ac7dd818d2656c12a4995e7d50c1b1c3270393765681e236b73cc5dfd9d96796",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:30.771Z",
+    "date_last_checked": "2026-10-15T21:00:30.771Z",
+    "date_last_updated": "2026-10-15T21:00:30.771Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/liverpool-john-moores-university-vice-chancellors-phd-scholarships-2027-in-the-uk-funding-eligibility-application-process-and-deadline/",
+        "first_seen_at": "2026-10-15T21:00:30.771Z",
+        "last_seen_at": "2026-10-15T21:00:30.771Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:30.771Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 47,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:30.771Z"
+      }
+    ]
+  },
+  {
+    "id": "2d8395f0-ba84-4d7a-939e-98a9f84370f7",
+    "organization_id": "99a89878-759e-44c8-a0f6-8fc39a5c7d7f",
+    "title": "Apply to Promote Safe Migration and Youth Empowerment",
+    "normalized_title": "apply to promote safe migration and youth empowerment",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Youth Ambassadors for Raising Awareness of the Dangers of Illegal Immigration – Phase Two: Apply to Promote Safe Migration and Youth Empowerment\n\nOverview of the Youth Ambassadors Programme – Phase Two The Youth Ambassadors for Raising Awareness of the Dangers of Illegal Immigration – Phase Two programme is an initiative designed to engage young people in raising awareness about the dangers of irregular migration, promoting safe and legal migration pathways, and encouraging young people to explore sustainable […]\nThe post Youth Ambassadors for Raising Awareness of the Dangers of Illegal Immigration – Phase Two: Apply to Promote Safe Migration and Youth Empowerment appeared first on Opportunities for Youth.\n\n2026-10-15T14:39:54.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/youth-ambassadors-for-raising-awareness-of-the-dangers-of-illegal-immigration-phase-two-apply-to-promote-safe-migration-and-youth-empowerment/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/youth-ambassadors-for-raising-awareness-of-the-dangers-of-illegal-immigration-phase-two-apply-to-promote-safe-migration-and-youth-empowerment/",
+    "dedup_hash": "255887657ddc1907e379b63c5d66b7ce84c6e61ae70f2dd72ec9741f2a366b73",
+    "raw_content_hash": "e32ad1813da155a58620070ca0428c0d7582627e96f2acde58f1c6470b7d2d6f",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:30.927Z",
+    "date_last_checked": "2026-10-15T21:00:30.927Z",
+    "date_last_updated": "2026-10-15T21:00:30.927Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/youth-ambassadors-for-raising-awareness-of-the-dangers-of-illegal-immigration-phase-two-apply-to-promote-safe-migration-and-youth-empowerment/",
+        "first_seen_at": "2026-10-15T21:00:30.927Z",
+        "last_seen_at": "2026-10-15T21:00:30.927Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:30.927Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:30.927Z"
+      }
+    ]
+  },
+  {
+    "id": "6c7c1bf8-d6f9-46cd-a15d-104561c50c9e",
+    "organization_id": "90152ff2-f1ea-4ec7-abc7-d1f447e64181",
+    "title": "Full-Tuition Master’s Scholarship, Eligibility, Benefits and How to Apply",
+    "normalized_title": "full tuition master s scholarship eligibility benefits and how to apply",
+    "opportunity_type": "fellowship",
+    "tags": [],
+    "description": "Harvard Kennedy School Equity Fellowship 2027: Full-Tuition Master’s Scholarship, Eligibility, Benefits and How to Apply\n\nThe Harvard Kennedy School Equity Fellowship 2027 offers eligible students an opportunity to receive financial support toward a master’s degree at Harvard Kennedy School (HKS), Harvard University, in Cambridge, Massachusetts, United States. Administered by the Center for Public Leadership (CPL), the fellowship supports students who demonstrate leadership promise and a commitment to reducing disparities affecting […]\nThe post Harvard Kennedy School Equity Fellowship 2027: Full-Tuition Master’s Scholarship, Eligibility, Benefits and How to Apply appeared first on Opportunities for Youth.\n\n2026-10-15T14:15:37.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/harvard-kennedy-school-carr-ryan-center-fellowships-2026-2027-fully-detailed-guide-to-all-fellowship-opportunities-unpaid-paid-options/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/harvard-kennedy-school-carr-ryan-center-fellowships-2026-2027-fully-detailed-guide-to-all-fellowship-opportunities-unpaid-paid-options/",
+    "dedup_hash": "6e49114ea2f6d2bf421e6288031b46b30d50935d32a5d22a1186b05acff110f5",
+    "raw_content_hash": "2992221c08a98d50b3be20a94a66f2a0f3f1cc96ad099de47d9493d0e72d3200",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:31.071Z",
+    "date_last_checked": "2026-10-15T21:00:31.071Z",
+    "date_last_updated": "2026-10-15T21:00:31.071Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/harvard-kennedy-school-carr-ryan-center-fellowships-2026-2027-fully-detailed-guide-to-all-fellowship-opportunities-unpaid-paid-options/",
+        "first_seen_at": "2026-10-15T21:00:31.071Z",
+        "last_seen_at": "2026-10-15T21:00:31.071Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:31.071Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 60,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 52,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:31.071Z"
+      }
+    ]
+  },
+  {
+    "id": "eb003df9-f0d4-462d-80a5-feaf323eea35",
+    "organization_id": "aa11b0e4-9b43-4c32-9660-5b5d1e02758a",
+    "title": "Eligibility, $70,000 Annual Funding, Application Process and Deadlines",
+    "normalized_title": "eligibility 70 000 annual funding application process and deadlines",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Canada Postdoctoral Research Award (CPRA) 2026–2027: Eligibility, $70,000 Annual Funding, Application Process and Deadlines\n\nCanada Postdoctoral Research Award (CPRA) Program is a prestigious Canadian federal research funding opportunity designed to support outstanding postdoctoral researchers, strengthen research excellence, and develop the next generation of highly qualified researchers and innovators. With funding valued at $70,000 per year for 24 months, the program provides eligible researchers with financial support to advance their […]\nThe post Canada Postdoctoral Research Award (CPRA) 2026–2027: Eligibility, $70,000 Annual Funding, Application Process and Deadlines appeared first on Opportunities for Youth.\n\n2026-10-15T14:08:23.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/canada-postdoctoral-research-award-cpra-2026-2027-eligibility-70000-annual-funding-application-process-and-deadlines/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": 70000,
+      "currency": "USD",
+      "period": null,
+      "notes": null
+    },
+    "program_duration": "24 month",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/canada-postdoctoral-research-award-cpra-2026-2027-eligibility-70000-annual-funding-application-process-and-deadlines/",
+    "dedup_hash": "d5b3d92e6426c9be68196f5f71262139d36adec86d3c0d14f295d95e6bd38213",
+    "raw_content_hash": "2f953f4cdd536a672755b17f752b8c05eb4684d592d0a322e13474900d7d3030",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:31.219Z",
+    "date_last_checked": "2026-10-15T21:00:31.219Z",
+    "date_last_updated": "2026-10-15T21:00:31.219Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/canada-postdoctoral-research-award-cpra-2026-2027-eligibility-70000-annual-funding-application-process-and-deadlines/",
+        "first_seen_at": "2026-10-15T21:00:31.219Z",
+        "last_seen_at": "2026-10-15T21:00:31.219Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:31.219Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 55,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 50,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:31.218Z"
+      }
+    ]
+  },
+  {
+    "id": "39381992-4dce-46f4-9abd-6f4828b57b59",
+    "organization_id": "4898f04b-eea3-48e1-bf16-1f904e6d42c5",
+    "title": "Apply for Technical Support, Product Development and Market Exposure for Nigerian SMEs in Dairy, Cocoa, Food Processing and Value-Added Industries",
+    "normalized_title": "apply for technical support product development and market exposure for nigerian smes in dairy cocoa food processing and value added industries",
+    "opportunity_type": "entrepreneurship",
+    "tags": [
+      "Entrepreneurship"
+    ],
+    "description": "VACE Agribusiness Innovation Opportunity 2026: Apply for Technical Support, Product Development and Market Exposure for Nigerian SMEs in Dairy, Cocoa, Food Processing and Value-Added Industries\n\nOverview of the VACE Project Agribusiness Product Innovation Call for Applications Are you an agribusiness entrepreneur, food processor, baker, beverage producer, cosmetics manufacturer, or product innovator in Nigeria looking to develop new products, improve your business, and reach new markets? The Value Chain for Agribusiness, Climate and Employment (VACE) Project has announced a call for […]\nThe post VACE Agribusiness Innovation Opportunity 2026: Apply for Technical Support, Product Development and Market Exposure for Nigerian SMEs in Dairy, Cocoa, Food Processing and Value-Added Industries appeared first on Opportunities for Youth.\n\n2026-10-15T12:39:54.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/vace-agribusiness-innovation-opportunity-2026-apply-for-technical-support-product-development-and-market-exposure-for-nigerian-smes-in-dairy-cocoa-food-processing-and-value-added-industries/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/vace-agribusiness-innovation-opportunity-2026-apply-for-technical-support-product-development-and-market-exposure-for-nigerian-smes-in-dairy-cocoa-food-processing-and-value-added-industries/",
+    "dedup_hash": "9f14d9fdc4c6200c163c466678e6f4f2a4ee6619c77fb3bcf71b7ed83b4e8115",
+    "raw_content_hash": "ba05c39d6287ff2c2e9091be552733572ee56bf544af4543619308ba50080a38",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:31.499Z",
+    "date_last_checked": "2026-10-15T21:00:31.499Z",
+    "date_last_updated": "2026-10-15T21:00:31.499Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/vace-agribusiness-innovation-opportunity-2026-apply-for-technical-support-product-development-and-market-exposure-for-nigerian-smes-in-dairy-cocoa-food-processing-and-value-added-industries/",
+        "first_seen_at": "2026-10-15T21:00:31.499Z",
+        "last_seen_at": "2026-10-15T21:00:31.499Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:31.499Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 60,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 48,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:31.499Z"
+      }
+    ]
+  },
+  {
+    "id": "e7005007-5a8e-4f49-9b77-5ca2f1310612",
+    "organization_id": "67b2f465-30c0-4820-a0de-6cc47bacaea7",
+    "title": "Research Experience in African Development, Food Security and Economic Policy",
+    "normalized_title": "research experience in african development food security and economic policy",
+    "opportunity_type": "internship",
+    "tags": [],
+    "description": "Nordic Africa Institute Development Economics Internship 2027 in Sweden: Research Experience in African Development, Food Security and Economic Policy\n\nThe Nordic Africa Institute (NAI) Development Economics Internship 2027 offers an opportunity for eligible postgraduate students and graduates to gain practical research experience in an international research institution based in Uppsala, Sweden. The internship is designed for candidates interested in development economics, African economic development, food security, agricultural systems, climate change, migration, poverty reduction and […]\nThe post Nordic Africa Institute Development Economics Internship 2027 in Sweden: Research Experience in African Development, Food Security and Economic Policy appeared first on Opportunities for Youth.\n\n2026-10-15T12:23:33.000Z",
+    "location": "Uppsala, Sweden",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/15/internship-opportunity-in-development-economics-at-the-nordic-africa-institute/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/15/internship-opportunity-in-development-economics-at-the-nordic-africa-institute/",
+    "dedup_hash": "d86e54782df9be08965fe0d4837df897276e0209744d0eec9b683328c964a33c",
+    "raw_content_hash": "284efd1535aef1870eab621c3ebb8b4304c8b55e42d0eca1323549bd114b8c54",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:31.664Z",
+    "date_last_checked": "2026-10-15T21:00:31.664Z",
+    "date_last_updated": "2026-10-15T21:00:31.664Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/15/internship-opportunity-in-development-economics-at-the-nordic-africa-institute/",
+        "first_seen_at": "2026-10-15T21:00:31.664Z",
+        "last_seen_at": "2026-10-15T21:00:31.664Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:31.664Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 60,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 48,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:31.664Z"
+      }
+    ]
+  },
+  {
+    "id": "a706ec10-aaf8-41b7-8c35-3e4f705320fd",
+    "organization_id": "ac86fa5e-6490-4f44-88e2-4193a983d68c",
+    "title": "Senior Python Developer (CRM - AI/LLM)",
+    "normalized_title": "senior python developer crm ai llm",
+    "opportunity_type": "conference",
+    "tags": [
+      "Consulting",
+      "Technology"
+    ],
+    "description": "Emerging Travel Group: Senior Python Developer (CRM - AI/LLM)\n\nHeadquarters: Kazakhstan\n    \nURL: http://emergingtravel.com\n\n\nDescription\nWe are looking for a Senior Backend Engineer (Python) to join the HQ Automation division and our AI/LLM Team, which focuses on developing automation solutions to improve the efficiency of our Customer Service teams using modern technologies.\nThe AI/LLM Team develops solutions on top of our CRM/ERP platform, contributes to building AI/LLM models, develops its own services, and extends the functionality of the Camunda orchestration platform to achieve its goals.\nOur CRM/ERP platform is built with Python (Django/Aiohttp/RQ). The primary database is PostgreSQL, while Elasticsearch is used for fast search across system objects. The frontend is built with React.js, and Camunda runs on-premises on our own infrastructure.\nJoin us to work with a great team on developing and implementing effective and exciting solutions using modern technologies, helping provide people around the world with the best possible travel experience — and getting plenty of positive feedback along the way!\nKey Responsibilities of a Senior Developer:\n\nBackend development of the CRM/ERP product using Python, primarily with the Django framework;\nWorking with Camunda, including supporting its infrastructure;\nIntegrating with LLM models and developing and maintaining services for working with them;\nDesigning service architecture, making technical decisions, decomposing and estimating tasks, and participating in the Code Review process;\nConsulting with System Analysis, QA, and Technical Support teams;\nManaging development projects within the stream and coordinating team resources to achieve project goals.\n\n\nRequirements\n\n5+ years of professional software development experience, including experience in a Senior Developer role.\n\nMust-have:\n\n5+ years of Python development experience with Django or FastAPI;\nStrong knowledge of PostgreSQL and the ability to write raw SQL quer",
+    "location": null,
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "SQL",
+      "Python",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm",
+    "dedup_hash": "dc663792ff585974f944c41560d59ed42e67bb1c1b3d618f267869f8ff60d509",
+    "raw_content_hash": "a153fb93d6e645810cfe7dfa738a105caf331aa63400ebe627cb800573a243ed",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:32.948Z",
+    "date_last_checked": "2026-10-15T21:00:32.948Z",
+    "date_last_updated": "2026-10-15T21:00:32.948Z",
+    "sources": [
+      {
+        "source_id": "source-wwr-customer-support",
+        "source_url": "https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm",
+        "first_seen_at": "2026-10-15T21:00:32.948Z",
+        "last_seen_at": "2026-10-15T21:00:32.948Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:32.948Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 70,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 55,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 47,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Consulting.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:32.948Z"
+      }
+    ]
+  },
+  {
+    "id": "c1a843d9-3f73-4c55-9428-50a413c5e09a",
+    "organization_id": "ac5be004-e8e5-4951-a5f5-ba1d8a25f1b9",
+    "title": "CRM/ CVM / Lifecycle/Retention Marketing Lead (US b2c subscription only)",
+    "normalized_title": "crm cvm lifecycle retention marketing lead us b2c subscription only",
+    "opportunity_type": "competition",
+    "tags": [
+      "Marketing",
+      "Strategy"
+    ],
+    "description": "Jobhire: CRM/ CVM / Lifecycle/Retention Marketing Lead (US b2c subscription only)\n\nHeadquarters: Bulgaria\n    \nURL: http://jobhire.ai\n\n\nDescription\nCVM Lead (US Market)\nLocation: Remote \nJob Type: Full-time\n\nAbout JobHire.AI\nJobHire.AI is a vertical AI agent that automates job search for professionals in the US market. We find, tailor, and apply to jobs on behalf of thousands of paying subscribers — at scale and with precision. We operate a subscription model with monthly and longer-term tiers, plus paid add-ons. We're entering a phase where deeper customer value management — not just acquisition — is the single biggest unlock for profitable growth.\n\nWhy This Role Now\nWe are spending efficiently to acquire users — but a substantial portion of revenue is left on the table after the first purchase. Reg→Purchase conversion is below where it should be. Rebill rates erode quickly past month one. Add-on attach is minimal. Our reactivation engine is currently offline. We've been operating an email-only CRM on a platform that doesn't return analytics through its API.\nThat ends with this hire. This is a role for someone who has already done the transformation we need: turning a basic broadcast CRM into a measurable CVM function that drives incremental revenue across email, SMS, and web push — on the US market specifically.\n\nWhat You'll Own\nFunnel Conversion\n\nDrive Reg→Purchase conversion through triggered post-quiz, paywall-abandonment, and onboarding sequences across email, SMS, and web push.\nOwn first-purchase activation across the first 7 days.\n\nRetention & Rebill\n\nDifferentiate renewal sequences by plan tier (1 / 3 / 6 month).\nBuild pre-cancel intervention flows — pause offer, plan-switch, value reminder — using captured cancel reason.\nMove the dial on month-1 rebill rate, the single most leveraged metric in our subscription economics.\n\nReactivation\n\nBuild the reactivation engine for the cancelled cohort — across email and SMS, personalized by cancel reason and tenure.\nR",
+    "location": "Remote",
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://weworkremotely.com/remote-jobs/jobhire-crm-cvm-lifecycle-retention-marketing-lead-us-b2c-subscription-only",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "SQL",
+      "Communication"
+    ],
+    "compensation": {
+      "amount": 4000,
+      "currency": "USD",
+      "period": "monthly",
+      "notes": null
+    },
+    "program_duration": "6 month",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://weworkremotely.com/remote-jobs/jobhire-crm-cvm-lifecycle-retention-marketing-lead-us-b2c-subscription-only",
+    "dedup_hash": "a9ba530c76b5f503666390c41ca6c00611534215f3c3433453c96ae68f2fecbc",
+    "raw_content_hash": "ad0bfd0db46214c03a2f303b31d4b4bbb5806349e2d0e296e08dd96fccbf79ff",
+    "status": "new",
+    "date_discovered": "2026-10-15T21:00:33.109Z",
+    "date_last_checked": "2026-10-15T21:00:33.109Z",
+    "date_last_updated": "2026-10-15T21:00:33.109Z",
+    "sources": [
+      {
+        "source_id": "source-wwr-customer-support",
+        "source_url": "https://weworkremotely.com/remote-jobs/jobhire-crm-cvm-lifecycle-retention-marketing-lead-us-b2c-subscription-only",
+        "first_seen_at": "2026-10-15T21:00:33.109Z",
+        "last_seen_at": "2026-10-15T21:00:33.109Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:33.109Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 70,
+        "career_value_score": 65,
+        "organization_score": 40,
+        "student_fit_score": 70,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 56,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:33.108Z"
+      }
+    ]
+  },
+  {
+    "id": "14210cd0-10e4-4f79-b17f-6276c4e0bb21",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Sales Manager, Enterprise Hunter - Public Sector ",
+    "normalized_title": "sales manager enterprise hunter public sector",
+    "opportunity_type": "operations",
+    "tags": [
+      "Operations",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Location: US-Remote, US-Chicago, US-New York, US-San Francisco\n\nDepartment: 1170 GEO Sales HQ (NA)\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform. Millions of people—from the world’s largest enterprises to the most ambitious startups and now key public institutions—use Stripe to accept payments, grow their revenue, and intelligently manage funds. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>As a front line manager covering new business, you’ll work with your team of account executives to identify new opportunities to build Stripe’s footprint in the Public Sector. More specifically, we’re looking for someone with experience selling into Federal, State, Local govt and educational + nonprofit institutions. Even better if that experience is selling payments, saas, and other technical sales.&nbsp; We’re looking for someone to lead a team and coach seasoned account executives to execute on long-term sales strategies, engage with internal and external stakeholders, align on technical and business requirements with product teams, build value in competitive situations, lead commercial negotiations, and close deals.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Recruit, mentor, develop, and lead a team of sales professionals with enterprise selling expertise within the public sector.&nbsp;</li> <li>Train the team in up-leveling professional skills such as collaborative pipeline generation, consultative and solution-based selling, closing tactics, adoption of MEDDIIC, and serving as a trusted advisor to Stripe Users.</li> <li>Develop both the long-term",
+    "location": "US-Remote, US-Chicago, US-New York, US-San Francisco",
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8191718",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8191718",
+    "dedup_hash": "92efe6b464212f5bf8678c3941c9d1ef14d1c34832331f5abc15efc53bc532bb",
+    "raw_content_hash": "1b5992be6e39e3024cb3e35b0bef0fa57498e044e54f50555ac266b1a53955b1",
+    "status": "needs_review",
+    "date_discovered": "2026-10-15T21:00:35.102Z",
+    "date_last_checked": "2026-10-15T21:00:35.102Z",
+    "date_last_updated": "2026-10-15T21:00:35.102Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8191718",
+        "first_seen_at": "2026-10-15T21:00:35.102Z",
+        "last_seen_at": "2026-10-15T21:00:35.102Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-15T21:00:35.102Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 90,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 80,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 55,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Operations and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-15T21:00:35.102Z"
       }
     ]
   }
