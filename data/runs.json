@@ -1506,5 +1506,18 @@
     "items_needs_review": 1,
     "status": "partial",
     "error_log": "[We Work Remotely — Sales & Marketing] Request timed out after 15000ms"
+  },
+  {
+    "id": "007af1f3-c192-4590-8416-b3f23b091176",
+    "run_type": "scheduled",
+    "started_at": "2026-10-16T03:28:04.241Z",
+    "completed_at": "2026-10-16T03:28:12.368Z",
+    "items_found": 637,
+    "items_new": 5,
+    "items_updated": 19,
+    "items_duplicate": 0,
+    "items_needs_review": 1,
+    "status": "success",
+    "error_log": null
   }
 ]
