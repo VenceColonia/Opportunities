@@ -1584,5 +1584,18 @@
     "items_needs_review": 6,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "8b814329-dafe-4cb0-8bf0-59fb2e3cfdb8",
+    "run_type": "scheduled",
+    "started_at": "2026-10-17T15:05:52.815Z",
+    "completed_at": "2026-10-17T15:05:58.713Z",
+    "items_found": 650,
+    "items_new": 4,
+    "items_updated": 19,
+    "items_duplicate": 0,
+    "items_needs_review": 0,
+    "status": "success",
+    "error_log": null
   }
 ]

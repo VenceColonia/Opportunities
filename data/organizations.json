@@ -6188,5 +6188,45 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "aa35ab22-123a-46e0-b317-491c7b2fed5a",
+    "name": "Atomic Construction, LLC",
+    "normalized_name": "atomic construction llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ea9df256-6113-49e0-978e-0d1017705629",
+    "name": "Palantir Meritocracy Fellowship 2026",
+    "normalized_name": "palantir meritocracy fellowship 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5ea9ccbc-0f39-4c4c-a2ac-6110ce9674e8",
+    "name": "SALTO PI Editorial Board 2026",
+    "normalized_name": "salto pi editorial board 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4779978a-0470-4a53-9a7f-57158d649a6c",
+    "name": "United Nations Young Professionals Programme (YPP) 2026",
+    "normalized_name": "united nations young professionals programme ypp 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
