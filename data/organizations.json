@@ -6498,5 +6498,95 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "79747947-de36-4d5b-94fb-eca0ac5aab6e",
+    "name": "Carrot",
+    "normalized_name": "carrot",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d5d896a9-57e4-4df6-8c49-b4fef88b919d",
+    "name": "Lucid Software",
+    "normalized_name": "lucid software",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9ee51b0a-bdc7-48a7-bf8e-4084640196d7",
+    "name": "HP-UCL IOE Fellowship in AI in Education 2027",
+    "normalized_name": "hp ucl ioe fellowship in ai in education 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5b653060-6c70-48dc-a58b-2d30dc62eda3",
+    "name": "Raisina Young Fellows Programme 2027",
+    "normalized_name": "raisina young fellows programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d5296118-46fd-41ca-825e-57d90585f082",
+    "name": "APFSD Youth Forum 2027 in Bangkok, Thailand",
+    "normalized_name": "apfsd youth forum 2027 in bangkok thailand",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "770de72f-5f22-4758-867a-c53272f66b20",
+    "name": "UNFPA WCARO Youth, Peace, and Security (YPS) Consultant Roster 2026",
+    "normalized_name": "unfpa wcaro youth peace and security yps consultant roster 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f2a6e294-8158-49e7-bed5-b2ccb90ddbeb",
+    "name": "Hertie School Digital Governance Scholarship 2027",
+    "normalized_name": "hertie school digital governance scholarship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "57b7cee6-79da-4f4e-ba2a-a4c31037a2e5",
+    "name": "Datadog",
+    "normalized_name": "datadog",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "958b6a4b-f772-4bb6-9414-14506580a10e",
+    "name": "Roblox",
+    "normalized_name": "roblox",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
