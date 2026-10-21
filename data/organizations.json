@@ -6718,5 +6718,75 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "d78d214c-9a3d-492e-828b-6fb19a4f31b0",
+    "name": "Ritual",
+    "normalized_name": "ritual",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0b9d9e15-1e1b-41ab-8141-adc60cf5f8a7",
+    "name": "Upsun",
+    "normalized_name": "upsun",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9b6590f0-95ff-462d-a147-4ca790b6c876",
+    "name": "Research Fellows Program 2026–2027",
+    "normalized_name": "research fellows program 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3acdd63d-b9db-4322-9de3-3233756caf82",
+    "name": "UNESCO Science for Crisis Response and Solutions Research Continuity Grants for Africa 2026",
+    "normalized_name": "unesco science for crisis response and solutions research continuity grants for africa 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "094043b5-a40c-4645-ab46-8f62bc03d128",
+    "name": "UNDP Uganda ICCA-GSI Phase II Call for Proposals 2026",
+    "normalized_name": "undp uganda icca gsi phase ii call for proposals 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c323619b-9453-41da-a748-50b318db6d6d",
+    "name": "Ocean Legal Fellowship Needs Assessment Survey 2026",
+    "normalized_name": "ocean legal fellowship needs assessment survey 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1e63e428-68c4-42dc-8530-28d9c2736967",
+    "name": "CrossCulture Programme (CCP) Fellowships 2027",
+    "normalized_name": "crossculture programme ccp fellowships 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
