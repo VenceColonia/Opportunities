@@ -12089,7 +12089,7 @@
     "location": "Dublin",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -12114,17 +12114,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "dedup_hash": "bc2d06ca2e0564c94ecbbf05cd61d80953463e0691d4df5d5cc09a6ab1bf5762",
-    "raw_content_hash": "b7f5fa075b480277375ad6ea456f877c36592e3968686e016b0bc3f9ac7b9b9f",
+    "raw_content_hash": "3684d3a9b1306105a2723c828ae348c30dd66a4f4fd3897bb5ef19df769c6a4b",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.372Z",
-    "date_last_checked": "2026-10-21T11:18:41.126Z",
+    "date_last_checked": "2026-10-21T16:44:32.721Z",
     "date_last_updated": "2026-09-14T06:43:29.372Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
         "first_seen_at": "2026-09-14T06:43:29.372Z",
-        "last_seen_at": "2026-10-21T03:36:53.931Z"
+        "last_seen_at": "2026-10-21T16:44:32.721Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -12158,7 +12158,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:41.126Z"
+        "scored_at": "2026-10-21T16:44:32.721Z"
       }
     ]
   },
@@ -12288,14 +12288,14 @@
     "raw_content_hash": "fad693f716d39976a49704cdfec1aff0cab43eb736d701b59224fc7b6c0b47de",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.496Z",
-    "date_last_checked": "2026-10-21T11:18:41.239Z",
+    "date_last_checked": "2026-10-21T16:44:32.860Z",
     "date_last_updated": "2026-09-14T06:43:29.496Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172503",
         "first_seen_at": "2026-09-14T06:43:29.496Z",
-        "last_seen_at": "2026-10-21T11:18:41.239Z"
+        "last_seen_at": "2026-10-21T16:44:32.860Z"
       }
     ],
     "updates": [
@@ -12323,7 +12323,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Data Analytics.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:41.239Z"
+        "scored_at": "2026-10-21T16:44:32.860Z"
       }
     ]
   },
@@ -14620,20 +14620,20 @@
     "raw_content_hash": "958e3022a7ca7451f5567a21badbbc683939bf84346e6813111ea6b59b1b3126",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:30.960Z",
-    "date_last_checked": "2026-10-21T11:18:41.492Z",
-    "date_last_updated": "2026-10-21T11:18:41.492Z",
+    "date_last_checked": "2026-10-21T16:44:33.159Z",
+    "date_last_updated": "2026-10-21T16:44:33.159Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8119697",
         "first_seen_at": "2026-09-14T06:43:30.960Z",
-        "last_seen_at": "2026-10-21T11:18:41.492Z"
+        "last_seen_at": "2026-10-21T16:44:33.159Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-existing-business-central-eastern-europe",
         "first_seen_at": "2026-10-06T12:53:31.756Z",
-        "last_seen_at": "2026-10-21T11:18:37.406Z"
+        "last_seen_at": "2026-10-21T16:44:28.744Z"
       }
     ],
     "updates": [
@@ -15343,6 +15343,20 @@
         "old_value": null,
         "new_value": "Poland - Remote OR Romania - Remote",
         "detected_at": "2026-10-21T11:18:41.492Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Poland - Remote OR Romania - Remote",
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:28.744Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "Poland - Remote OR Romania - Remote",
+        "detected_at": "2026-10-21T16:44:33.159Z"
       }
     ],
     "scores": [
@@ -15361,7 +15375,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:41.492Z"
+        "scored_at": "2026-10-21T16:44:33.159Z"
       }
     ]
   },
@@ -15736,20 +15750,20 @@
     "raw_content_hash": "cc419bc5d663c33dac3b5881c2f06c88c02fa2f3dc9334c61b8292ce4eb493a2",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:31.050Z",
-    "date_last_checked": "2026-10-21T11:18:41.617Z",
-    "date_last_updated": "2026-10-21T11:18:41.617Z",
+    "date_last_checked": "2026-10-21T16:44:33.301Z",
+    "date_last_updated": "2026-10-21T16:44:33.301Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8130052",
         "first_seen_at": "2026-09-14T06:43:31.050Z",
-        "last_seen_at": "2026-10-21T11:18:41.617Z"
+        "last_seen_at": "2026-10-21T16:44:33.301Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-hunter-central-eastern-europe",
         "first_seen_at": "2026-10-09T12:42:16.135Z",
-        "last_seen_at": "2026-10-21T11:18:37.279Z"
+        "last_seen_at": "2026-10-21T16:44:28.595Z"
       }
     ],
     "updates": [
@@ -16333,6 +16347,20 @@
         "old_value": null,
         "new_value": "Poland - Remote OR Romania - Remote",
         "detected_at": "2026-10-21T11:18:41.617Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Poland - Remote OR Romania - Remote",
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:28.595Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "Poland - Remote OR Romania - Remote",
+        "detected_at": "2026-10-21T16:44:33.301Z"
       }
     ],
     "scores": [
@@ -16351,7 +16379,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:41.617Z"
+        "scored_at": "2026-10-21T16:44:33.301Z"
       }
     ]
   },
@@ -19293,11 +19321,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: New York, NY\n\nDepartment: 1652 Platforms - Account Executives (NA)\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.</p> <p>As a key member to the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportunities and ways Stripe can exceed expectations.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive (New Business), you will create partnerships between Stripe and the most innovative and fastest-growing software platforms in the world by helping them to understand how Stripe’s online commerce infrastructure can make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Directly manage and nurture a named account list and develop account plans for winning and expanding business with upper middle market and enterprise companies</li> <li>Build and maintain key relationships with C-level executives, while orchestrating touchpoints with Stripe executives</li> <li>Contribute t",
-    "location": "New York, NY",
+    "description": "Location: San Francisco, CA\n\nDepartment: 1652 Platforms - Account Executives (NA)\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.</p> <p>As a key member to the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportunities and ways Stripe can exceed expectations.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive (New Business), you will create partnerships between Stripe and the most innovative and fastest-growing software platforms in the world by helping them to understand how Stripe’s online commerce infrastructure can make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Directly manage and nurture a named account list and develop account plans for winning and expanding business with upper middle market and enterprise companies</li> <li>Build and maintain key relationships with C-level executives, while orchestrating touchpoints with Stripe executives</li> <li>Contrib",
+    "location": "San Francisco, CA",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8304836",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8304841",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -19321,11 +19349,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8128632",
     "dedup_hash": "9a18a1b681554146bff6aa10e7ea5ed8f1036a376ff563cd46ae0d1ee7be941b",
-    "raw_content_hash": "fcd0b60677c5558b1e5c35fbd9be6e9cc2273c19170245f64e708416b66481ed",
+    "raw_content_hash": "2eb3d32f34285eb85f8ec7ca9d97e2984c4426c2865c85718cada54491e2d412",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:31.727Z",
-    "date_last_checked": "2026-10-21T11:18:42.521Z",
-    "date_last_updated": "2026-10-21T11:18:42.521Z",
+    "date_last_checked": "2026-10-21T16:44:34.187Z",
+    "date_last_updated": "2026-10-21T16:44:34.187Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -19343,13 +19371,13 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8267839",
         "first_seen_at": "2026-10-19T22:04:05.600Z",
-        "last_seen_at": "2026-10-21T11:18:42.383Z"
+        "last_seen_at": "2026-10-21T16:44:33.876Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8267841",
         "first_seen_at": "2026-10-19T22:04:05.743Z",
-        "last_seen_at": "2026-10-21T03:36:55.327Z"
+        "last_seen_at": "2026-10-21T16:44:34.018Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -19361,7 +19389,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8304841",
         "first_seen_at": "2026-10-21T03:36:55.053Z",
-        "last_seen_at": "2026-10-21T11:18:42.260Z"
+        "last_seen_at": "2026-10-21T16:44:34.187Z"
       }
     ],
     "updates": [
@@ -19427,6 +19455,27 @@
         "old_value": null,
         "new_value": "New York, NY",
         "detected_at": "2026-10-21T11:18:42.521Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "New York, NY",
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:33.876Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "Chicago, IL",
+        "detected_at": "2026-10-21T16:44:34.018Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Chicago, IL",
+        "new_value": "San Francisco, CA",
+        "detected_at": "2026-10-21T16:44:34.187Z"
       }
     ],
     "scores": [
@@ -19445,7 +19494,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:42.521Z"
+        "scored_at": "2026-10-21T16:44:34.187Z"
       }
     ]
   },
@@ -34882,14 +34931,14 @@
     "raw_content_hash": "ed4c8babf706d151dda361577af6ee1d39ced2fdf6d28d24291c05b4d23c7a07",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:45.893Z",
-    "date_last_checked": "2026-10-21T11:18:42.789Z",
+    "date_last_checked": "2026-10-21T16:44:34.465Z",
     "date_last_updated": "2026-09-14T06:43:45.893Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8176730",
         "first_seen_at": "2026-09-14T06:43:45.893Z",
-        "last_seen_at": "2026-10-21T11:18:42.789Z"
+        "last_seen_at": "2026-10-21T16:44:34.465Z"
       }
     ],
     "updates": [
@@ -34917,7 +34966,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Client Management.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:42.789Z"
+        "scored_at": "2026-10-21T16:44:34.465Z"
       }
     ]
   },
@@ -36680,31 +36729,27 @@
     "tags": [
       "Operations",
       "Technology",
-      "Entrepreneurship",
-      "Project Management"
+      "Entrepreneurship"
     ],
-    "description": "Location: Seattle, WA\n\nDepartment: Global Operations\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe&nbsp;</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Conducting technical interviews;&nbsp;</li> <li>Creating software, tooling and distributed systems for automating and managing data center network hardware and compute stacks;</li> <li>Creating and operating shared infrastructure for Stripe’s Cardholder data environment;</li> <li>Deployment tooling;&nbsp;</li> <li>SOX compliance audit prep interviews, and remediations;&nbsp;</li> <li>PCI compliance audit prep, interviews, and remediations;&nbsp;</li> <li>Project management;</li> <li>Mentoring junior engineers;&nbsp;</li> <li>On-call responsibilities.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <p>Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science, Software Engineering, or related field, plus two (2) years of Software Development experience. Position also requires the following:</p> <ul> <li>2 years of experience with AWS cloud infrastructure and Terraform infrastructure automation;</li> <li>2 years of experience with reliability, scalability, and distributed systems principles;</li> <li>1 year of experience in Go and Ansible programming languages;</li> <li>1 year of experience in Puppet host configuration;</li> <li>1 year of experience in Ruby programming lan",
+    "description": "Location: Seattle, WA\n\nDepartment: Global Operations\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe&nbsp;</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Design, build, and operate critical tier-0 backend services that must achieve 99.99%+ availability and handle security-sensitive data.</li> <li>Responsible for improving developer tooling.&nbsp;</li> <li>Design and implement robust, scalable infrastructure, participate in an on-call rotation, and collaborate with engineering teams across the company to plan and safely execute changes in production.&nbsp;</li> <li>Set up and operate infrastructure that participates in decentralized distributed systems, including creating deploy pipelines for artifacts.&nbsp;</li> <li>Build and harden custom Amazon Machine Images (AMIs) used to bootstrap EC2 instances, and implement monitoring, logging, and alerting for these systems.&nbsp;</li> <li>Participate in roadmap planning and prioritization.&nbsp;</li> <li>Deliver value through a strong collaborative approach with multiple customers and stakeholders across Stripe.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <h3>Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science or a related field, plus three (3) years of software engineering or related experience.</h3> <p>Must have three (3) years of experience in each of the following",
     "location": "Seattle, WA",
     "country": null,
-    "work_arrangement": "remote",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8249901",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
     "end_date": null,
     "eligibility_text": null,
     "degree_requirements": [],
-    "year_level_requirements": [
-      "3rd year"
-    ],
+    "year_level_requirements": [],
     "citizenship_requirements": [],
     "gpa_requirement": null,
     "skills_required": [
-      "Python",
-      "Leadership"
+      "Python"
     ],
     "compensation": {
-      "amount": 190400,
+      "amount": 156800,
       "currency": "USD",
       "period": "stipend",
       "notes": null
@@ -36714,11 +36759,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8174105",
     "dedup_hash": "d018ef20b3d11203ad09b2d355ff85f95003a3cf68cce98cf7347f0547b9b66a",
-    "raw_content_hash": "4e231750d65460a6e03611cca2f71162418042d9565c440d6dc037728328b4d5",
+    "raw_content_hash": "bb4c7e96ba7146fd7ae7080f5ffc4505d7b1b4eacd816909ef9f462d2ea56a40",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:47.458Z",
-    "date_last_checked": "2026-10-21T11:18:42.918Z",
-    "date_last_updated": "2026-10-21T11:18:42.918Z",
+    "date_last_checked": "2026-10-21T16:44:34.591Z",
+    "date_last_updated": "2026-10-21T16:44:34.591Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -36730,7 +36775,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8249901",
         "first_seen_at": "2026-10-02T21:54:19.245Z",
-        "last_seen_at": "2026-10-21T03:36:55.819Z"
+        "last_seen_at": "2026-10-21T16:44:34.591Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -37327,25 +37372,39 @@
         "old_value": "{\"amount\":156800,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
         "new_value": "{\"amount\":190400,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
         "detected_at": "2026-10-21T11:18:42.918Z"
+      },
+      {
+        "change_type": "work_arrangement_changed",
+        "field_name": "work_arrangement",
+        "old_value": "remote",
+        "new_value": "unknown",
+        "detected_at": "2026-10-21T16:44:34.591Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":190400,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
+        "new_value": "{\"amount\":156800,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
+        "detected_at": "2026-10-21T16:44:34.591Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 90,
+        "relevance_score": 80,
         "career_value_score": 55,
         "organization_score": 40,
-        "student_fit_score": 80,
-        "accessibility_score": 50,
+        "student_fit_score": 70,
+        "accessibility_score": 70,
         "urgency_score": 20,
-        "overall_score": 58,
+        "overall_score": 57,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "Matches your interest in Operations and Project Management.",
+        "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:42.918Z"
+        "scored_at": "2026-10-21T16:44:34.591Z"
       }
     ]
   },
@@ -42819,11 +42878,11 @@
       "Technology",
       "Client Management"
     ],
-    "description": "Location: Vietnam\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The role needs to be physically based in Bangkok, Thailand.&nbsp;</strong></p> <p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.",
-    "location": "Vietnam",
+    "description": "Location: Bangkok, Thailand\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.</p> <p><strong>A typical day:&nbsp;</strong></p> <ul> <li>Build and manage part",
+    "location": "Bangkok, Thailand",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
+    "application_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -42849,17 +42908,17 @@
     "applications_open": true,
     "primary_source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "dedup_hash": "4139f5db5ce884c5344ab037ba920b7c22c8a57f17baeeb09703c2a85d1fb05c",
-    "raw_content_hash": "977fee79b884be68c50d54d3795778e3b6caaec81e37b8bda34d3b84038d6dac",
+    "raw_content_hash": "8495f70db54c9b2001dff5b054f8e28113c313b78a4670302376226b15f071e1",
     "status": "updated",
     "date_discovered": "2026-09-14T06:44:03.685Z",
-    "date_last_checked": "2026-10-21T11:18:43.599Z",
-    "date_last_updated": "2026-10-21T11:18:43.599Z",
+    "date_last_checked": "2026-10-21T16:44:36.015Z",
+    "date_last_updated": "2026-10-21T16:44:36.015Z",
     "sources": [
       {
         "source_id": "source-greenhouse-airbnb",
         "source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
         "first_seen_at": "2026-09-14T06:44:03.685Z",
-        "last_seen_at": "2026-10-21T03:36:56.215Z"
+        "last_seen_at": "2026-10-21T16:44:36.015Z"
       },
       {
         "source_id": "source-greenhouse-airbnb",
@@ -43806,6 +43865,13 @@
         "old_value": "Bangkok, Thailand",
         "new_value": "Vietnam",
         "detected_at": "2026-10-21T11:18:43.599Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Vietnam",
+        "new_value": "Bangkok, Thailand",
+        "detected_at": "2026-10-21T16:44:36.015Z"
       }
     ],
     "scores": [
@@ -43824,7 +43890,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Client Management and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:43.599Z"
+        "scored_at": "2026-10-21T16:44:36.015Z"
       }
     ]
   },
@@ -46674,20 +46740,20 @@
     "raw_content_hash": "42ca48f01a3e22acf2ad79d2991beb0a3b45c0e5a513ac18181b9286b04e58e1",
     "status": "active",
     "date_discovered": "2026-09-14T18:03:18.233Z",
-    "date_last_checked": "2026-10-21T11:18:41.388Z",
+    "date_last_checked": "2026-10-21T16:44:33.037Z",
     "date_last_updated": "2026-10-01T22:24:48.069Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8201690",
         "first_seen_at": "2026-09-14T18:03:18.233Z",
-        "last_seen_at": "2026-10-21T11:18:41.388Z"
+        "last_seen_at": "2026-10-21T16:44:33.037Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-dach-commercial-existing-business",
         "first_seen_at": "2026-10-04T11:53:32.431Z",
-        "last_seen_at": "2026-10-21T11:18:37.537Z"
+        "last_seen_at": "2026-10-21T16:44:28.915Z"
       }
     ],
     "updates": [
@@ -46729,7 +46795,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:41.388Z"
+        "scored_at": "2026-10-21T16:44:33.037Z"
       }
     ]
   },
@@ -52864,7 +52930,7 @@
   {
     "id": "53a61839-e209-49d4-94c8-cef52a323da2",
     "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
-    "title": "Account Executive, Product Sales (Billing) - Grower",
+    "title": "Account Executive, Product Sales, Billing (Grower)",
     "normalized_title": "account executive product sales billing grower",
     "opportunity_type": "finance",
     "tags": [
@@ -52875,11 +52941,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Dublin\n\nDepartment: 1644 Product Sales - Prime Billing\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in the Stripe portfolio. Revenue and Finance Automation (RFA) Product Sales is tasked with attacking a $100B market opportunity for back-office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you&#39;ll do</strong></h2> <p>As a Billing Account Executive (Grower) at Stripe, you&#39;ll use your sales and product expertise to help drive growth to existing Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll be instrumental in leading in-depth product discussions with existing and prospective customers—and building and executing against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Build deep, resilient, and multi-threaded relationships across SMB client organizations, with the ability to articulate value across different functions and key business stakeholders.</li> <li>The capability to develop and execute formal Strategic Account Plans that map out the client organization, identify short-term and long-term growth opportu",
-    "location": "Dublin",
+    "description": "Location: US-SF-HQ, US-SEA, US-CHI, US-NYC\n\nDepartment: 1643 Product Sales - Billing\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Billing Account Executive at Stripe, you&#39;ll use your sales and product expertise to help drive growth through existing Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll lead in-depth product discussions with existing customers and build and execute against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Drive revenue to achieve and overperform on targets</li> <li>Lead upsell conversations of Stripe for existing customers</li> <li>Drive strategic thought leadership within assigned territory to ensure user success and revenue growth</li> <li>Understand the sales process and competitors for Stripe, including software, hardware, and payments</li> <li>Serve as both an internal and customer-facing expert on St",
+    "location": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8211151",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8215758",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -52904,11 +52970,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8196257",
     "dedup_hash": "1480411a32ffe839288c4b4625656286cf3f31779899740de4fe33861a2aa2d6",
-    "raw_content_hash": "162206d2265c0f5fd4bc5d6d9ea25293d95e48f9e85f029b3d8f1fd5ab19143a",
+    "raw_content_hash": "50627fd926ef7f3715553d0e24fa7c60bd97f23a6198e09c9b6508e34e18aba0",
     "status": "updated",
     "date_discovered": "2026-09-16T16:17:21.554Z",
-    "date_last_checked": "2026-10-21T11:18:42.008Z",
-    "date_last_updated": "2026-10-21T11:18:42.008Z",
+    "date_last_checked": "2026-10-21T16:44:33.580Z",
+    "date_last_updated": "2026-10-21T16:44:33.580Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -52926,7 +52992,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8215758",
         "first_seen_at": "2026-10-14T21:20:59.645Z",
-        "last_seen_at": "2026-10-21T03:36:54.669Z"
+        "last_seen_at": "2026-10-21T16:44:33.580Z"
       }
     ],
     "updates": [
@@ -53118,6 +53184,13 @@
         "old_value": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
         "new_value": "Dublin",
         "detected_at": "2026-10-21T11:18:42.008Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Dublin",
+        "new_value": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
+        "detected_at": "2026-10-21T16:44:33.580Z"
       }
     ],
     "scores": [
@@ -53136,7 +53209,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:42.008Z"
+        "scored_at": "2026-10-21T16:44:33.580Z"
       }
     ]
   },
@@ -74012,11 +74085,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Singapore\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across APAC. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to Australia and New Zealand, Japan, India, Singapore, and Southeast Asia. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through business-case deve",
-    "location": "Singapore",
+    "description": "Location: US-CA\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across AMER. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to North America and Latin America. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through bus",
+    "location": "US-CA",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8174160",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8190036",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -74038,17 +74111,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
     "dedup_hash": "29c7716e634cd800ad52f6f3cd3b9894ea33a5243de88013bb7784bbebb1122d",
-    "raw_content_hash": "4370d1e85f0ee1a728163bfacc21d3f35ae1458ea4b71919c51e7f70fd62b99d",
+    "raw_content_hash": "850d9cb9b93aa060417c5e621b4746bd11fa5e20edd30b3dbdbb2381e3202b09",
     "status": "updated",
     "date_discovered": "2026-09-26T03:53:45.478Z",
-    "date_last_checked": "2026-10-21T11:18:41.872Z",
-    "date_last_updated": "2026-10-21T11:18:41.872Z",
+    "date_last_checked": "2026-10-21T16:44:33.428Z",
+    "date_last_updated": "2026-10-21T16:44:33.428Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
         "first_seen_at": "2026-09-26T03:53:45.478Z",
-        "last_seen_at": "2026-10-21T03:36:54.538Z"
+        "last_seen_at": "2026-10-21T16:44:33.428Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -75001,6 +75074,13 @@
         "old_value": "US-CA",
         "new_value": "Singapore",
         "detected_at": "2026-10-21T11:18:41.872Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Singapore",
+        "new_value": "US-CA",
+        "detected_at": "2026-10-21T16:44:33.428Z"
       }
     ],
     "scores": [
@@ -75019,7 +75099,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:41.872Z"
+        "scored_at": "2026-10-21T16:44:33.428Z"
       }
     ]
   },
@@ -75437,14 +75517,17 @@
     "opportunity_type": "consulting",
     "tags": [
       "Consulting",
+      "Marketing",
+      "Strategy",
       "Technology",
-      "Entrepreneurship"
+      "Entrepreneurship",
+      "Client Management"
     ],
-    "description": "Ping Identity: Customer Success Manager\n\nHeadquarters: USA - Remote \n\n\n\nAbout Ping Identity: \nAt Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. \nOur intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. \nWhile protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. \nWe're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. \n\nAs a CSM, you will serve as a named resource and partner for customer organizations. You will build and maintain trusting relationships, acting as a technical resource for day-to-day operational needs. Your responsibilities will include:\nAct as a point of contact for any major customer incidents, being responsible for managing expectations and communications through resolution.\nAnalyzing customer data such as support cases, survey responses, and renewal behaviors to identify technical trends and risks.\nAct as the voice of the customer internally to advocate for their needs.\nMonitor and identify adoption and utilization trends, providing recommendations based on risk and customer needs.\nProviding proactive guidance on Ping's features based on the cus",
+    "description": "Ping Identity: Customer Success Manager\n\nHeadquarters: UK - Remote\n\n\n\nAbout Ping Identity: \nAt Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. \nOur intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. \nWhile protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. \nWe're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. \n\nThe Customer Success Manager (CSM) is responsible for driving adoption, value realization, renewal, and expansion within a defined portfolio of customers. You will act as the primary post‑sales relationship owner, orchestrating the right resources across Support, Product, Services, and Sales to ensure customers achieve their desired outcomes and view us as a strategic partner.\nKey Responsibilities\n1. Customer Outcomes & Revenue\nOwn customer health, retention, and risk management for your portfolio, in partnership with Sales and Renewals.\nBuild, maintain, and execute customer success plans for priority accounts, with clear business outcomes, milestones, and owners.\nProactively identify renewal and churn risk, create save plans, and track mitigation act",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager",
+    "application_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -75454,10 +75537,13 @@
     "year_level_requirements": [],
     "citizenship_requirements": [],
     "gpa_requirement": null,
-    "skills_required": [],
+    "skills_required": [
+      "Communication",
+      "Leadership"
+    ],
     "compensation": {
-      "amount": 76000,
-      "currency": "USD",
+      "amount": null,
+      "currency": null,
       "period": null,
       "notes": null
     },
@@ -75466,17 +75552,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
     "dedup_hash": "fb2e2851b758c1cdeada77c21c48e1969fd337a7b0df1d43e117eec7ca2444ad",
-    "raw_content_hash": "d1f0f95b0b6b801e639ef5f0977d8cddae88af40928eec94fb72d5da216bdd3f",
+    "raw_content_hash": "f1c447bee38ef209773c538b00d5618b50266cbcd15f0882b072742502b6de06",
     "status": "updated",
     "date_discovered": "2026-09-26T10:56:23.016Z",
-    "date_last_checked": "2026-10-21T11:18:40.630Z",
-    "date_last_updated": "2026-10-21T11:18:40.630Z",
+    "date_last_checked": "2026-10-21T16:44:32.030Z",
+    "date_last_updated": "2026-10-21T16:44:32.030Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
         "first_seen_at": "2026-09-26T10:56:23.016Z",
-        "last_seen_at": "2026-10-21T03:36:53.416Z"
+        "last_seen_at": "2026-10-21T16:44:32.030Z"
       },
       {
         "source_id": "source-wwr-customer-support",
@@ -76087,25 +76173,32 @@
         "old_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
         "new_value": "{\"amount\":76000,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
         "detected_at": "2026-10-21T11:18:40.630Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":76000,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
+        "new_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
+        "detected_at": "2026-10-21T16:44:32.030Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 90,
-        "career_value_score": 55,
+        "relevance_score": 100,
+        "career_value_score": 40,
         "organization_score": 40,
-        "student_fit_score": 70,
+        "student_fit_score": 90,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 56,
+        "overall_score": 58,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "Matches your interest in Consulting.",
+        "reasoning": "Matches your interest in Consulting and Client Management.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:40.629Z"
+        "scored_at": "2026-10-21T16:44:32.030Z"
       }
     ]
   },
@@ -79149,11 +79242,11 @@
       "Strategy",
       "Technology"
     ],
-    "description": "Dropbox: Customer Evidence Manager\n\nHeadquarters: Remote - US: Select locations\n\n\nRole Description\nDropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a customer story is not that it gets published — it is that it protects customer trust, gives buyers credible, accurate proof and moves a deal forward. You are the editorial authority on what good looks like, not the person writing every script: execution (writing, video, design) is delivered through agency partners you brief and direct.\nEnterprise buyers do not decide on brand claims. They decide on credible proof from organizations like theirs: customer stories, ROI evidence, video testimonials, peer reviews, and competitive validation. In this role, you will produce that evidence and ensure it reaches sellers and customers at the moments it can have the greatest commercial impact.\nYou will own the program outcomes and operational rigor — setting the creative and editorial bar for what makes a great customer story, directing the agency partners who produce the work, and deploying that proof into active deals — and measuring evidence's impact on pipeline, win rates, and sales-cycle velocity. You will partner closely with Sales, Customer Success, Campaign Enablement, and product teams to prioritize proof for the full suite of Dropbox products and solutions, including  AI capabilities, multi-product platform adoption, and priority vertical workflows. You will get substantial senior Sales and Marketing leadership exposure and a direct, measurable line to revenue during a pivotal shift in how Dropbox goes to market.\nResponsibilities\nIdentify advocates, coordinate outreach with account teams, manage consent and approvals, record participation preferences, and avoid customer fatigue. \nSet the creativ",
+    "description": "Dropbox: Customer Evidence Manager\n\nHeadquarters: Remote - Canada: Select locations\n\n\nRole Description\nDropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a customer story is not that it gets published — it is that it protects customer trust, gives buyers credible, accurate proof and moves a deal forward. You are the editorial authority on what good looks like, not the person writing every script: execution (writing, video, design) is delivered through agency partners you brief and direct.\nEnterprise buyers do not decide on brand claims. They decide on credible proof from organizations like theirs: customer stories, ROI evidence, video testimonials, peer reviews, and competitive validation. In this role, you will produce that evidence and ensure it reaches sellers and customers at the moments it can have the greatest commercial impact.\nYou will own the program outcomes and operational rigor — setting the creative and editorial bar for what makes a great customer story, directing the agency partners who produce the work, and deploying that proof into active deals — and measuring evidence's impact on pipeline, win rates, and sales-cycle velocity. You will partner closely with Sales, Customer Success, Campaign Enablement, and product teams to prioritize proof for the full suite of Dropbox products and solutions, including  AI capabilities, multi-product platform adoption, and priority vertical workflows. You will get substantial senior Sales and Marketing leadership exposure and a direct, measurable line to revenue during a pivotal shift in how Dropbox goes to market.\nResponsibilities\nIdentify advocates, coordinate outreach with account teams, manage consent and approvals, record participation preferences, and avoid customer fatigue. \nSet the cre",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager",
+    "application_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -79169,7 +79262,7 @@
       "Leadership"
     ],
     "compensation": {
-      "amount": 157600,
+      "amount": 142800,
       "currency": "USD",
       "period": "monthly",
       "notes": null
@@ -79179,17 +79272,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
     "dedup_hash": "2e19caa76582ec395d08d2bb5ec6327f2f8fd302eda09be6bc27c6cef77ab624",
-    "raw_content_hash": "20be64c8260715d45a3e7a7254cc61755d67e487f175f70513a6c26d489ed992",
+    "raw_content_hash": "ccfa93c411c16c29f15854e9fff7fd6d2ff349db6a0807b774adbe34dcc259b6",
     "status": "updated",
     "date_discovered": "2026-09-28T13:06:34.389Z",
-    "date_last_checked": "2026-10-21T11:18:40.517Z",
-    "date_last_updated": "2026-10-21T11:18:40.517Z",
+    "date_last_checked": "2026-10-21T16:44:31.898Z",
+    "date_last_updated": "2026-10-21T16:44:31.898Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
         "first_seen_at": "2026-09-28T13:06:34.389Z",
-        "last_seen_at": "2026-10-21T03:36:53.293Z"
+        "last_seen_at": "2026-10-21T16:44:31.898Z"
       },
       {
         "source_id": "source-wwr-customer-support",
@@ -79744,6 +79837,13 @@
         "old_value": "{\"amount\":142800,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "new_value": "{\"amount\":157600,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "detected_at": "2026-10-21T11:18:40.517Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":157600,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "new_value": "{\"amount\":142800,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "detected_at": "2026-10-21T16:44:31.898Z"
       }
     ],
     "scores": [
@@ -79762,7 +79862,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:40.516Z"
+        "scored_at": "2026-10-21T16:44:31.898Z"
       }
     ]
   },
@@ -85607,11 +85707,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Toronto, Canada \n\nDepartment: 1175 Enterprise - Account Executives (NA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Account Executive, SMB Grower team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers. As an Account Executive, SMB Grower team member, you’ll identify new opportunities for our clients to get the most out of Stripe by quickly understanding our clients’ needs, execute scaled sales strategies to close upsell and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe’s offerings.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own contract renewals and lead negotiations to increase and retain existing customer revenue and Stripe market share</li> <li>Develop and implement full sales cycle strategies for driving product adoption, net new product sales, and client retention at scale among existing Stripe customers</li> <li>Solve complex client needs and work across product, sales, risk, and operations teams to improve our product</li> <li>Own the full sales cycle from lead to close for startups and small/medium businesses</li> <li>Generate your own leads through cold calling, blitzing, research, networking, and driving your territory.</li> <li>Make every potential Stripe user happy with every",
+    "description": "Location: Toronto, Canada\n\nDepartment: 1175 Enterprise - Account Executives (NA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Account Executive, SMB Grower team is a highly consultative sales team that is responsible for the growth and retention of Stripe’s largest and fastest growing SMB customers. As an Account Executive, SMB Grower team member, you’ll identify new opportunities for our clients to get the most out of Stripe by quickly understanding our clients’ needs, execute scaled sales strategies to close upsell and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe’s offerings.</p> <p>&nbsp;</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own contract renewals and lead negotiations to increase and retain existing customer revenue and Stripe market share</li> <li>Develop and implement full sales cycle strategies for driving product adoption, net new product sales, and client retention at scale among existing Stripe customers</li> <li>Solve complex client needs and work across product, sales, risk, and operations teams to improve our product</li> <li>Own the full sales cycle from lead to close for startups and small/medium businesses</li> <li>Generate your own leads through cold calling, blitzing, research, networking, and driving your territory.</li> <li>Make every potential Stripe user hap",
     "location": "Toronto, Canada",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8238741",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8238743",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -85637,17 +85737,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8238743",
     "dedup_hash": "6b3a1b390dc8badc4d3fe4da7c87701ffe09f27dc04dc89994dc11cf5cf3710c",
-    "raw_content_hash": "2b5cbf00b9a00b2a73cf0e6faca7cd75bf7f5ac049b8de14e07d9112548ad022",
+    "raw_content_hash": "1cc181159f1086f6a05ef18ce50902532646f441e679cce5ed9ff97786b9a749",
     "status": "active",
     "date_discovered": "2026-09-30T21:56:40.251Z",
-    "date_last_checked": "2026-10-21T11:18:42.117Z",
+    "date_last_checked": "2026-10-21T16:44:33.730Z",
     "date_last_updated": "2026-09-30T21:56:40.251Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8238743",
         "first_seen_at": "2026-09-30T21:56:40.251Z",
-        "last_seen_at": "2026-10-21T03:36:54.800Z"
+        "last_seen_at": "2026-10-21T16:44:33.730Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -85681,7 +85781,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:42.117Z"
+        "scored_at": "2026-10-21T16:44:33.730Z"
       }
     ]
   },
@@ -114569,11 +114669,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Tailscale: Brand Designer\n\nHeadquarters: Remote (Canada)\n\n\n\nThank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic!\nAbout Tailscale \nTailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.\n\nAbout the Role\nTailscale is looking for an experienced Brand Designer to help bring our brand to life across every customer touchpoint. You'll create thoughtful, high-quality creative that helps people understand our products, builds trust with technical audiences, and supports some of our most important marketing initiatives.\nThis role reports to the Team Lead and partners closely with Brand, Growth, Web, Content, Product Marketing, and Developer Relations. You'll own projects from concept through execution, contribute to the evolution of our design systems, and help us scale creative output without sacrificing quality.\nWe're looking for someone who cares deeply about craft, thrives in collaborative environments but is able to work autonomously while requiring minimal direction, and enjoys solving complex communication problems through thoughtful design.\nKey Responsibilities\nOwn brand design projects from creative brief through final delivery with limited guidance\nDesign high-quality creative assets across web, campaigns, events, social media, presentations, product",
+    "description": "Tailscale: Brand Designer\n\nHeadquarters: Remote (United States)\n\n\n\nThank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic!\nAbout Tailscale \nTailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.\n\nAbout the Role\nTailscale is looking for an experienced Brand Designer to help bring our brand to life across every customer touchpoint. You'll create thoughtful, high-quality creative that helps people understand our products, builds trust with technical audiences, and supports some of our most important marketing initiatives.\nThis role reports to the Team Lead and partners closely with Brand, Growth, Web, Content, Product Marketing, and Developer Relations. You'll own projects from concept through execution, contribute to the evolution of our design systems, and help us scale creative output without sacrificing quality.\nWe're looking for someone who cares deeply about craft, thrives in collaborative environments but is able to work autonomously while requiring minimal direction, and enjoys solving complex communication problems through thoughtful design.\nKey Responsibilities\nOwn brand design projects from creative brief through final delivery with limited guidance\nDesign high-quality creative assets across web, campaigns, events, social media, presentations, ",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/tailscale-brand-designer",
+    "application_url": "https://weworkremotely.com/remote-jobs/tailscale-brand-designer-1",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -114589,7 +114689,7 @@
       "Communication"
     ],
     "compensation": {
-      "amount": 163480,
+      "amount": 117750,
       "currency": "USD",
       "period": "monthly",
       "notes": null
@@ -114599,17 +114699,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/tailscale-brand-designer-1",
     "dedup_hash": "89a852bf82ab2b5afe0a8a79634ea690df5255235780d5dea176ef7b706a1560",
-    "raw_content_hash": "228b02c4f7c199ede84c985a912cc2cacfe59ac5f0e92f7a39a69ff4956a0d91",
+    "raw_content_hash": "89bbd4943a618befb4e7fc7650c05041ed0a9b7f80ca44e8cf903eb00aed8285",
     "status": "updated",
     "date_discovered": "2026-10-14T11:21:01.999Z",
-    "date_last_checked": "2026-10-21T11:18:37.015Z",
-    "date_last_updated": "2026-10-21T11:18:37.015Z",
+    "date_last_checked": "2026-10-21T16:44:28.288Z",
+    "date_last_updated": "2026-10-21T16:44:28.288Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/tailscale-brand-designer-1",
         "first_seen_at": "2026-10-14T11:21:01.999Z",
-        "last_seen_at": "2026-10-21T03:36:51.399Z"
+        "last_seen_at": "2026-10-21T16:44:28.288Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
@@ -114814,6 +114914,13 @@
         "old_value": "{\"amount\":117750,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "new_value": "{\"amount\":163480,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
         "detected_at": "2026-10-21T11:18:37.015Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":163480,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "new_value": "{\"amount\":117750,\"currency\":\"USD\",\"period\":\"monthly\",\"notes\":null}",
+        "detected_at": "2026-10-21T16:44:28.288Z"
       }
     ],
     "scores": [
@@ -114832,7 +114939,7 @@
         "is_time_sensitive": false,
         "reasoning": "General fit based on role and location.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:37.014Z"
+        "scored_at": "2026-10-21T16:44:28.287Z"
       }
     ]
   },
@@ -114929,7 +115036,7 @@
     "tags": [
       "Strategy"
     ],
-    "description": "Typeform: Senior Account Executive\n\nHeadquarters: United States (Remote) \n\n\n\nWho we are\nTypeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.\n\nWe’re excited to hire someone based in New York, where we’re looking to grow our sales presence.\nAbout The Role\n\nOur team is still early in its evolution, operating with a start-up mindset within a scaling company. We're building stronger processes, a clearer operating model, and the foundation for our next stage of growth. We’re looking for someone who wants to help create that future—not just operate within it.\nAs a Senior Account Executive reporting directly to the Head of Sales, you’ll be a key driver of our outbound engine. You’re a strategic seller who owns the full cycle, thrives on proactive outreach, and isn’t phased by cold calls or pipeline creation. You combine discipline with initiative, independence with collaboration, and urgency with long-term relationship-building.\nYour territory spans Mid-Market and Enterprise customers, blending short-cycle and long-cycle opportunities. But make no mistake: outbound is the heartbeat of this role.\n\nThings you will do:\n\nOutreach + engagement: contact leads via email, cold calls, conferences, and more. Manage inbound and referral leads.\nLead gen + prospecting: research potential customers, generate leads, and build a consistent outbound sales pipeline. Attend industry events and develop connections to drive future sales growth.\nQualification + closing: run discovery calls, demos, and follow-ups to qualify and close new customers. Build proposals and RoI cases that convince qualified prospects to buy Listen. Negotiate contract terms when needed.\nProcess improvement: improve our internal sales proce",
+    "description": "Typeform: Senior Account Executive\n\nHeadquarters: United Kingdom (Remote) \n\n\n\nWho we are\nTypeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.\n\nWe’re excited to hire someone based in London, where we’re looking to grow our sales presence.\nAbout The Role\n\nOur team is still early in its evolution, operating with a start-up mindset within a scaling company. We're building stronger processes, a clearer operating model, and the foundation for our next stage of growth. We’re looking for someone who wants to help create that future—not just operate within it.\nAs a Senior Account Executive reporting directly to the Head of Sales, you’ll be a key driver of our outbound engine. You’re a strategic seller who owns the full cycle, thrives on proactive outreach, and isn’t phased by cold calls or pipeline creation. You combine discipline with initiative, independence with collaboration, and urgency with long-term relationship-building.\nYour territory spans Mid-Market and Enterprise customers, blending short-cycle and long-cycle opportunities. But make no mistake: outbound is the heartbeat of this role.\n\n\nThings you will do:\n\nOutreach + engagement: contact leads via email, cold calls, conferences, and more. Manage inbound and referral leads.\nLead gen + prospecting: research potential customers, generate leads, and build a consistent outbound sales pipeline. Attend industry events and develop connections to drive future sales growth.\nQualification + closing: run discovery calls, demos, and follow-ups to qualify and close new customers. Build proposals and RoI cases that convince qualified prospects to buy Listen. Negotiate contract terms when needed.\nProcess improvement: improve our internal sales proce",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -114957,17 +115064,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/typeform-senior-account-executive",
     "dedup_hash": "8ea461b28d1be70606dcf44a655ae683322b8ff1510cbb3d7855d7fb8c61c044",
-    "raw_content_hash": "a1a2466702b8db278b9db906d8635acbdf7aac0ab29af225125c1020aa634091",
+    "raw_content_hash": "835f3a1fda5a819f4595607845579c416fca3c2fce035fd56e851994d9585ae7",
     "status": "active",
     "date_discovered": "2026-10-14T11:21:02.361Z",
-    "date_last_checked": "2026-10-21T11:18:37.139Z",
+    "date_last_checked": "2026-10-21T16:44:28.432Z",
     "date_last_updated": "2026-10-14T11:21:02.361Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/typeform-senior-account-executive",
         "first_seen_at": "2026-10-14T11:21:02.361Z",
-        "last_seen_at": "2026-10-21T11:18:37.139Z"
+        "last_seen_at": "2026-10-21T16:44:28.432Z"
       }
     ],
     "updates": [
@@ -114995,7 +115102,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-10-21T11:18:37.139Z"
+        "scored_at": "2026-10-21T16:44:28.432Z"
       }
     ]
   },
@@ -132152,6 +132259,1224 @@
         "reasoning": "Matches your interest in Operations and Consulting.",
         "scoring_method": "heuristic",
         "scored_at": "2026-10-21T11:18:42.682Z"
+      }
+    ]
+  },
+  {
+    "id": "4f0733f7-71e1-4013-a626-eccb55f195ce",
+    "organization_id": "442c8471-56ea-4962-80ce-43cab0148639",
+    "title": "Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists",
+    "normalized_title": "apply for up to us 1 000 to advance gender justice and empower young activists",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists\n\nAre you a girl or young activist with an idea for promoting gender justice in your community? Are you looking for funding and mentorship to turn your ideas into meaningful action? The Girl Up Project Awards 2026 offer an opportunity for individuals, youth-led groups, and eligible Girl Up Club+ participants to develop projects that address […]\nThe post Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists appeared first on Opportunities for Youth.\n\n2026-10-21T16:01:03.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": 1000,
+      "currency": "USD",
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/",
+    "dedup_hash": "7ff5fc5bf5784d6f8f5699fe2a11bfdd6f59c2665b6e458be55038f2f9c1f3df",
+    "raw_content_hash": "3b72e6efcad415c1cde54671cd5bb72329144e1c6585a9f6ce1dbeac49f6819b",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:29.930Z",
+    "date_last_checked": "2026-10-21T16:44:29.930Z",
+    "date_last_updated": "2026-10-21T16:44:29.930Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/",
+        "first_seen_at": "2026-10-21T16:44:29.930Z",
+        "last_seen_at": "2026-10-21T16:44:29.930Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:29.930Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 45,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 48,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:29.930Z"
+      }
+    ]
+  },
+  {
+    "id": "71f51966-91a8-4f62-b30e-7f5ff9b5df36",
+    "organization_id": "c2be5c2b-c64e-4cc5-aa3c-804af22ae395",
+    "title": "Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
+    "normalized_title": "scholarships for students and recent graduates to pursue a master s degree abroad",
+    "opportunity_type": "scholarship",
+    "tags": [],
+    "description": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad\n\nThe George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States, Canada, the United Kingdom, and other European countries. Established under The Ireland Funds, the programme aims to help promising individuals access […]\nThe post George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad appeared first on Opportunities for Youth.\n\n2026-10-21T15:40:19.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+    "dedup_hash": "f431a6dc4c54e0a064aee2e33a2fdda468f6e411b934c6766f9ceaa743b6d985",
+    "raw_content_hash": "b9b44797b4bc486698c0db5d105cbce4a2f2762ef42c7da62ef99b1df27c04de",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:30.083Z",
+    "date_last_checked": "2026-10-21T16:44:30.083Z",
+    "date_last_updated": "2026-10-21T16:44:30.083Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+        "first_seen_at": "2026-10-21T16:44:30.083Z",
+        "last_seen_at": "2026-10-21T16:44:30.083Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:30.083Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 47,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:30.083Z"
+      }
+    ]
+  },
+  {
+    "id": "e043b989-0ed4-4460-891f-75eec5983ca9",
+    "organization_id": "f07b3395-f407-48bd-8ae9-6afe1af77157",
+    "title": "Application Guide for Fall 2027",
+    "normalized_title": "application guide for fall 2027",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Ph.D. in Aging Studies at the University of South Florida (USF), USA: Application Guide for Fall 2027\n\nThe Ph.D. in Aging Studies at the University of South Florida (USF) offers an interdisciplinary doctoral research training opportunity for students interested in aging, health and well-being, caregiving, dementia, public policy, long-term care, and the social and psychological aspects of growing older. Hosted by the USF School of Aging Studies within the College of Behavioral […]\nThe post Ph.D. in Aging Studies at the University of South Florida (USF), USA: Application Guide for Fall 2027 appeared first on Opportunities for Youth.\n\n2026-10-21T15:10:16.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa-application-guide-for-fall-2027/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa-application-guide-for-fall-2027/",
+    "dedup_hash": "d5067e5d7612f8c4be1acc79f31106e3b2dacb80667fd392da0a4e1aa5fc5914",
+    "raw_content_hash": "6584ca51a58f25e59cfe8d9e1ad80bd4530ee7ea547d80395d84c6442f08d34a",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:30.268Z",
+    "date_last_checked": "2026-10-21T16:44:30.268Z",
+    "date_last_updated": "2026-10-21T16:44:30.268Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa-application-guide-for-fall-2027/",
+        "first_seen_at": "2026-10-21T16:44:30.268Z",
+        "last_seen_at": "2026-10-21T16:44:30.268Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:30.268Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:30.268Z"
+      }
+    ]
+  },
+  {
+    "id": "c25bfaa1-0ea3-44b4-abe5-2b7ab0e8d304",
+    "organization_id": "aaa09e27-ec29-4dad-b59c-748d68c9c162",
+    "title": "Apply for £150,000–£200,000 in Funding",
+    "normalized_title": "apply for 150 000 200 000 in funding",
+    "opportunity_type": "other",
+    "tags": [],
+    "description": "Women’s Economic Empowerment in Transport Research Grants 2026: Apply for £150,000–£200,000 in Funding\n\nThe Research Initiative for Data and Evidence (RIDE) has announced an open call for research proposals on Women’s Economic Empowerment (WEE) in Transport, offering substantial research funding to eligible universities, research institutes, and research consortia worldwide. The initiative aims to support evidence-based research that addresses the barriers women face in transport systems, particularly violence against […]\nThe post Women’s Economic Empowerment in Transport Research Grants 2026: Apply for £150,000–£200,000 in Funding appeared first on Opportunities for Youth.\n\n2026-10-21T14:20:37.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/womens-economic-empowerment-in-transport-research-grants-2026-apply-for-150000-200000-in-funding/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/womens-economic-empowerment-in-transport-research-grants-2026-apply-for-150000-200000-in-funding/",
+    "dedup_hash": "092b4e393c54f3832402bc0dad9b46ec90d0e99e824d72e1654dfdb287a80319",
+    "raw_content_hash": "d4d7d0414d55eaccd006ecc43104a12aaa393d5b9321625fe2083bada4787380",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:30.418Z",
+    "date_last_checked": "2026-10-21T16:44:30.418Z",
+    "date_last_updated": "2026-10-21T16:44:30.418Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/womens-economic-empowerment-in-transport-research-grants-2026-apply-for-150000-200000-in-funding/",
+        "first_seen_at": "2026-10-21T16:44:30.418Z",
+        "last_seen_at": "2026-10-21T16:44:30.418Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:30.418Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 30,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 44,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:30.418Z"
+      }
+    ]
+  },
+  {
+    "id": "eb0bc651-0897-4fdd-bbba-4961d6766d77",
+    "organization_id": "40586e0f-13bb-4a1f-9d91-b96c50e20de5",
+    "title": "Apply for a Leadership Programme for Young Foreign Policy Leaders Aged 25–35",
+    "normalized_title": "apply for a leadership programme for young foreign policy leaders aged 25 35",
+    "opportunity_type": "leadership_program",
+    "tags": [],
+    "description": "Foreign Policy for America NextGen Initiative 2027: Apply for a Leadership Programme for Young Foreign Policy Leaders Aged 25–35\n\nAre you a young professional, policy expert, activist, or emerging leader interested in international relations, diplomacy, national security, democracy, or global development? The Foreign Policy for America NextGen Initiative is inviting applications for its upcoming cohort, offering young leaders opportunities to strengthen their knowledge, build professional networks, develop leadership skills, and engage with issues shaping […]\nThe post Foreign Policy for America NextGen Initiative 2027: Apply for a Leadership Programme for Young Foreign Policy Leaders Aged 25–35 appeared first on Opportunities for Youth.\n\n2026-10-21T14:01:29.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+    "dedup_hash": "f729b59085f5a0def9b70bf119da20368e06d6bd627b8e0a0730416119b898c2",
+    "raw_content_hash": "674d9ac091d2778c899e4c59222b100d01bb8b9435049ea7a632ccc6e84954ec",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:30.607Z",
+    "date_last_checked": "2026-10-21T16:44:30.607Z",
+    "date_last_updated": "2026-10-21T16:44:30.607Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+        "first_seen_at": "2026-10-21T16:44:30.607Z",
+        "last_seen_at": "2026-10-21T16:44:30.607Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:30.607Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 60,
+        "career_value_score": 60,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 53,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:30.607Z"
+      }
+    ]
+  },
+  {
+    "id": "14003e0f-db2c-4b3d-acf4-29d9c5933145",
+    "organization_id": "a4cbcdfb-6230-450a-a6bc-d4e5c58c606d",
+    "title": "Fully Funded Master’s Scholarship Worth SEK 12,000 Monthly",
+    "normalized_title": "fully funded master s scholarship worth sek 12 000 monthly",
+    "opportunity_type": "scholarship",
+    "tags": [],
+    "description": "SI Scholarship for Global Professionals 2027/2028 in Sweden: Fully Funded Master’s Scholarship Worth SEK 12,000 Monthly\n\nThe Swedish Institute (SI) Scholarship for Global Professionals 2027/2028 offers international professionals an opportunity to pursue a fully funded master’s degree at a Swedish university. The scholarship supports talented individuals who want to strengthen their academic knowledge, develop professional leadership skills, and contribute to sustainable development in their home countries and regions. Through this competitive […]\nThe post SI Scholarship for Global Professionals 2027/2028 in Sweden: Fully Funded Master’s Scholarship Worth SEK 12,000 Monthly appeared first on Opportunities for Youth.\n\n2026-10-21T12:13:46.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": "monthly",
+      "notes": null
+    },
+    "program_duration": "00 Month",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
+    "dedup_hash": "7e54c34abc6b89456086582f74454fafa2763be16e2fae41278bf333b80d5ebd",
+    "raw_content_hash": "fbf6a1e2242043913ea6f822d3a7ca5eb23eb963cc314f1b66efcd0bc0439289",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:30.757Z",
+    "date_last_checked": "2026-10-21T16:44:30.757Z",
+    "date_last_updated": "2026-10-21T16:44:30.757Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
+        "first_seen_at": "2026-10-21T16:44:30.757Z",
+        "last_seen_at": "2026-10-21T16:44:30.757Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:30.757Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 50,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 49,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:30.757Z"
+      }
+    ]
+  },
+  {
+    "id": "2df63766-1c81-49a1-af95-031046e93704",
+    "organization_id": "f44b62fc-0bc0-483b-b1b3-88bb3f06df4c",
+    "title": "Paid Nine-Month Fellowship in Public Policy and City Government",
+    "normalized_title": "paid nine month fellowship in public policy and city government",
+    "opportunity_type": "fellowship",
+    "tags": [],
+    "description": "New York City Urban Fellows Program 2027–2028: Paid Nine-Month Fellowship in Public Policy and City Government\n\nThe New York City Urban Fellows Program 2027–2028 is offering an opportunity for eligible applicants to gain practical experience in public administration, urban policy, and local government through a nine-month fellowship sponsored by the City of New York and administered by the New York City Department of Citywide Administrative Services (DCAS). The nationally recognized programme […]\nThe post New York City Urban Fellows Program 2027–2028: Paid Nine-Month Fellowship in Public Policy and City Government appeared first on Opportunities for Youth.\n\n2026-10-21T10:14:44.000Z",
+    "location": null,
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://opportunitiesforyouth.org/2026/10/21/new-york-city-urban-fellows-program-2026-2027-how-to-apply-eligibility-stipend-and-key-dates/",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://opportunitiesforyouth.org/2026/10/21/new-york-city-urban-fellows-program-2026-2027-how-to-apply-eligibility-stipend-and-key-dates/",
+    "dedup_hash": "d7d2684350a1473414361ad492ab0a40ccdc1c24c228519638a19a6195b7f866",
+    "raw_content_hash": "2864914fe96afcc4543d5ded8f037b33adeaf1b72b67422b00d82b02bdc37744",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:30.937Z",
+    "date_last_checked": "2026-10-21T16:44:30.937Z",
+    "date_last_updated": "2026-10-21T16:44:30.937Z",
+    "sources": [
+      {
+        "source_id": "source-opportunities-for-youth",
+        "source_url": "https://opportunitiesforyouth.org/2026/10/21/new-york-city-urban-fellows-program-2026-2027-how-to-apply-eligibility-stipend-and-key-dates/",
+        "first_seen_at": "2026-10-21T16:44:30.937Z",
+        "last_seen_at": "2026-10-21T16:44:30.937Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:30.937Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 50,
+        "career_value_score": 60,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 52,
+        "is_prestigious": false,
+        "is_selective": true,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:30.937Z"
+      }
+    ]
+  },
+  {
+    "id": "ef498ef8-4300-4737-abc2-1aefadf37fc9",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Head of Product Sales, Payouts",
+    "normalized_title": "head of product sales payouts",
+    "opportunity_type": "finance",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Operations",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Location: SF, NYC\n\nDepartment: 1642 Product Sales - MaaS\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Stripe is investing in building out its Payouts product sales team to help prospects and customers move money globally with greater speed, flexibility, and control. Our growing footprint of Payouts products (Instant, Next day, Global payouts, FX, MCS solutions) enable businesses to send funds to sellers, service providers, contractors, creators, claimants, customers, and other third-party recipients around the world.</p> <p>You will represent Stripe across our global markets externally while helping develop and strengthen our culture internally. You know what it takes to build and scale a business structurally and methodically. You have a strong understanding of technical and financial concepts and enjoy working closely with Product and Engineering teams, as well as broader Sales and go-to-market organizations.</p> <p>As the Head of Product Sales, Payouts, you will be a critical member of the go-to-market leadership team. You will drive the strategy and execution of Stripe’s Payouts GTM, accelerating adoption and revenue growth across Payouts, platform and marketplace payout capabilities, cross-border payouts, FX/MCS solutions, payout methods, and recipient experiences.</p> <h2><strong>What you’ll do</strong></h2> <ul> <li>Own and drive the global go-to-market strategy for Payouts.</li> <li>Rec",
+    "location": "SF, NYC",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8204649",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8204649",
+    "dedup_hash": "d8c3d4e404e607acbb5d0f8ed395f85bdde874fd272d5a2ecb931181664ec8cb",
+    "raw_content_hash": "81082a2e6c14ad9d6a24d70be92339b26a0350f194900c9e0109d060b82cd662",
+    "status": "new",
+    "date_discovered": "2026-10-21T16:44:34.322Z",
+    "date_last_checked": "2026-10-21T16:44:34.322Z",
+    "date_last_updated": "2026-10-21T16:44:34.322Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8204649",
+        "first_seen_at": "2026-10-21T16:44:34.322Z",
+        "last_seen_at": "2026-10-21T16:44:34.322Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:34.322Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Operations and Finance.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:34.322Z"
+      }
+    ]
+  },
+  {
+    "id": "1d903be1-0692-4146-a750-20f8bd14c5fb",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Manager, Key Accounts - Hotels",
+    "normalized_title": "manager key accounts hotels",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management",
+      "Project Management"
+    ],
+    "description": "Location: London, United Kingdom\n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><h3><strong>The Community You Will Join</strong></h3> <p>The Airbnb Hotels team is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence and guest-centred ethos that define Airbnb. Our mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping hotel partners easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.</p> <h3><strong>The Difference You Will Make</strong></h3> <p><strong>Build a global team. Open doors no one at Airbnb has opened yet.</strong></p> <p>Airbnb Hotels is one of the most exciting growth stories in travel, and we’re only getting started. As Manager, Key Accounts, you will build and lead a brand new, globally distributed team of Enterprise Account Managers. Together you will win and onboard high-value, above-property hotel groups with hundreds of hotels across multiple continents.</p> <h3><strong>We’re looking for someone who brings:</strong></h3> <ul> <li><strong>Proven leadership of a key, strategic or enterprise accounts team</strong>, ideally globally distributed</li> <li><strong>A network and reputation in travel and hospitality</strong>, ideally hotels</li> <li><strong>Real negotiation e",
+    "location": "London, United Kingdom",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://careers.airbnb.com/positions/8303917?gh_jid=8303917",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Tableau",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8303917?gh_jid=8303917",
+    "dedup_hash": "bdd8f6fd01ab73284ba6f20790cf972e16e19175bc40650c92fda090248b2589",
+    "raw_content_hash": "7887bdb77a975b748b8a6f536504cbd22c0481f471409cccbd0742750ade2031",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:34.941Z",
+    "date_last_checked": "2026-10-21T16:44:34.941Z",
+    "date_last_updated": "2026-10-21T16:44:34.941Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8303917?gh_jid=8303917",
+        "first_seen_at": "2026-10-21T16:44:34.941Z",
+        "last_seen_at": "2026-10-21T16:44:34.941Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:34.941Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Project Management and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:34.941Z"
+      }
+    ]
+  },
+  {
+    "id": "defe7a5b-8965-4bad-9d55-37ba8e0b9edf",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Manager, Key Accounts - Hotels",
+    "normalized_title": "manager key accounts hotels",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management",
+      "Project Management"
+    ],
+    "description": "Location: Paris, France\n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><h3><strong>The Community You Will Join</strong></h3> <p>The Airbnb Hotels team is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence and guest-centred ethos that define Airbnb. Our mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping hotel partners easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.</p> <h3><strong>The Difference You Will Make</strong></h3> <p><strong>Build a global team. Open doors no one at Airbnb has opened yet.</strong></p> <p>Airbnb Hotels is one of the most exciting growth stories in travel, and we’re only getting started. As Manager, Key Accounts, you will build and lead a brand new, globally distributed team of Enterprise Account Managers. Together you will win and onboard high-value, above-property hotel groups with hundreds of hotels across multiple continents.&nbsp;</p> <p><strong>We’re looking for someone who brings:</strong></p> <ul> <li><strong>Proven leadership of a key, strategic or enterprise accounts team</strong>, ideally globally distributed</li> <li><strong>A network and reputation in travel and hospitality</strong>, ideally hotels</li> <li><strong>Real negotiation experi",
+    "location": "Paris, France",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://careers.airbnb.com/positions/8303963?gh_jid=8303963",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Tableau",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8303963?gh_jid=8303963",
+    "dedup_hash": "a386e01340c6f88ae32e597383391e0c47f306174ea1ed9f0e3cf0a87388da5a",
+    "raw_content_hash": "c7168991aeaa577fab61c96040eff6c966cfa6eced4795557fe3d35be59573a3",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:35.081Z",
+    "date_last_checked": "2026-10-21T16:44:35.081Z",
+    "date_last_updated": "2026-10-21T16:44:35.081Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8303963?gh_jid=8303963",
+        "first_seen_at": "2026-10-21T16:44:35.081Z",
+        "last_seen_at": "2026-10-21T16:44:35.081Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:35.081Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Project Management and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:35.081Z"
+      }
+    ]
+  },
+  {
+    "id": "2cd7bef4-6469-4b2b-a377-f235dea42468",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Manager, Key Accounts - Hotels",
+    "normalized_title": "manager key accounts hotels",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management",
+      "Project Management"
+    ],
+    "description": "Location: Milan, Italy\n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><h3><strong>The Community You Will Join</strong></h3> <p>The Airbnb Hotels team is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence and guest-centred ethos that define Airbnb. Our mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping hotel partners easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.</p> <h3><strong>The Difference You Will Make</strong></h3> <p><strong>Build a global team. Open doors no one at Airbnb has opened yet.</strong></p> <p>Airbnb Hotels is one of the most exciting growth stories in travel, and we’re only getting started. As Manager, Key Accounts, you will build and lead a brand new, globally distributed team of Enterprise Account Managers. Together you will win and onboard high-value, above-property hotel groups with hundreds of hotels across multiple continents.&nbsp;</p> <h3><strong>We’re looking for someone who brings:</strong></h3> <ul> <li><strong>Proven leadership of a key, strategic or enterprise accounts team</strong>, ideally globally distributed</li> <li><strong>A network and reputation in travel and hospitality</strong>, ideally hotels</li> <li><strong>Real negotiation exper",
+    "location": "Milan, Italy",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Tableau",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967",
+    "dedup_hash": "39ff500bcc627f5194a460e770eed1338bc151935b11169e0aa0152b7d42fb2c",
+    "raw_content_hash": "e1746fe47a4cca697d012233d50a67e044e53bbd9bfe3714fd7f750673a758ec",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:35.228Z",
+    "date_last_checked": "2026-10-21T16:44:35.228Z",
+    "date_last_updated": "2026-10-21T16:44:35.228Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967",
+        "first_seen_at": "2026-10-21T16:44:35.228Z",
+        "last_seen_at": "2026-10-21T16:44:35.228Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:35.228Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Project Management and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:35.228Z"
+      }
+    ]
+  },
+  {
+    "id": "57ba0125-26b8-446d-bc8a-bf119f0140e0",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Manager, Key Accounts - Hotels",
+    "normalized_title": "manager key accounts hotels",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management",
+      "Project Management"
+    ],
+    "description": "Location: Barcelona, Spain\n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><h3><strong>The Community You Will Join</strong></h3> <p>The Airbnb Hotels team is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence and guest-centred ethos that define Airbnb. Our mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping hotel partners easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.</p> <h3><strong>The Difference You Will Make</strong></h3> <p><strong>Build a global team. Open doors no one at Airbnb has opened yet.</strong></p> <p>Airbnb Hotels is one of the most exciting growth stories in travel, and we’re only getting started. As Manager, Key Accounts, you will build and lead a brand new, globally distributed team of Enterprise Account Managers. Together you will win and onboard high-value, above-property hotel groups with hundreds of hotels across multiple continents.&nbsp;</p> <h3><strong>We’re looking for someone who brings:</strong></h3> <ul> <li><strong>Proven leadership of a key, strategic or enterprise accounts team</strong>, ideally globally distributed</li> <li><strong>A network and reputation in travel and hospitality</strong>, ideally hotels</li> <li><strong>Real negotiation e",
+    "location": "Barcelona, Spain",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Tableau",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966",
+    "dedup_hash": "50643e577609921edd69cbfc04d2dad2a62a5a0970848c6593aca0139ce67e7b",
+    "raw_content_hash": "0b9f6ed1b7b05d8466f062c151db509606c0c99d0e8aca2d71e49b264d1fa71f",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:35.402Z",
+    "date_last_checked": "2026-10-21T16:44:35.402Z",
+    "date_last_updated": "2026-10-21T16:44:35.402Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966",
+        "first_seen_at": "2026-10-21T16:44:35.402Z",
+        "last_seen_at": "2026-10-21T16:44:35.402Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:35.402Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Project Management and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:35.402Z"
+      }
+    ]
+  },
+  {
+    "id": "8ef19594-c98f-47b1-b35a-5ca0a6fa5d21",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Manager, Key Accounts - Hotels",
+    "normalized_title": "manager key accounts hotels",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management",
+      "Project Management"
+    ],
+    "description": "Location: Dublin, Ireland\n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><h3><strong>The Community You Will Join</strong></h3> <p>The Airbnb Hotels team is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence and guest-centred ethos that define Airbnb. Our mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping hotel partners easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.</p> <h3><strong>The Difference You Will Make</strong></h3> <p><strong>Build a global team. Open doors no one at Airbnb has opened yet.</strong></p> <p>Airbnb Hotels is one of the most exciting growth stories in travel, and we’re only getting started. As Manager, Key Accounts, you will build and lead a brand new, globally distributed team of Enterprise Account Managers. Together you will win and onboard high-value, above-property hotel groups with hundreds of hotels across multiple continents.&nbsp;</p> <h3><strong>We’re looking for someone who brings:</strong></h3> <ul> <li><strong>Proven leadership of a key, strategic or enterprise accounts team</strong>, ideally globally distributed</li> <li><strong>A network and reputation in travel and hospitality</strong>, ideally hotels</li> <li><strong>Real negotiation ex",
+    "location": "Dublin, Ireland",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Tableau",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971",
+    "dedup_hash": "f2ac6ff6a58d7064aebd123aa7252e3ecbeb317cb1f576d8fc88e1748f2ccd83",
+    "raw_content_hash": "471ba76becc214099bef155f668b507efd77c313e4d1ef5f13676cfb91ff5c01",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:35.564Z",
+    "date_last_checked": "2026-10-21T16:44:35.564Z",
+    "date_last_updated": "2026-10-21T16:44:35.564Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971",
+        "first_seen_at": "2026-10-21T16:44:35.564Z",
+        "last_seen_at": "2026-10-21T16:44:35.564Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:35.564Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Project Management and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:35.564Z"
+      }
+    ]
+  },
+  {
+    "id": "06bd8a93-f37a-403b-99be-c7d782237512",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Manager, Key Accounts - Hotels",
+    "normalized_title": "manager key accounts hotels",
+    "opportunity_type": "marketing",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management",
+      "Project Management"
+    ],
+    "description": "Location: Berlin, Germany\n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><h3><strong>The Community You Will Join</strong></h3> <p>The Airbnb Hotels team is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence and guest-centred ethos that define Airbnb. Our mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping hotel partners easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.</p> <h3><strong>The Difference You Will Make</strong></h3> <p><strong>Build a global team. Open doors no one at Airbnb has opened yet.</strong></p> <p>Airbnb Hotels is one of the most exciting growth stories in travel, and we’re only getting started. As Manager, Key Accounts, you will build and lead a brand new, globally distributed team of Enterprise Account Managers. Together you will win and onboard high-value, above-property hotel groups with hundreds of hotels across multiple continents.&nbsp;</p> <h3><strong>We’re looking for someone who brings:</strong></h3> <ul> <li><strong>Proven leadership of a key, strategic or enterprise accounts team</strong>, ideally globally distributed</li> <li><strong>A network and reputation in travel and hospitality</strong>, ideally hotels</li> <li><strong>Real negotiation ex",
+    "location": "Berlin, Germany",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Tableau",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970",
+    "dedup_hash": "7cef4ff71f6ae7e095c8e79578ff7aa5e8b5ca6da19d6dc86859e4a53c42536a",
+    "raw_content_hash": "f86e355c8fb66177530d71a0672480d70b52a9101df39f15da79f8d717c6df94",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:35.711Z",
+    "date_last_checked": "2026-10-21T16:44:35.711Z",
+    "date_last_updated": "2026-10-21T16:44:35.711Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970",
+        "first_seen_at": "2026-10-21T16:44:35.711Z",
+        "last_seen_at": "2026-10-21T16:44:35.711Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:35.711Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 75,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Project Management and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:35.711Z"
+      }
+    ]
+  },
+  {
+    "id": "8a7075c8-d5bf-4e56-8745-748ff295453f",
+    "organization_id": "ab3d6d01-9f47-4087-a784-2060cce50c21",
+    "title": "Market Associate",
+    "normalized_title": "market associate",
+    "opportunity_type": "strategy",
+    "tags": [
+      "Strategy",
+      "Entrepreneurship",
+      "Client Management"
+    ],
+    "description": "Location: Paris, France \n\nDepartment: Sales\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><em>Please note this is a hybrid position from our Paris office. Please submit your CV in English.</em></p> <p><strong>The Community you will join:</strong></p> <p>Our Supply Team is growing, and we want you to be part of it! As a Market Associate, you will play a crucial role in the retention, growth, and optimization of host entrepreneurs and rising hosts in your assigned territory. These hosts are individuals who manage their own property or support owners by hosting on their behalf. You will focus on building strong relationships with these hosts, helping them optimize their listings, improve pricing strategies, and enhance their overall success on Airbnb.&nbsp;</p> <p>&nbsp;</p> <p><strong>The difference you will make:</strong></p> <p>As a Market Associate, you will be responsible for the retention and growth of long-tail Hosts in an assigned territory. You will establish and nurture business relationships with emerging entrepreneurs by suggesting and supporting strategic initiatives that drive their success on Airbnb. These initiatives will include supply optimization, pricing optimization, host recruitment, and platform education. In addition, as these Hosts successfully grow on the platform, it will be essential that you support them in delivering authentic, high-quality hosting that creates memorable guest experiences. Beyond one-to-one account management responsibilities, you’ll also support Market Managers on your t",
+    "location": "Paris, France",
+    "country": null,
+    "work_arrangement": "hybrid",
+    "application_url": "https://careers.airbnb.com/positions/8306218?gh_jid=8306218",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://careers.airbnb.com/positions/8306218?gh_jid=8306218",
+    "dedup_hash": "1109384871ff23730e25c9042f26b92851472789467cff41d0c3cbed516c9666",
+    "raw_content_hash": "1cb4f3fcd4d2178bc24a2cbe412dacd50c9c30a18cf31e97a33bbfada7393a6b",
+    "status": "needs_review",
+    "date_discovered": "2026-10-21T16:44:35.869Z",
+    "date_last_checked": "2026-10-21T16:44:35.869Z",
+    "date_last_updated": "2026-10-21T16:44:35.869Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-airbnb",
+        "source_url": "https://careers.airbnb.com/positions/8306218?gh_jid=8306218",
+        "first_seen_at": "2026-10-21T16:44:35.869Z",
+        "last_seen_at": "2026-10-21T16:44:35.869Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-10-21T16:44:35.869Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 80,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 80,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 55,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Client Management and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-10-21T16:44:35.869Z"
       }
     ]
   }
