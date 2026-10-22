@@ -6928,5 +6928,65 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "18a5f22d-d76c-44e7-96c3-ac3933535294",
+    "name": "Affirm",
+    "normalized_name": "affirm",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b380ec48-fcab-40ad-9eda-1cf7f24a2331",
+    "name": "APFSD Youth Forum 2027 in Thailand",
+    "normalized_name": "apfsd youth forum 2027 in thailand",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f8838d31-0580-4cd7-9c83-a18f492a79fd",
+    "name": "YSEALI Professional Exchange Program 2027",
+    "normalized_name": "yseali professional exchange program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "cf579d46-82c7-4cee-9e80-d926e405c967",
+    "name": "CoalitionWILD EXCELerator Program 2027",
+    "normalized_name": "coalitionwild excelerator program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "03b5c5e4-4060-4020-a2b3-75634c147bb7",
+    "name": "PICS Climate Internship Program 2026",
+    "normalized_name": "pics climate internship program 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a0a0b6ab-3871-4f9f-b029-d8d0a336790e",
+    "name": "WPS Civil Society Activation Initiative 2026",
+    "normalized_name": "wps civil society activation initiative 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
