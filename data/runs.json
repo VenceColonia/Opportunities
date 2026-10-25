@@ -1974,5 +1974,18 @@
     "items_needs_review": 0,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "61d37713-d828-47d4-9ea7-d93c6f6175fa",
+    "run_type": "scheduled",
+    "started_at": "2026-10-25T10:52:54.157Z",
+    "completed_at": "2026-10-25T10:53:03.819Z",
+    "items_found": 668,
+    "items_new": 5,
+    "items_updated": 21,
+    "items_duplicate": 0,
+    "items_needs_review": 6,
+    "status": "success",
+    "error_log": null
   }
 ]
