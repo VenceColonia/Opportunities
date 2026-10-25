@@ -1961,5 +1961,18 @@
     "items_needs_review": 2,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "429b538d-c3e1-4172-b700-dd0aed9e2e70",
+    "run_type": "scheduled",
+    "started_at": "2026-10-25T03:32:13.997Z",
+    "completed_at": "2026-10-25T03:32:20.516Z",
+    "items_found": 662,
+    "items_new": 0,
+    "items_updated": 21,
+    "items_duplicate": 0,
+    "items_needs_review": 0,
+    "status": "success",
+    "error_log": null
   }
 ]
