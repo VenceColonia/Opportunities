@@ -7408,5 +7408,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "eba1b642-b73c-45dd-9806-55061e4855d7",
+    "name": "UN Online Volunteering Program",
+    "normalized_name": "un online volunteering program",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f6edc1b4-8653-48e8-a175-c8c4e3118e80",
+    "name": "the African Leadership University (ALU)",
+    "normalized_name": "the african leadership university alu",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
