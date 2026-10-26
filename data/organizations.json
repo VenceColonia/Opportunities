@@ -7478,5 +7478,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "833ee2b9-c378-4ccd-a944-e059bb83dbaf",
+    "name": "Brex",
+    "normalized_name": "brex",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a397e089-ed38-4909-9627-468b19698bb6",
+    "name": "Cockroach Labs",
+    "normalized_name": "cockroach labs",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f25b12c6-cdc6-46de-a5d8-b9e9f5ac7d3b",
+    "name": "Upstart",
+    "normalized_name": "upstart",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
