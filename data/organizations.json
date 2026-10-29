@@ -7788,5 +7788,15 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "8e70f573-a402-4ce3-9604-aba91648e683",
+    "name": "Bybit",
+    "normalized_name": "bybit",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
