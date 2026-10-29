@@ -7798,5 +7798,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "006e5d47-0295-488d-a7bd-97a0449ff220",
+    "name": "McGraw Hill LLC.",
+    "normalized_name": "mcgraw hill llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "91ef9863-0d4f-4c5b-8a44-7aa033df375b",
+    "name": "talaint",
+    "normalized_name": "talaint",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "33f0dc58-e40a-42f3-afac-b32ac6f443a9",
+    "name": "Crisis Connections",
+    "normalized_name": "crisis connections",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
