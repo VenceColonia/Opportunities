@@ -7828,5 +7828,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "46478d39-adf4-48ea-b5a9-8dbbcc32c75f",
+    "name": "Empower Tutoring",
+    "normalized_name": "empower tutoring",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "382ddff8-7fc5-4ab2-a2b2-721e694af070",
+    "name": "IMPULSE UNIVERSE INC",
+    "normalized_name": "impulse universe incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "15bd4bb1-5d26-4b69-8317-592d9b197d5d",
+    "name": "Resolv.Global",
+    "normalized_name": "resolv global",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
