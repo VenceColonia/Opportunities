@@ -7878,5 +7878,55 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "af016947-3b22-49a8-a260-165bb008e4b4",
+    "name": "Agent Alliance Inc.",
+    "normalized_name": "agent alliance incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "eaf4cb0b-bd59-4c18-8e75-d99202614126",
+    "name": "Chemtrade",
+    "normalized_name": "chemtrade",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9663314c-0148-49d8-a371-3fdacf35334f",
+    "name": "Figure Lending",
+    "normalized_name": "figure lending",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a65602b2-33c4-466f-8cba-b2e0ec3ce44e",
+    "name": "CONNEXUS RESOURCE GROUP INC",
+    "normalized_name": "connexus resource group incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "33a39948-6b54-49e0-8201-5bf03f639ed7",
+    "name": "Teleperformance",
+    "normalized_name": "teleperformance",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
