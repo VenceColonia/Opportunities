@@ -7928,5 +7928,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "58585fc0-ad76-460b-b818-9bb496a5ad5a",
+    "name": "AssemblyAI",
+    "normalized_name": "assemblyai",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "70ea01c2-e6b5-48ae-afad-3a1053ff7a1f",
+    "name": "Otter.ai",
+    "normalized_name": "otter ai",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
