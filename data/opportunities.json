@@ -12089,7 +12089,7 @@
     "location": "Dublin",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8172508",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -12114,10 +12114,10 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8172487",
     "dedup_hash": "bc2d06ca2e0564c94ecbbf05cd61d80953463e0691d4df5d5cc09a6ab1bf5762",
-    "raw_content_hash": "3684d3a9b1306105a2723c828ae348c30dd66a4f4fd3897bb5ef19df769c6a4b",
+    "raw_content_hash": "b7f5fa075b480277375ad6ea456f877c36592e3968686e016b0bc3f9ac7b9b9f",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.372Z",
-    "date_last_checked": "2026-11-03T13:44:22.129Z",
+    "date_last_checked": "2026-11-03T22:57:56.480Z",
     "date_last_updated": "2026-09-14T06:43:29.372Z",
     "sources": [
       {
@@ -12130,7 +12130,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172508",
         "first_seen_at": "2026-09-14T06:43:29.434Z",
-        "last_seen_at": "2026-11-03T00:38:26.329Z"
+        "last_seen_at": "2026-11-03T22:57:56.480Z"
       }
     ],
     "updates": [
@@ -12158,7 +12158,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:22.129Z"
+        "scored_at": "2026-11-03T22:57:56.480Z"
       }
     ]
   },
@@ -12288,14 +12288,14 @@
     "raw_content_hash": "fad693f716d39976a49704cdfec1aff0cab43eb736d701b59224fc7b6c0b47de",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:29.496Z",
-    "date_last_checked": "2026-11-03T13:44:22.301Z",
+    "date_last_checked": "2026-11-03T22:57:56.653Z",
     "date_last_updated": "2026-09-14T06:43:29.496Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8172503",
         "first_seen_at": "2026-09-14T06:43:29.496Z",
-        "last_seen_at": "2026-11-03T13:44:22.301Z"
+        "last_seen_at": "2026-11-03T22:57:56.653Z"
       }
     ],
     "updates": [
@@ -12323,7 +12323,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Data Analytics.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:22.301Z"
+        "scored_at": "2026-11-03T22:57:56.653Z"
       }
     ]
   },
@@ -14620,20 +14620,20 @@
     "raw_content_hash": "7109ffaee3cc15b78af990a580ca015977a69efb1476219b6d64ecc416cf4aba",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:30.960Z",
-    "date_last_checked": "2026-11-03T13:44:22.502Z",
-    "date_last_updated": "2026-11-03T13:44:22.502Z",
+    "date_last_checked": "2026-11-03T22:57:56.858Z",
+    "date_last_updated": "2026-11-03T22:57:56.858Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8119697",
         "first_seen_at": "2026-09-14T06:43:30.960Z",
-        "last_seen_at": "2026-11-03T13:44:22.502Z"
+        "last_seen_at": "2026-11-03T22:57:56.858Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-existing-business-central-eastern-europe",
         "first_seen_at": "2026-10-06T12:53:31.756Z",
-        "last_seen_at": "2026-11-03T13:44:20.265Z"
+        "last_seen_at": "2026-11-03T22:57:54.309Z"
       }
     ],
     "updates": [
@@ -16176,6 +16176,34 @@
         "old_value": "remote",
         "new_value": "unknown",
         "detected_at": "2026-11-03T13:44:22.502Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Poland OR Romania",
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:54.309Z"
+      },
+      {
+        "change_type": "work_arrangement_changed",
+        "field_name": "work_arrangement",
+        "old_value": "unknown",
+        "new_value": "remote",
+        "detected_at": "2026-11-03T22:57:54.309Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "Poland OR Romania",
+        "detected_at": "2026-11-03T22:57:56.858Z"
+      },
+      {
+        "change_type": "work_arrangement_changed",
+        "field_name": "work_arrangement",
+        "old_value": "remote",
+        "new_value": "unknown",
+        "detected_at": "2026-11-03T22:57:56.858Z"
       }
     ],
     "scores": [
@@ -16194,7 +16222,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:22.501Z"
+        "scored_at": "2026-11-03T22:57:56.858Z"
       }
     ]
   },
@@ -16569,20 +16597,20 @@
     "raw_content_hash": "cc419bc5d663c33dac3b5881c2f06c88c02fa2f3dc9334c61b8292ce4eb493a2",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:31.050Z",
-    "date_last_checked": "2026-11-03T13:44:22.662Z",
-    "date_last_updated": "2026-11-03T13:44:22.662Z",
+    "date_last_checked": "2026-11-03T22:57:57.018Z",
+    "date_last_updated": "2026-11-03T22:57:57.018Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8130052",
         "first_seen_at": "2026-09-14T06:43:31.050Z",
-        "last_seen_at": "2026-11-03T13:44:22.662Z"
+        "last_seen_at": "2026-11-03T22:57:57.018Z"
       },
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-hunter-central-eastern-europe",
         "first_seen_at": "2026-10-09T12:42:16.135Z",
-        "last_seen_at": "2026-11-03T13:44:20.069Z"
+        "last_seen_at": "2026-11-03T22:57:54.116Z"
       }
     ],
     "updates": [
@@ -17796,6 +17824,20 @@
         "old_value": null,
         "new_value": "Poland - Remote OR Romania - Remote",
         "detected_at": "2026-11-03T13:44:22.662Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Poland - Remote OR Romania - Remote",
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:54.116Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "Poland - Remote OR Romania - Remote",
+        "detected_at": "2026-11-03T22:57:57.018Z"
       }
     ],
     "scores": [
@@ -17814,7 +17856,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:22.662Z"
+        "scored_at": "2026-11-03T22:57:57.018Z"
       }
     ]
   },
@@ -20762,11 +20804,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: Chicago, IL; New York, NY; San Francisco, CA\n\nDepartment: 1652 Platforms - Account Executives (NA)\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.</p> <p>As a key member to the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportunities and ways Stripe can exceed expectations.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive (New Business), you will create partnerships between Stripe and the most innovative and fastest-growing software platforms in the world by helping them to understand how Stripe’s online commerce infrastructure can make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Directly manage and nurture a named account list and develop account plans for winning and expanding business with upper middle market and enterprise companies</li> <li>Build and maintain key relationships with C-level executives, while orchestrating touchpoints with Stripe ",
-    "location": null,
+    "description": "Location: Chicago, IL\n\nDepartment: 1652 Platforms - Account Executives (NA)\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.</p> <p>As a key member to the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportunities and ways Stripe can exceed expectations.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive (New Business), you will create partnerships between Stripe and the most innovative and fastest-growing software platforms in the world by helping them to understand how Stripe’s online commerce infrastructure can make payments a competitive advantage for their businesses.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Directly manage and nurture a named account list and develop account plans for winning and expanding business with upper middle market and enterprise companies</li> <li>Build and maintain key relationships with C-level executives, while orchestrating touchpoints with Stripe executives</li> <li>Contribute to",
+    "location": "Chicago, IL",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8267839",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8267841",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -20790,11 +20832,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8128632",
     "dedup_hash": "9a18a1b681554146bff6aa10e7ea5ed8f1036a376ff563cd46ae0d1ee7be941b",
-    "raw_content_hash": "6c94f2ad5661c118d01fccbee3aaba749881063dfcbb685b56b766d065d825a4",
+    "raw_content_hash": "88e9bde847845d40a5822d693f1cf8123a278197a2a4c5d0fe0d3e4c2d33226e",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:31.727Z",
-    "date_last_checked": "2026-11-03T13:44:23.786Z",
-    "date_last_updated": "2026-11-03T13:44:23.786Z",
+    "date_last_checked": "2026-11-03T22:57:58.571Z",
+    "date_last_updated": "2026-11-03T22:57:58.571Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -20818,19 +20860,19 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8267841",
         "first_seen_at": "2026-10-19T22:04:05.743Z",
-        "last_seen_at": "2026-11-03T13:44:23.392Z"
+        "last_seen_at": "2026-11-03T22:57:58.571Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8304836",
         "first_seen_at": "2026-10-21T03:36:54.925Z",
-        "last_seen_at": "2026-11-03T00:38:28.766Z"
+        "last_seen_at": "2026-11-03T22:57:58.390Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8304841",
         "first_seen_at": "2026-10-21T03:36:55.053Z",
-        "last_seen_at": "2026-11-03T13:44:23.609Z"
+        "last_seen_at": "2026-11-03T22:57:58.190Z"
       }
     ],
     "updates": [
@@ -21841,6 +21883,27 @@
         "old_value": "San Francisco, CA",
         "new_value": null,
         "detected_at": "2026-11-03T13:44:23.786Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": null,
+        "new_value": "San Francisco, CA",
+        "detected_at": "2026-11-03T22:57:58.190Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "San Francisco, CA",
+        "new_value": "New York, NY",
+        "detected_at": "2026-11-03T22:57:58.390Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "New York, NY",
+        "new_value": "Chicago, IL",
+        "detected_at": "2026-11-03T22:57:58.571Z"
       }
     ],
     "scores": [
@@ -21859,7 +21922,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:23.786Z"
+        "scored_at": "2026-11-03T22:57:58.571Z"
       }
     ]
   },
@@ -23907,7 +23970,7 @@
     "raw_content_hash": "b2e194eaa5ca4f71df59466a374e3830512d60d64d210d43881b70a40376b5c1",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:33.572Z",
-    "date_last_checked": "2026-11-03T13:44:24.151Z",
+    "date_last_checked": "2026-11-03T22:57:58.727Z",
     "date_last_updated": "2026-09-14T06:43:33.572Z",
     "sources": [
       {
@@ -23920,7 +23983,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8178692",
         "first_seen_at": "2026-10-29T12:25:13.687Z",
-        "last_seen_at": "2026-11-03T13:44:24.151Z"
+        "last_seen_at": "2026-11-03T22:57:58.727Z"
       }
     ],
     "updates": [
@@ -23948,7 +24011,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Consulting.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:24.151Z"
+        "scored_at": "2026-11-03T22:57:58.727Z"
       }
     ]
   },
@@ -37319,14 +37382,14 @@
     "raw_content_hash": "ed4c8babf706d151dda361577af6ee1d39ced2fdf6d28d24291c05b4d23c7a07",
     "status": "active",
     "date_discovered": "2026-09-14T06:43:45.893Z",
-    "date_last_checked": "2026-11-03T13:44:24.863Z",
+    "date_last_checked": "2026-11-03T22:57:59.228Z",
     "date_last_updated": "2026-09-14T06:43:45.893Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8176730",
         "first_seen_at": "2026-09-14T06:43:45.893Z",
-        "last_seen_at": "2026-11-03T13:44:24.863Z"
+        "last_seen_at": "2026-11-03T22:57:59.228Z"
       }
     ],
     "updates": [
@@ -37354,7 +37417,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Client Management.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:24.863Z"
+        "scored_at": "2026-11-03T22:57:59.228Z"
       }
     ]
   },
@@ -39133,27 +39196,31 @@
     "tags": [
       "Operations",
       "Technology",
-      "Entrepreneurship"
+      "Entrepreneurship",
+      "Project Management"
     ],
-    "description": "Location: Seattle, WA\n\nDepartment: Global Operations\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe&nbsp;</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Design, build, and operate critical tier-0 backend services that must achieve 99.99%+ availability and handle security-sensitive data.</li> <li>Responsible for improving developer tooling.&nbsp;</li> <li>Design and implement robust, scalable infrastructure, participate in an on-call rotation, and collaborate with engineering teams across the company to plan and safely execute changes in production.&nbsp;</li> <li>Set up and operate infrastructure that participates in decentralized distributed systems, including creating deploy pipelines for artifacts.&nbsp;</li> <li>Build and harden custom Amazon Machine Images (AMIs) used to bootstrap EC2 instances, and implement monitoring, logging, and alerting for these systems.&nbsp;</li> <li>Participate in roadmap planning and prioritization.&nbsp;</li> <li>Deliver value through a strong collaborative approach with multiple customers and stakeholders across Stripe.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <h3>Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science or a related field, plus three (3) years of software engineering or related experience.</h3> <p>Must have three (3) years of experience in each of the following",
+    "description": "Location: Seattle, WA\n\nDepartment: Global Operations\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe&nbsp;</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Conducting technical interviews;&nbsp;</li> <li>Creating software, tooling and distributed systems for automating and managing data center network hardware and compute stacks;</li> <li>Creating and operating shared infrastructure for Stripe’s Cardholder data environment;</li> <li>Deployment tooling;&nbsp;</li> <li>SOX compliance audit prep interviews, and remediations;&nbsp;</li> <li>PCI compliance audit prep, interviews, and remediations;&nbsp;</li> <li>Project management;</li> <li>Mentoring junior engineers;&nbsp;</li> <li>On-call responsibilities.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <p>Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science, Software Engineering, or related field, plus two (2) years of Software Development experience. Position also requires the following:</p> <ul> <li>2 years of experience with AWS cloud infrastructure and Terraform infrastructure automation;</li> <li>2 years of experience with reliability, scalability, and distributed systems principles;</li> <li>1 year of experience in Go and Ansible programming languages;</li> <li>1 year of experience in Puppet host configuration;</li> <li>1 year of experience in Ruby programming lan",
     "location": "Seattle, WA",
     "country": null,
-    "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8249901",
+    "work_arrangement": "remote",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8267736",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
     "end_date": null,
     "eligibility_text": null,
     "degree_requirements": [],
-    "year_level_requirements": [],
+    "year_level_requirements": [
+      "3rd year"
+    ],
     "citizenship_requirements": [],
     "gpa_requirement": null,
     "skills_required": [
-      "Python"
+      "Python",
+      "Leadership"
     ],
     "compensation": {
-      "amount": 156800,
+      "amount": 190400,
       "currency": "USD",
       "period": "stipend",
       "notes": null
@@ -39163,11 +39230,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8174105",
     "dedup_hash": "d018ef20b3d11203ad09b2d355ff85f95003a3cf68cce98cf7347f0547b9b66a",
-    "raw_content_hash": "bb4c7e96ba7146fd7ae7080f5ffc4505d7b1b4eacd816909ef9f462d2ea56a40",
+    "raw_content_hash": "4e231750d65460a6e03611cca2f71162418042d9565c440d6dc037728328b4d5",
     "status": "updated",
     "date_discovered": "2026-09-14T06:43:47.458Z",
-    "date_last_checked": "2026-11-03T13:44:25.028Z",
-    "date_last_updated": "2026-11-03T13:44:25.028Z",
+    "date_last_checked": "2026-11-03T22:57:59.383Z",
+    "date_last_updated": "2026-11-03T22:57:59.383Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -39185,7 +39252,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8267736",
         "first_seen_at": "2026-10-09T22:21:55.492Z",
-        "last_seen_at": "2026-11-03T00:38:29.914Z"
+        "last_seen_at": "2026-11-03T22:57:59.383Z"
       }
     ],
     "updates": [
@@ -40406,25 +40473,39 @@
         "old_value": "{\"amount\":190400,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
         "new_value": "{\"amount\":156800,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
         "detected_at": "2026-11-03T13:44:25.028Z"
+      },
+      {
+        "change_type": "work_arrangement_changed",
+        "field_name": "work_arrangement",
+        "old_value": "unknown",
+        "new_value": "remote",
+        "detected_at": "2026-11-03T22:57:59.383Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":156800,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
+        "new_value": "{\"amount\":190400,\"currency\":\"USD\",\"period\":\"stipend\",\"notes\":null}",
+        "detected_at": "2026-11-03T22:57:59.383Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
-        "relevance_score": 80,
+        "relevance_score": 90,
         "career_value_score": 55,
         "organization_score": 40,
-        "student_fit_score": 70,
-        "accessibility_score": 70,
+        "student_fit_score": 80,
+        "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 57,
+        "overall_score": 58,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
-        "reasoning": "Matches your interest in Operations.",
+        "reasoning": "Matches your interest in Operations and Project Management.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:25.028Z"
+        "scored_at": "2026-11-03T22:57:59.383Z"
       }
     ]
   },
@@ -45898,11 +45979,11 @@
       "Technology",
       "Client Management"
     ],
-    "description": "Location: Bangkok, Thailand\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.</p> <p><strong>A typical day:&nbsp;</strong></p> <ul> <li>Build and manage part",
-    "location": "Bangkok, Thailand",
+    "description": "Location: Vietnam\n\nDepartment: Sales & Partnerships\n\n<div class=&quot;content-intro&quot;><p><span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The role needs to be physically based in Bangkok, Thailand.&nbsp;</strong></p> <p><strong>The Community you will join:</strong></p> <p>The Homes team is responsible for growing Airbnb’s destination business and growing the supply ensuring we maintain a competitive portfolio of accommodation listings that meet guest expectations for value, variety, and experience. The team also supports hosts globally by enabling efficient planning and execution of growth strategies that align with Airbnb’s mission and resonate with local communities.</p> <p><strong>The difference you will make:</strong></p> <p>As a Senior Market Manager, you will be responsible for the Homes business growth in Vietnam, and to maintain a competitive supply. Focusing on these responsibilities, you will build Airbnb’s strong market presence by collaborating with other teams as the local in-market expert. As someone who knows the Airbnb mission and values inside out, you will drive all phases of Homes acquisition and retention and market success, including acquisition strategy development, generating and converting supply leads, and strategic partners relationship management, as well as creating them from scratch. You will help develop and iterate scalable localized supply management strategies for both developed and highly competed market destinations and nascent and relatively untapped new markets ultimately ensuring our long-term market success.",
+    "location": "Vietnam",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
+    "application_url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -45928,11 +46009,11 @@
     "applications_open": true,
     "primary_source_url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
     "dedup_hash": "4139f5db5ce884c5344ab037ba920b7c22c8a57f17baeeb09703c2a85d1fb05c",
-    "raw_content_hash": "8495f70db54c9b2001dff5b054f8e28113c313b78a4670302376226b15f071e1",
+    "raw_content_hash": "977fee79b884be68c50d54d3795778e3b6caaec81e37b8bda34d3b84038d6dac",
     "status": "updated",
     "date_discovered": "2026-09-14T06:44:03.685Z",
-    "date_last_checked": "2026-11-03T13:44:25.465Z",
-    "date_last_updated": "2026-11-03T13:44:25.465Z",
+    "date_last_checked": "2026-11-03T22:57:59.904Z",
+    "date_last_updated": "2026-11-03T22:57:59.904Z",
     "sources": [
       {
         "source_id": "source-greenhouse-airbnb",
@@ -45944,7 +46025,7 @@
         "source_id": "source-greenhouse-airbnb",
         "source_url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
         "first_seen_at": "2026-09-14T06:44:03.797Z",
-        "last_seen_at": "2026-11-03T00:38:30.696Z"
+        "last_seen_at": "2026-11-03T22:57:59.904Z"
       }
     ],
     "updates": [
@@ -47200,6 +47281,13 @@
         "old_value": "Vietnam",
         "new_value": "Bangkok, Thailand",
         "detected_at": "2026-11-03T13:44:25.465Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "Bangkok, Thailand",
+        "new_value": "Vietnam",
+        "detected_at": "2026-11-03T22:57:59.904Z"
       }
     ],
     "scores": [
@@ -47218,7 +47306,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Client Management and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:25.465Z"
+        "scored_at": "2026-11-03T22:57:59.904Z"
       }
     ]
   },
@@ -56258,7 +56346,7 @@
   {
     "id": "53a61839-e209-49d4-94c8-cef52a323da2",
     "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
-    "title": "Account Executive, Product Sales, Billing (Grower)",
+    "title": "Account Executive, Product Sales (Billing) - Grower",
     "normalized_title": "account executive product sales billing grower",
     "opportunity_type": "finance",
     "tags": [
@@ -56269,11 +56357,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: US-SF-HQ, US-SEA, US-CHI, US-NYC\n\nDepartment: 1643 Product Sales - Billing\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Billing Account Executive at Stripe, you&#39;ll use your sales and product expertise to help drive growth through existing Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll lead in-depth product discussions with existing customers and build and execute against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Drive revenue to achieve and overperform on targets</li> <li>Lead upsell conversations of Stripe for existing customers</li> <li>Drive strategic thought leadership within assigned territory to ensure user success and revenue growth</li> <li>Understand the sales process and competitors for Stripe, including software, hardware, and payments</li> <li>Serve as both an internal and customer-facing expert on St",
-    "location": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
+    "description": "Location: Dublin\n\nDepartment: 1644 Product Sales - Prime Billing\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in the Stripe portfolio. Revenue and Finance Automation (RFA) Product Sales is tasked with attacking a $100B market opportunity for back-office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you&#39;ll do</strong></h2> <p>As a Billing Account Executive (Grower) at Stripe, you&#39;ll use your sales and product expertise to help drive growth to existing Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll be instrumental in leading in-depth product discussions with existing and prospective customers—and building and executing against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Build deep, resilient, and multi-threaded relationships across SMB client organizations, with the ability to articulate value across different functions and key business stakeholders.</li> <li>The capability to develop and execute formal Strategic Account Plans that map out the client organization, identify short-term and long-term growth opportu",
+    "location": "Dublin",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8215758",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8211151",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -56298,11 +56386,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8196257",
     "dedup_hash": "1480411a32ffe839288c4b4625656286cf3f31779899740de4fe33861a2aa2d6",
-    "raw_content_hash": "50627fd926ef7f3715553d0e24fa7c60bd97f23a6198e09c9b6508e34e18aba0",
+    "raw_content_hash": "162206d2265c0f5fd4bc5d6d9ea25293d95e48f9e85f029b3d8f1fd5ab19143a",
     "status": "updated",
     "date_discovered": "2026-09-16T16:17:21.554Z",
-    "date_last_checked": "2026-11-03T13:44:23.030Z",
-    "date_last_updated": "2026-11-03T13:44:23.030Z",
+    "date_last_checked": "2026-11-03T22:57:57.595Z",
+    "date_last_updated": "2026-11-03T22:57:57.595Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -56314,7 +56402,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8211151",
         "first_seen_at": "2026-09-18T15:57:33.344Z",
-        "last_seen_at": "2026-11-03T00:38:27.687Z"
+        "last_seen_at": "2026-11-03T22:57:57.595Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -56827,6 +56915,13 @@
         "old_value": "Dublin",
         "new_value": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
         "detected_at": "2026-11-03T13:44:23.030Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
+        "new_value": "Dublin",
+        "detected_at": "2026-11-03T22:57:57.595Z"
       }
     ],
     "scores": [
@@ -56845,7 +56940,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:23.030Z"
+        "scored_at": "2026-11-03T22:57:57.595Z"
       }
     ]
   },
@@ -77307,11 +77402,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: US-NYC\n\nDepartment: 1645 Product Sales - Metronome\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Metronome Account Executive at Stripe, you&#39;ll use your sales and product expertise to help drive growth through new-to-Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll lead in-depth product discussions with prospective customers and build and execute against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Drive revenue to achieve and overperform on targets</li> <li>Lead new sales and of Stripe prospective customers</li> <li>Drive strategic thought leadership within assigned territory to ensure user success and revenue growth</li> <li>Understand the sales process and competitors for Stripe, including software, hardware, and payments</li> <li>Serve as both an internal and customer",
+    "description": "Location: US-NYC\n\nDepartment: 1644 Product Sales - Prime Billing\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Billing Account Executive at Stripe, you&#39;ll use your sales and product expertise to help drive growth through both existing and new-to-Stripe customers. You&#39;ll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You&#39;ll lead in-depth product discussions with existing and prospective customers and build and execute against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Drive revenue to achieve and overperform on targets</li> <li>Lead new sales and upsell conversations of Stripe for existing and prospective customers</li> <li>Drive strategic thought leadership within assigned territory to ensure user success and revenue growth</li> <li>Understand the sales process and competitors for Stripe, including software, hardware, and payments</li> <li>Serve as both an",
     "location": "US-NYC",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8154295",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8190042",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -77336,17 +77431,17 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8190042",
     "dedup_hash": "e278e1d177400102464fec43ebd359766434126804505b220af920e3b1ca350d",
-    "raw_content_hash": "964cb402c7a3fc8d86b8de98ffa9267b12aa2d5b32677bb6c656e51ce0ca592d",
+    "raw_content_hash": "2ab3246dabb3f3c8dcf96beaa285c54d56707bafbeffd329c65e720c30ee022b",
     "status": "active",
     "date_discovered": "2026-09-25T21:11:11.787Z",
-    "date_last_checked": "2026-11-03T13:44:23.205Z",
+    "date_last_checked": "2026-11-03T22:57:57.758Z",
     "date_last_updated": "2026-09-25T21:11:11.787Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8190042",
         "first_seen_at": "2026-09-25T21:11:11.787Z",
-        "last_seen_at": "2026-11-03T00:38:27.867Z"
+        "last_seen_at": "2026-11-03T22:57:57.758Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -77380,7 +77475,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:23.205Z"
+        "scored_at": "2026-11-03T22:57:57.758Z"
       }
     ]
   },
@@ -77727,11 +77822,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: US-CA\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across AMER. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to North America and Latin America. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through bus",
-    "location": "US-CA",
+    "description": "Location: Singapore\n\nDepartment: 1640 Product Sales - Payments\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Payments Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for some of the most strategically important products in Stripe’s portfolio. We work alongside Stripe’s Core Sales and Customer Success teams to help users adopt products that improve payment experiences, increase conversion, support international growth, and create new sources of revenue.</p> <p>We are hiring an Account Executive, Product - Local Payment Methods to grow adoption of Stripe’s local payment methods across APAC. This role will work across Stripe’s global LPM portfolio while developing particular expertise in the payment preferences, market dynamics, and user opportunities most relevant to Australia and New Zealand, Japan, India, Singapore, and Southeast Asia. The portfolio and market emphasis will evolve as user needs and Stripe’s capabilities grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As an Account Executive, Product focused on Local Payment Methods, you will be a quota-carrying product-sales overlay responsible for growing adoption and revenue across new and existing Stripe users. You will partner with Core Account Executives and Customer Success Managers throughout the sales cycle—from opportunity identification and discovery through business-case deve",
+    "location": "Singapore",
     "country": null,
     "work_arrangement": "unknown",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8190036",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8174160",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -77753,11 +77848,11 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8190036",
     "dedup_hash": "29c7716e634cd800ad52f6f3cd3b9894ea33a5243de88013bb7784bbebb1122d",
-    "raw_content_hash": "850d9cb9b93aa060417c5e621b4746bd11fa5e20edd30b3dbdbb2381e3202b09",
+    "raw_content_hash": "4370d1e85f0ee1a728163bfacc21d3f35ae1458ea4b71919c51e7f70fd62b99d",
     "status": "updated",
     "date_discovered": "2026-09-26T03:53:45.478Z",
-    "date_last_checked": "2026-11-03T13:44:22.831Z",
-    "date_last_updated": "2026-11-03T13:44:22.831Z",
+    "date_last_checked": "2026-11-03T22:57:57.416Z",
+    "date_last_updated": "2026-11-03T22:57:57.416Z",
     "sources": [
       {
         "source_id": "source-greenhouse-stripe",
@@ -77769,7 +77864,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8174160",
         "first_seen_at": "2026-09-28T13:06:35.758Z",
-        "last_seen_at": "2026-11-03T00:38:27.537Z"
+        "last_seen_at": "2026-11-03T22:57:57.416Z"
       },
       {
         "source_id": "source-greenhouse-stripe",
@@ -79031,6 +79126,13 @@
         "old_value": "Singapore",
         "new_value": "US-CA",
         "detected_at": "2026-11-03T13:44:22.831Z"
+      },
+      {
+        "change_type": "location_changed",
+        "field_name": "location",
+        "old_value": "US-CA",
+        "new_value": "Singapore",
+        "detected_at": "2026-11-03T22:57:57.416Z"
       }
     ],
     "scores": [
@@ -79049,7 +79151,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Finance and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:22.831Z"
+        "scored_at": "2026-11-03T22:57:57.416Z"
       }
     ]
   },
@@ -119441,7 +119543,7 @@
     "tags": [
       "Strategy"
     ],
-    "description": "Typeform: Senior Account Executive\n\nHeadquarters: United Kingdom (Remote) \n\n\n\nWho we are\nTypeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.\n\nWe’re excited to hire someone based in London, where we’re looking to grow our sales presence.\nAbout The Role\n\nOur team is still early in its evolution, operating with a start-up mindset within a scaling company. We're building stronger processes, a clearer operating model, and the foundation for our next stage of growth. We’re looking for someone who wants to help create that future—not just operate within it.\nAs a Senior Account Executive reporting directly to the Head of Sales, you’ll be a key driver of our outbound engine. You’re a strategic seller who owns the full cycle, thrives on proactive outreach, and isn’t phased by cold calls or pipeline creation. You combine discipline with initiative, independence with collaboration, and urgency with long-term relationship-building.\nYour territory spans Mid-Market and Enterprise customers, blending short-cycle and long-cycle opportunities. But make no mistake: outbound is the heartbeat of this role.\n\n\nThings you will do:\n\nOutreach + engagement: contact leads via email, cold calls, conferences, and more. Manage inbound and referral leads.\nLead gen + prospecting: research potential customers, generate leads, and build a consistent outbound sales pipeline. Attend industry events and develop connections to drive future sales growth.\nQualification + closing: run discovery calls, demos, and follow-ups to qualify and close new customers. Build proposals and RoI cases that convince qualified prospects to buy Listen. Negotiate contract terms when needed.\nProcess improvement: improve our internal sales proce",
+    "description": "Typeform: Senior Account Executive\n\nHeadquarters: United States (Remote) \n\n\n\nWho we are\nTypeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.\n\nWe’re excited to hire someone based in New York, where we’re looking to grow our sales presence.\nAbout The Role\n\nOur team is still early in its evolution, operating with a start-up mindset within a scaling company. We're building stronger processes, a clearer operating model, and the foundation for our next stage of growth. We’re looking for someone who wants to help create that future—not just operate within it.\nAs a Senior Account Executive reporting directly to the Head of Sales, you’ll be a key driver of our outbound engine. You’re a strategic seller who owns the full cycle, thrives on proactive outreach, and isn’t phased by cold calls or pipeline creation. You combine discipline with initiative, independence with collaboration, and urgency with long-term relationship-building.\nYour territory spans Mid-Market and Enterprise customers, blending short-cycle and long-cycle opportunities. But make no mistake: outbound is the heartbeat of this role.\n\nThings you will do:\n\nOutreach + engagement: contact leads via email, cold calls, conferences, and more. Manage inbound and referral leads.\nLead gen + prospecting: research potential customers, generate leads, and build a consistent outbound sales pipeline. Attend industry events and develop connections to drive future sales growth.\nQualification + closing: run discovery calls, demos, and follow-ups to qualify and close new customers. Build proposals and RoI cases that convince qualified prospects to buy Listen. Negotiate contract terms when needed.\nProcess improvement: improve our internal sales proce",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -119469,17 +119571,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/typeform-senior-account-executive",
     "dedup_hash": "8ea461b28d1be70606dcf44a655ae683322b8ff1510cbb3d7855d7fb8c61c044",
-    "raw_content_hash": "835f3a1fda5a819f4595607845579c416fca3c2fce035fd56e851994d9585ae7",
+    "raw_content_hash": "a1a2466702b8db278b9db906d8635acbdf7aac0ab29af225125c1020aa634091",
     "status": "active",
     "date_discovered": "2026-10-14T11:21:02.361Z",
-    "date_last_checked": "2026-11-03T13:44:19.861Z",
+    "date_last_checked": "2026-11-03T22:57:53.893Z",
     "date_last_updated": "2026-10-14T11:21:02.361Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/typeform-senior-account-executive",
         "first_seen_at": "2026-10-14T11:21:02.361Z",
-        "last_seen_at": "2026-11-03T13:44:19.861Z"
+        "last_seen_at": "2026-11-03T22:57:53.893Z"
       }
     ],
     "updates": [
@@ -119507,7 +119609,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:19.861Z"
+        "scored_at": "2026-11-03T22:57:53.893Z"
       }
     ]
   },
@@ -141057,11 +141159,11 @@
       "Operations",
       "Technology"
     ],
-    "description": "Bullfinch Recruitment: CRM Retention Junior\n\nHeadquarters: Gibraltar, GI\n    \nURL: http://bullfinchrecruitment.com\n\n\n\nBullfinch Recruitment is partnering with one of our clients to find a Junior CRM & Retention Specialist to join their team.\nThis role is designed for a professional who is eager to transition into the world of player engagement and marketing automation. This position is for someone who is operationally disciplined, data-curious, and ready to be trained into a CRM Ops specialist. \nYou will be responsible for the day-to-day execution of campaigns that keep our players engaged and active, working at the intersection of technology, data, and creativity.\nWhat you'll be doing:\nThrough a combination of structured training and hands-on experience, you will learn to:\nExecute Campaigns: Build and schedule retention journeys and look into marketing automation workflows using platforms such as Bloomreach and Builder.\nCross-Functional Alignment: Collaborate with Content, Design, Loyalty, and Customer Support teams to ensure all retention activities align with broader brand campaigns.\nTroubleshoot Campaigns: Assist in troubleshooting CRM workflows and identifying process enhancements to improve overall operational efficiency.\nCustomer Service: Work closely with the CS team to help improve the customer experience for those asking for additional rewards. \n\nWhat we are looking for: \nWe are seeking a candidate who demonstrates the potential to grow into a high impact specialist. Ideally, you bring:\nA Technical Mindset: You may not be a CRM expert yet, but you have a high level of comfort with new software and the ability to quickly learn new platforms.\nOperational Excellence: You are detail-oriented with a focus on accuracy and consistency in your work.\nStrong Communication: An effective communicator who can work independently while collaborating across different departments.\nProactive Mentality: A self-starter attitude with a drive to identify opportunities for impro",
+    "description": "Bullfinch Recruitment: CRM Retention Junior\n\nHeadquarters: Malta, MT\n    \nURL: http://bullfinchrecruitment.com\n\n\n\nBullfinch Recruitment is partnering with one of our clients to find a Junior CRM & Retention Specialist to join their team.\nThis role is designed for a professional who is eager to transition into the world of player engagement and marketing automation. This position is for someone who is operationally disciplined, data-curious, and ready to be trained into a CRM Ops specialist. \nYou will be responsible for the day-to-day execution of campaigns that keep our players engaged and active, working at the intersection of technology, data, and creativity.\nWhat you'll be doing:\nThrough a combination of structured training and hands-on experience, you will learn to:\nExecute Campaigns: Build and schedule retention journeys and look into marketing automation workflows using platforms such as Bloomreach and Builder.\nCross-Functional Alignment: Collaborate with Content, Design, Loyalty, and Customer Support teams to ensure all retention activities align with broader brand campaigns.\nTroubleshoot Campaigns: Assist in troubleshooting CRM workflows and identifying process enhancements to improve overall operational efficiency.\nCustomer Service: Work closely with the CS team to help improve the customer experience for those asking for additional rewards. \n\nWhat we are looking for: \nWe are seeking a candidate who demonstrates the potential to grow into a high impact specialist. Ideally, you bring:\nA Technical Mindset: You may not be a CRM expert yet, but you have a high level of comfort with new software and the ability to quickly learn new platforms.\nOperational Excellence: You are detail-oriented with a focus on accuracy and consistency in your work.\nStrong Communication: An effective communicator who can work independently while collaborating across different departments.\nProactive Mentality: A self-starter attitude with a drive to identify opportunities for improveme",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior-1",
+    "application_url": "https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -141089,17 +141191,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior",
     "dedup_hash": "f3334f1ee167fe17b53d54268246abf28dda77e71348a539d5449215f5a7163b",
-    "raw_content_hash": "5e768c044e83bed92945e90209addaf0c43eb7ae9aa0f2fb4a1363c8a587aa10",
+    "raw_content_hash": "0ed41f1ad65415cea3b3ac05f73630731f5b1c942a38ed1033b2bc7deb4dd781",
     "status": "active",
     "date_discovered": "2026-10-22T21:16:08.158Z",
-    "date_last_checked": "2026-11-03T13:44:21.503Z",
+    "date_last_checked": "2026-11-03T22:57:55.738Z",
     "date_last_updated": "2026-10-22T21:16:08.158Z",
     "sources": [
       {
         "source_id": "source-wwr-customer-support",
         "source_url": "https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior",
         "first_seen_at": "2026-10-22T21:16:08.158Z",
-        "last_seen_at": "2026-11-03T00:38:23.873Z"
+        "last_seen_at": "2026-11-03T22:57:55.738Z"
       },
       {
         "source_id": "source-wwr-customer-support",
@@ -141133,7 +141235,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:21.503Z"
+        "scored_at": "2026-11-03T22:57:55.738Z"
       }
     ]
   },
@@ -147544,11 +147646,11 @@
       "Operations",
       "Technology"
     ],
-    "description": "Samsara: Account Executive, Mid Market (Midwest)\n\nHeadquarters: Remote - IA; Remote - NE\n\n\n\nWho we are\nSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.\nWorking at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term.\n\nAbout the role:\nThis is a dynamic, high energy role in which you will bring the Internet of Things to mid-sized customers, building Samsara's business and bringing the benefits of sensor data to customers. Typical sales will be $20k to $100k, and involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs. \nThis role is open for candidates residing in the following US states: North Dakota, South Dakota, Nebraska, Minnesota, Wisconsin, Michigan, Ohio, Indiana, Illinois, Iowa. The role requires travel approximately 25% of the time.\nYou should apply if: \nYou want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.\nYour mantra is #alwaysbepros",
+    "description": "Samsara: Account Executive, Mid Market (Midwest)\n\nHeadquarters: Remote - OH\n\n\n\nWho we are\nSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.\nWorking at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term.\n\nAbout the role:\nThis is a dynamic, high energy role in which you will bring the Internet of Things to mid-sized customers, building Samsara's business and bringing the benefits of sensor data to customers. Typical sales will be $20k to $100k, and involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs. \nThis role is open for candidates residing in the following US states: North Dakota, South Dakota, Nebraska, Minnesota, Wisconsin, Michigan, Ohio, Indiana, Illinois, Iowa. The role requires travel approximately 25% of the time.\nYou should apply if: \nYou want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.\nYour mantra is #alwaysbeprospecting: The ",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://weworkremotely.com/remote-jobs/samsara-account-executive-mid-market-midwest-1",
+    "application_url": "https://weworkremotely.com/remote-jobs/samsara-account-executive-mid-market-midwest",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -147572,10 +147674,10 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/samsara-account-executive-mid-market-midwest-1",
     "dedup_hash": "8097d80d5ecea1f7dfad13c6f89064b1e785e3bff39a7c0cd54ff000b0aa8f69",
-    "raw_content_hash": "6eb4d86ef5bd9742f91c4317d9db31990c86a2cc5ed8234209929b6ad08d5e4c",
+    "raw_content_hash": "74cd82cd1c2a5fdb2389f4b5ad164293dd032495f9b7cb4f0620f421a6b1b6e8",
     "status": "active",
     "date_discovered": "2026-10-26T12:23:22.303Z",
-    "date_last_checked": "2026-11-03T13:44:19.692Z",
+    "date_last_checked": "2026-11-03T22:57:53.736Z",
     "date_last_updated": "2026-10-26T12:23:22.303Z",
     "sources": [
       {
@@ -147588,7 +147690,7 @@
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/samsara-account-executive-mid-market-midwest",
         "first_seen_at": "2026-10-26T12:23:22.615Z",
-        "last_seen_at": "2026-11-03T00:38:21.843Z"
+        "last_seen_at": "2026-11-03T22:57:53.736Z"
       }
     ],
     "updates": [
@@ -147616,7 +147718,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:19.692Z"
+        "scored_at": "2026-11-03T22:57:53.736Z"
       }
     ]
   },
@@ -149552,7 +149654,7 @@
       "Strategy",
       "Technology"
     ],
-    "description": "Fivetran : Enterprise Account Executive\n\nHeadquarters: Remote,  Minnesota, United States, AMER\n\n\n\nFrom Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.\n\nAbout Us\nFivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.\nTogether, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.\nFivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.\nAs we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.\nDuring this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.\n \nAbout the Role\nThe Enterprise Account Executive will drive towards aggressive new customer and partner revenue goals, while growing our footprint in the Enterprise market.\nThis is a full-time, remote position and must be based out o",
+    "description": "Fivetran : Enterprise Account Executive\n\nHeadquarters: Remote, Texas, United States, AMER\n\n\n\nFrom Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.\n\nAbout Us\nFivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.\nTogether, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.\nFivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.\nAs we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.\nDuring this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.\n \nAbout the Role\nThe Enterprise Account Executive will drive towards aggressive new customer and partner revenue goals, while growing our footprint in the Enterprise market.\nThis is a full-time, remote position and must be based out of Tex",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -149580,17 +149682,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-account-executive",
     "dedup_hash": "1e91594ae9612062177f0be87b251dc94273d1086f4b094cedd40d90e2dff298",
-    "raw_content_hash": "212b079706935444851bfbd767a3af9673b819c40272e1ce791e9a8db7e350b3",
+    "raw_content_hash": "4b2d006b573158ac46969e735910ae733831c9898d4d22067df1eca32f221c8e",
     "status": "active",
     "date_discovered": "2026-10-27T11:42:43.551Z",
-    "date_last_checked": "2026-11-03T13:44:19.520Z",
+    "date_last_checked": "2026-11-03T22:57:53.582Z",
     "date_last_updated": "2026-10-27T11:42:43.551Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-account-executive",
         "first_seen_at": "2026-10-27T11:42:43.551Z",
-        "last_seen_at": "2026-11-03T13:44:19.520Z"
+        "last_seen_at": "2026-11-03T22:57:53.582Z"
       }
     ],
     "updates": [
@@ -149618,7 +149720,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:19.520Z"
+        "scored_at": "2026-11-03T22:57:53.582Z"
       }
     ]
   },
@@ -154794,11 +154896,11 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "description": "Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US\n\nDepartment: 1643 Product Sales - Billing\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The world is having a monetization moment – every ambitious company is replatforming their billing solution in response to AI. Stripes Billing is a team of deep functional and technical specialists who both lead and advise on deals for one of the most strategically important products in Stripe’s portfolio. Billing Sales is tasked with attacking a $100B market opportunity for automating the entire order to cash process and helping companies not get left behind in the AI era.</p> <h2><strong>What you’ll do</strong></h2> <p>As the Head of Grower Sales (Billing),&nbsp; you will use your leadership and management skills to manage and grow a team of Account Executives to drive expansion and retention of Stripe Billing across the AMER region. You will build and lead a team of sellers, while collaborating with the core sales leadership, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You will own the coaching, development, and performance of your team, driving the forecast of the business. You will be instrumental in leading in-depth product discussions with existing and prospective customers and building and exec",
+    "description": "Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US\n\nDepartment: 1641 Product Sales - RFA ex Billing\n\n<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The world is having a monetization moment – every ambitious company is replatforming their billing solution in response to AI. Stripes Billing is a team of deep functional and technical specialists who both lead and advise on deals for one of the most strategically important products in Stripe’s portfolio. Billing Sales is tasked with attacking a $100B market opportunity for automating the entire order to cash process and helping companies not get left behind in the AI era.</p> <h2><strong>What you’ll do</strong></h2> <p>As the Head of Grower Sales (Billing),&nbsp; you will use your leadership and management skills to manage and grow a team of Account Executives to drive expansion and retention of Stripe Billing across the AMER region. You will build and lead a team of sellers, while collaborating with the core sales leadership, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You will own the coaching, development, and performance of your team, driving the forecast of the business. You will be instrumental in leading in-depth product discussions with existing and prospective customers and building a",
     "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
     "country": null,
     "work_arrangement": "remote",
-    "application_url": "https://stripe.com/jobs/search?gh_jid=8326191",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8326189",
     "application_deadline": null,
     "deadline_note": null,
     "start_date": null,
@@ -154824,10 +154926,10 @@
     "applications_open": true,
     "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8326191",
     "dedup_hash": "372720b29718134cf35c2c1adfdbfe7de37acf66a963712ec8cce909ef2496cd",
-    "raw_content_hash": "294aa1e9df7b15957c49b58a42891f6239872b54a739be947bc6d53824888d4d",
+    "raw_content_hash": "cdc4f46847bc14b8859c1a09045d11b0a260d6302b3ed8cee13ec58bb4caee30",
     "status": "active",
     "date_discovered": "2026-10-29T22:30:14.521Z",
-    "date_last_checked": "2026-11-03T13:44:24.506Z",
+    "date_last_checked": "2026-11-03T22:57:59.078Z",
     "date_last_updated": "2026-10-29T22:30:14.521Z",
     "sources": [
       {
@@ -154840,7 +154942,7 @@
         "source_id": "source-greenhouse-stripe",
         "source_url": "https://stripe.com/jobs/search?gh_jid=8326189",
         "first_seen_at": "2026-10-29T22:30:14.647Z",
-        "last_seen_at": "2026-11-03T00:38:29.420Z"
+        "last_seen_at": "2026-11-03T22:57:59.078Z"
       }
     ],
     "updates": [
@@ -154868,7 +154970,7 @@
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Finance.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:24.506Z"
+        "scored_at": "2026-11-03T22:57:59.078Z"
       }
     ]
   },
@@ -157001,7 +157103,7 @@
       "Operations",
       "Strategy"
     ],
-    "description": "Rubrik Job Board: Account Executive, NAS Product Specialist\n\nHeadquarters: Remote Central US\n\n\nAbout the Team & Role\nRubrik's Product Line Sales organization drives focused growth across Rubrik's specialized workloads, including our Unstructured data protection and security portfolio. This team partners closely with core Account Executives, Sales Engineers, and Customer Success to bring deep product and technical expertise into every Unstructured opportunity — from first conversation through technical validation to close.\nWe're hiring an NCD Product Line Sales Specialist to own and accelerate Rubrik's Unstructured data protection business within a defined territory. This is a highly technical, quota-carrying overlay role: you'll be the subject-matter expert who can go deep on NAS storage architectures, file-generating applications, backup and recovery mechanics, and the security behind protecting these growing assets — and use that fluency to win deals against competitive point solutions. The ideal candidate has sold in this exact space before, at a company like NetApp, Dell, Qumulo, Vast, EverPure, Komprise, Superna, etc.\nWhat You’ll Do\nOwn the NCD product line number: partner with core Account Executives to identify, qualify, and close NCD data protection and security opportunities across net-new and existing accounts.\nLead with technical credibility: articulate Rubrik’s NCD architecture, security posture, and the gaps in storage native shared snapshot protection in a way that resonates with both technical and business buyers.\nDrive technical discovery and validation: run or co-lead discovery calls, demos, and proof-of-concept engagements for NCD.\nWin competitive deals: build and defend positioning against competition or \"do-nothing\", translating technical differentiation into business value.\nBuild territory and account plans: develop a coverage strategy in partnership with core sales, SE, and channel teams to maximize NCD attach and expansion within the install b",
+    "description": "Rubrik Job Board: Account Executive, NAS Product Specialist\n\nHeadquarters: Remote Western US\n\n\nAbout the Team & Role\nRubrik's Product Line Sales organization drives focused growth across Rubrik's specialized workloads, including our Unstructured data protection and security portfolio. This team partners closely with core Account Executives, Sales Engineers, and Customer Success to bring deep product and technical expertise into every Unstructured opportunity — from first conversation through technical validation to close.\nWe're hiring an NCD Product Line Sales Specialist to own and accelerate Rubrik's Unstructured data protection business within a defined territory. This is a highly technical, quota-carrying overlay role: you'll be the subject-matter expert who can go deep on NAS storage architectures, file-generating applications, backup and recovery mechanics, and the security behind protecting these growing assets — and use that fluency to win deals against competitive point solutions. The ideal candidate has sold in this exact space before, at a company like NetApp, Dell, Qumulo, Vast, EverPure, Komprise, Superna, etc.\nWhat You’ll Do\nOwn the NCD product line number: partner with core Account Executives to identify, qualify, and close NCD data protection and security opportunities across net-new and existing accounts.\nLead with technical credibility: articulate Rubrik’s NCD architecture, security posture, and the gaps in storage native shared snapshot protection in a way that resonates with both technical and business buyers.\nDrive technical discovery and validation: run or co-lead discovery calls, demos, and proof-of-concept engagements for NCD.\nWin competitive deals: build and defend positioning against competition or \"do-nothing\", translating technical differentiation into business value.\nBuild territory and account plans: develop a coverage strategy in partnership with core sales, SE, and channel teams to maximize NCD attach and expansion within the install b",
     "location": null,
     "country": null,
     "work_arrangement": "remote",
@@ -157017,8 +157119,8 @@
     "gpa_requirement": null,
     "skills_required": [],
     "compensation": {
-      "amount": null,
-      "currency": null,
+      "amount": 124400,
+      "currency": "USD",
       "period": null,
       "notes": null
     },
@@ -157027,17 +157129,17 @@
     "applications_open": true,
     "primary_source_url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
     "dedup_hash": "c4e018bb37ec657f0a99335569bbaeeafe5b4a79c8b24455f4213ca436d1d4b9",
-    "raw_content_hash": "7d05481c73535bf2e0be5e4b60c4309d15e1e76a32f06dc30a4fc1e1b737534b",
+    "raw_content_hash": "579bf9071ce1786c3641a0007af83f0de9952ec7531ed5fd30f3a2db62d6fbde",
     "status": "updated",
     "date_discovered": "2026-10-31T11:47:43.298Z",
-    "date_last_checked": "2026-11-03T13:44:19.330Z",
-    "date_last_updated": "2026-11-03T13:44:19.330Z",
+    "date_last_checked": "2026-11-03T22:57:53.408Z",
+    "date_last_updated": "2026-11-03T22:57:53.408Z",
     "sources": [
       {
         "source_id": "source-wwr-sales-marketing",
         "source_url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
         "first_seen_at": "2026-10-31T11:47:43.298Z",
-        "last_seen_at": "2026-11-03T13:44:19.330Z"
+        "last_seen_at": "2026-11-03T22:57:53.408Z"
       }
     ],
     "updates": [
@@ -157117,25 +157219,32 @@
         "old_value": "{\"amount\":124400,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
         "new_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
         "detected_at": "2026-11-03T13:44:19.330Z"
+      },
+      {
+        "change_type": "compensation_changed",
+        "field_name": "compensation",
+        "old_value": "{\"amount\":null,\"currency\":null,\"period\":null,\"notes\":null}",
+        "new_value": "{\"amount\":124400,\"currency\":\"USD\",\"period\":null,\"notes\":null}",
+        "detected_at": "2026-11-03T22:57:53.408Z"
       }
     ],
     "scores": [
       {
         "profile_id": "student-default",
         "relevance_score": 70,
-        "career_value_score": 40,
+        "career_value_score": 55,
         "organization_score": 40,
         "student_fit_score": 80,
         "accessibility_score": 50,
         "urgency_score": 20,
-        "overall_score": 52,
+        "overall_score": 55,
         "is_prestigious": false,
         "is_selective": false,
         "is_hard_to_discover": false,
         "is_time_sensitive": false,
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
-        "scored_at": "2026-11-03T13:44:19.330Z"
+        "scored_at": "2026-11-03T22:57:53.408Z"
       }
     ]
   },
@@ -160567,6 +160676,497 @@
         "reasoning": "Matches your interest in Operations and Strategy.",
         "scoring_method": "heuristic",
         "scored_at": "2026-11-03T13:44:24.686Z"
+      }
+    ]
+  },
+  {
+    "id": "c514b21e-f6ed-42d2-bd6e-498109157756",
+    "organization_id": "2fa73d60-ed00-410d-9ebf-2b4797d668ee",
+    "title": "RevOps Manager",
+    "normalized_title": "revops manager",
+    "opportunity_type": "finance",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Operations"
+    ],
+    "description": "ClickGUARD Inc.: RevOps Manager\n\nHeadquarters: United States\n    \nURL: https://www.clickguard.com/\n\n\nWe are seeking a hands-on, systems-driven RevOps Manager to own the data, tools, and processes behind every stage of our revenue funnel: signup, trial, paid, renewal, expansion, and churn. ClickGuard will run four motions on the same stack: a self-serve trial, a sales-assisted motion for larger advertisers, outbound to advertisers and PPC agencies, and an agency partner program. This role makes sure a trial, a paying customer, and a dollar of MRR are counted the same way in HubSpot, Stripe, PostHog, and every report built on them. This is an AI-first operations role for someone who has personally built revenue systems that leadership used to run the business, and who uses AI to do the work of a larger ops team. You will own our CRM, our funnel data, the weekly revenue scorecard, and the workflows that move accounts from one stage to the next.\nYour superpower is turning messy, disconnected data into numbers people act on. You treat RevOps as a data and systems problem first, and an admin problem second. Every workflow you build has an owner, a test, and an alert when it breaks, so a broken lead flow shows up in your inbox the same day it breaks and gets fixed before it reaches the quarter-end numbers.\nUsing AI tools is the baseline. We want someone who can show what they have personally built with AI, how it changed their workflow or capacity, and what measurable impact it had on data quality, speed, conversion, revenue, or headcount efficiency.\nWhat You'll Own\nHubSpot end-to-end: object model (contacts, companies, workspaces, deals, tickets), lifecycle stages, pipelines, properties, workflows, and permissions, with one owner per field and every critical workflow tested and monitored\nThe revenue data layer (built with our engineering and data team): the app, Stripe, and HubSpot feeding PostHog, with shared definitions for trial, paid, MRR, churn, expansion, and reacti",
+    "location": null,
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://weworkremotely.com/remote-jobs/clickguard-inc-revops-manager",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "SQL",
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://weworkremotely.com/remote-jobs/clickguard-inc-revops-manager",
+    "dedup_hash": "0969ee5f4a887c42420d72418136cfbf73ad829070e579eceb9dd073a9ffa669",
+    "raw_content_hash": "cda39551b9bdec69fb44af87c8b8bb5e3a37d1647c1b2ac1ba1025f62a5c9e61",
+    "status": "new",
+    "date_discovered": "2026-11-03T22:57:53.252Z",
+    "date_last_checked": "2026-11-03T22:57:53.252Z",
+    "date_last_updated": "2026-11-03T22:57:53.252Z",
+    "sources": [
+      {
+        "source_id": "source-wwr-sales-marketing",
+        "source_url": "https://weworkremotely.com/remote-jobs/clickguard-inc-revops-manager",
+        "first_seen_at": "2026-11-03T22:57:53.252Z",
+        "last_seen_at": "2026-11-03T22:57:53.252Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:53.252Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 90,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 80,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 55,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Operations and Finance.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-11-03T22:57:53.252Z"
+      }
+    ]
+  },
+  {
+    "id": "f8e1a80d-0e78-4e50-9297-5b010692e981",
+    "organization_id": "c9765ede-a415-41f5-ba6a-75bfc1969b2b",
+    "title": "Customer Happiness Advocate (Remote - Canada)",
+    "normalized_title": "customer happiness advocate remote canada",
+    "opportunity_type": "technology",
+    "tags": [
+      "Technology"
+    ],
+    "description": "Turtles: Customer Happiness Advocate (Remote - Canada)\n\nHeadquarters: Finland\n    \nURL: https://www.turtles.com/\n\n\nCustomer Happiness Advocate (Remote - Canada)\n\nJob description\nAre you looking to join a high growth tech company? Are you passionate about people? Then we are looking for you!\nWe are a small team with a big business! Our customers come first, and our Customer Support team is at the forefront!\nAs a member of this team, you would be responsible for answering customer inquiries through email, chat, and phone.\nSuccessful applicants will begin with a two-week remote training period, following which the opportunity to work remotely is available. This is a 5 day per week position with shifts that may be from Mon-Sun and include evening work.\nWe are looking for highly motivated people, who are capable of independent work and can meet set expectations within deadlines.\nWe're looking to fill this role immediately, so please apply ASAP!\nResponsibilities\nAdhering to a daily schedule that includes a mix of taking phone calls, simultaneous chats, and responding to emails.\nEngaging in human conversations with customers to identify and resolve issues, and provide help for them to succeed and have fun while shopping.\nEnsuring customers receive the best Customer Service possible by responding to them in real time with the highest quality answer and experience possible. We live to go above and beyond for our customers.\nCompleting follow-up documentation after each customer ticket.\nOffer needs-based solutions, not pushy sales.\nThis is not a regular 9-5 job - We have 24/7 Customer Support so we are seeking night owls and weekend warriors alike!\nOwning your own development through reflection, reviewing past interactions and preparing to take initiative on opportunities.\nRequirements\nIn possession of a work permit from Canada, Finland, Spain, or the UK. Your application will not be considered if you do not meet this requirement.\nModern computer skills: Must be comfortable us",
+    "location": null,
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": "monthly",
+      "notes": null
+    },
+    "program_duration": "4 week",
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
+    "dedup_hash": "6f181023a56b6c2f1ea265e2aab72255448093ac130360a381d002b9d5ed04e3",
+    "raw_content_hash": "22f18064ec4de381de40c41c5908ce9b47574504b9a1021da4741656454a5cfc",
+    "status": "new",
+    "date_discovered": "2026-11-03T22:57:55.385Z",
+    "date_last_checked": "2026-11-03T22:57:55.385Z",
+    "date_last_updated": "2026-11-03T22:57:55.385Z",
+    "sources": [
+      {
+        "source_id": "source-wwr-customer-support",
+        "source_url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
+        "first_seen_at": "2026-11-03T22:57:55.385Z",
+        "last_seen_at": "2026-11-03T22:57:55.385Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:55.385Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 60,
+        "career_value_score": 50,
+        "organization_score": 40,
+        "student_fit_score": 60,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 49,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "General fit based on role and location.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-11-03T22:57:55.384Z"
+      }
+    ]
+  },
+  {
+    "id": "81c9dde0-9e2e-41ed-a8ca-151a10352c09",
+    "organization_id": "ab388ff3-b7c7-4b68-bef8-c44e42c8834b",
+    "title": "Senior CRM Manager",
+    "normalized_title": "senior crm manager",
+    "opportunity_type": "internship",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Technology"
+    ],
+    "description": "M-Kopa: Senior CRM Manager\n\nHeadquarters: Nairobi\n    \nURL: http://m-kopa.com\n\n\n\n\nJoin our expanding Product Growth team! We’re actively recruiting a Senior CRM Manager as we continue to scale at M-KOPA. Most senior growth hires get one channel and one pod for years. This role is built differently: you’ll own two of our core growth pods in your first year, then land where you’ve had the most impact. It’s a fast track to pod leadership, not a support seat.\n\n\n\nThe Impact 💚\nYou’ll drive the conversion growth that turns customers into long-term, high-value ones, creating financial inclusion for Africa’s traditionally excluded. We’ve already helped over 10 million customers access over $2 billion in credit 🌍\n\n\n\nThe Opportunity\n\n🏗️ Real ownership from day one. You'll be the one accountable for delivery in Repeat Phones, not shadowing or supporting someone else's plan.\n🎒 Two growth motions, one year. You'll take on Digital Lending mid-way through, working directly with one of our strongest performers to understand cash loans end to end, then carry that pod solo for a defined stretch. Few people get this breadth this early.\n 🧭  A defined path, not indefinite floating. You'll build real expertise in our two conversion pods first, then move into Lifecycle in the second half of next year, reporting to the Lifecycle CRM Lead once you're there. The destination is set. What you bring to it is up to you. 🌍 Work inside a proven CLV engine. M-KOPA has helped more than 10 million customers access over $2 billion in credit. You'll be executing inside systems that already work, not guessing at what might.\n\nWhat You'll Do \n\nPhase 1: Repeat Phones. Take ownership of reactivation and upgrade campaigns in CleverTap, working closely with the Growth Lead there to understand what's driving the pod's numbers and where the next opportunity is. You'll be trusted to make real calls here, not just execute a checklist. \nPhase 2: Cross into Digital Lending. Work directly with the Digital Lendi",
+    "location": null,
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://weworkremotely.com/remote-jobs/m-kopa-senior-crm-manager",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [
+      "4th year"
+    ],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Leadership"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://weworkremotely.com/remote-jobs/m-kopa-senior-crm-manager",
+    "dedup_hash": "74fdc27b55e67189fba09804afd2bb07dfb897fee984263865d0f121fa347b0b",
+    "raw_content_hash": "39f26977d6862733914ebc01f93c04555b8559d11d94f49e57a8345422dec4d7",
+    "status": "needs_review",
+    "date_discovered": "2026-11-03T22:57:55.590Z",
+    "date_last_checked": "2026-11-03T22:57:55.590Z",
+    "date_last_updated": "2026-11-03T22:57:55.590Z",
+    "sources": [
+      {
+        "source_id": "source-wwr-customer-support",
+        "source_url": "https://weworkremotely.com/remote-jobs/m-kopa-senior-crm-manager",
+        "first_seen_at": "2026-11-03T22:57:55.590Z",
+        "last_seen_at": "2026-11-03T22:57:55.590Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:55.590Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 90,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 55,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 50,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Finance.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-11-03T22:57:55.590Z"
+      }
+    ]
+  },
+  {
+    "id": "f7d024d4-b7dd-427c-8dd3-3fb58d6a057a",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Account Executive, Platforms Mid Market (Hunter), Japan",
+    "normalized_title": "account executive platforms mid market hunter japan",
+    "opportunity_type": "finance",
+    "tags": [
+      "Finance",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship",
+      "Client Management"
+    ],
+    "description": "Location: Tokyo\n\nDepartment: 1195 Account Executives (APAC)\n\n<h2><strong>Who we are</strong></h2> <p class=&quot;p1&quot;><strong>About Stripe</strong></p> <p class=&quot;p2&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <p class=&quot;p1&quot;><strong>About the team</strong></p> <p class=&quot;p2&quot;>The Velocity Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms are software businesses that are building out payments and financial services as a product. Platforms already using Stripe include Shopify, Xero, me&amp;u and Ignition.<br>As a key member of the Stripe Velocity Platforms team for Japan, you will be responsible for the full commercial lifecycle. This includes managing and growing a book of our most valuable existing partners while also identifying and acquiring new, high-potential software platforms.</p> <p class=&quot;p3&quot;><strong>What you’ll do</strong></p> <p class=&quot;p2&quot;>As an Account Executive, you will be the engine of the Stripe Velocity Platform team&#39;s growth in Japan. You&#39;ll drive revenue by forging deep, strategic relationships with existing partners to expand their use of Stripe, and by creating new partnerships with the most innovative software platforms in the market.</p> <p class=&quot;p1&quot;><strong>Responsibilities</strong></p> <ul class=&quot;ul1&quot;> <li class=&quot;li4&quot;>Develop and execute outbound strategies to identify, engage, and close new busines",
+    "location": "Tokyo",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8326105",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8326105",
+    "dedup_hash": "8ce2c327dc481c9c664bce6c00c955a70df5a1463550d1c749f2fb29521048a6",
+    "raw_content_hash": "4901d2430e1759c22ecbf43a820a5d9b8f9d97d73dcb3c7438367496bdecbcd4",
+    "status": "needs_review",
+    "date_discovered": "2026-11-03T22:57:57.245Z",
+    "date_last_checked": "2026-11-03T22:57:57.245Z",
+    "date_last_updated": "2026-11-03T22:57:57.245Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8326105",
+        "first_seen_at": "2026-11-03T22:57:57.245Z",
+        "last_seen_at": "2026-11-03T22:57:57.245Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:57.245Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 100,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 90,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 60,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Finance and Client Management.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-11-03T22:57:57.245Z"
+      }
+    ]
+  },
+  {
+    "id": "f568e945-027d-4c60-888f-00f8817639cd",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "Account Executive, SMB Grower (CEE)",
+    "normalized_title": "account executive smb grower cee",
+    "opportunity_type": "operations",
+    "tags": [
+      "Operations",
+      "Strategy",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Location: Dublin\n\nDepartment: 1185 Account Executives (EMEA)\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The SMB team is at the forefront of driving revenue and growth for Stripe in Europe. As trusted business partners, our goal is to help users understand Stripe products and integrate them with ease so they can concentrate on what’s most important to them: their business. We’re known for our product expertise, rigorous thinking, and user-first approach to problem solving. Within Stripe, Sales proudly serves as a critical source of user feedback and market intelligence, with direct influence on Stripe’s product roadmap and growth strategy.</p> <p>The SMB team is very international and diverse. Apart from Stripe’s Operating Principles, the team&#39;s guiding principles are fun and collaboration. We are looking for a team member who is open to sharing knowledge across teams and open to learn from each other - Always stay curious.</p> <h2><strong>What you’ll do</strong></h2> <p>As Grower Account Executive on the SMB sales team, you will be instrumental in driving Stripe’s future growth.&nbsp;</p> <p>The role will involve prospecting to businesses, articulating the value of Stripe and strategically advising them on how they can optimize their business using Stripe solutions. We guide our users to understand how Stripe’s modern financial infrastructure can support their growth ambitions and provide a c",
+    "location": "Dublin",
+    "country": null,
+    "work_arrangement": "unknown",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8322582",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Communication"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8322582",
+    "dedup_hash": "4c718ad97d3ae4b7b334692bdc01ff4da7dace1b36e0579d50b9d665964b2a5a",
+    "raw_content_hash": "040bef728f5d511f30a5361a53c4396d273387ac808db54c990540962eb212fb",
+    "status": "needs_review",
+    "date_discovered": "2026-11-03T22:57:57.970Z",
+    "date_last_checked": "2026-11-03T22:57:57.970Z",
+    "date_last_updated": "2026-11-03T22:57:57.970Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8322582",
+        "first_seen_at": "2026-11-03T22:57:57.970Z",
+        "last_seen_at": "2026-11-03T22:57:57.970Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:57.970Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 90,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 80,
+        "accessibility_score": 70,
+        "urgency_score": 20,
+        "overall_score": 57,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Operations and Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-11-03T22:57:57.970Z"
+      }
+    ]
+  },
+  {
+    "id": "b8826369-4058-4c92-b89b-0c069a134469",
+    "organization_id": "a4f5c354-57c2-405e-9dda-b10aeb88eb9a",
+    "title": "IT Support Engineer",
+    "normalized_title": "it support engineer",
+    "opportunity_type": "strategy",
+    "tags": [
+      "Strategy",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "description": "Location: San Francisco\n\nDepartment: 7312 CorpTech Customer Success\n\n<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Corporate Technology (CorpTech) Services team is a strategic support partner to all Stripes, in office and remote.&nbsp; We ensure the successful operation of new hires, account off-boards and critical business systems with a global team.&nbsp;</p> <p>We’re looking for a Tier 1 Support Engineer to join the AMER CorpTech Services team to provide in-person, thoughtful and individualized support for all Stripes. Stripe is looking for individuals who can work in a fast paced environment and work autonomously to deliver team oriented results.</p> <h2><strong>What you’ll do</strong></h2> <p>You’ll be responsible for providing technical assistance and support related to computer systems, hardware, and software. Respond to queries, run diagnostic programs, isolate problems, and determine and implement solutions.&nbsp; In-person support is required as well as setting up desks and managing/auditing peripherals.&nbsp;&nbsp;</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Provide technical assistance and support for incoming queries and issues related to computer systems, software, and hardware.</li> <li>Respond to queries either in person, email, Slack or ticketing system.</li> <li>Deliver handson support for executive devices (macOS, iOS), including provisioning, configuration,",
+    "location": "San Francisco",
+    "country": null,
+    "work_arrangement": "remote",
+    "application_url": "https://stripe.com/jobs/search?gh_jid=8328323",
+    "application_deadline": null,
+    "deadline_note": null,
+    "start_date": null,
+    "end_date": null,
+    "eligibility_text": null,
+    "degree_requirements": [],
+    "year_level_requirements": [],
+    "citizenship_requirements": [],
+    "gpa_requirement": null,
+    "skills_required": [
+      "Python",
+      "Communication"
+    ],
+    "compensation": {
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "notes": null
+    },
+    "program_duration": null,
+    "sponsorship_available": null,
+    "applications_open": true,
+    "primary_source_url": "https://stripe.com/jobs/search?gh_jid=8328323",
+    "dedup_hash": "787f307ffd7b38992ab16755462d71b2b9255c88f87e4e6431f723ae083791c6",
+    "raw_content_hash": "a685ade44fdca966883ecc389ff90fa5ff9c072ac9c781df97135d96178e4317",
+    "status": "needs_review",
+    "date_discovered": "2026-11-03T22:57:58.906Z",
+    "date_last_checked": "2026-11-03T22:57:58.906Z",
+    "date_last_updated": "2026-11-03T22:57:58.906Z",
+    "sources": [
+      {
+        "source_id": "source-greenhouse-stripe",
+        "source_url": "https://stripe.com/jobs/search?gh_jid=8328323",
+        "first_seen_at": "2026-11-03T22:57:58.906Z",
+        "last_seen_at": "2026-11-03T22:57:58.906Z"
+      }
+    ],
+    "updates": [
+      {
+        "change_type": "new",
+        "field_name": null,
+        "old_value": null,
+        "new_value": null,
+        "detected_at": "2026-11-03T22:57:58.906Z"
+      }
+    ],
+    "scores": [
+      {
+        "profile_id": "student-default",
+        "relevance_score": 80,
+        "career_value_score": 40,
+        "organization_score": 40,
+        "student_fit_score": 70,
+        "accessibility_score": 50,
+        "urgency_score": 20,
+        "overall_score": 51,
+        "is_prestigious": false,
+        "is_selective": false,
+        "is_hard_to_discover": false,
+        "is_time_sensitive": false,
+        "reasoning": "Matches your interest in Strategy.",
+        "scoring_method": "heuristic",
+        "scored_at": "2026-11-03T22:57:58.906Z"
       }
     ]
   }

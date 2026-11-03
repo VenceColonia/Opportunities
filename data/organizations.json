@@ -7978,5 +7978,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "2fa73d60-ed00-410d-9ebf-2b4797d668ee",
+    "name": "ClickGUARD Inc.",
+    "normalized_name": "clickguard incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c9765ede-a415-41f5-ba6a-75bfc1969b2b",
+    "name": "Turtles",
+    "normalized_name": "turtles",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ab388ff3-b7c7-4b68-bef8-c44e42c8834b",
+    "name": "M-Kopa",
+    "normalized_name": "m kopa",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
