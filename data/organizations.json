@@ -7948,5 +7948,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "665576c6-f1c9-436e-9ad5-3aabd55a8572",
+    "name": "Socure",
+    "normalized_name": "socure",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "46995186-e9ff-4a77-8621-657aa505c093",
+    "name": "Forward Push Law Firm Marketing",
+    "normalized_name": "forward push law firm marketing",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f0aa234f-2818-4185-bcd7-a6ffe3a2375b",
+    "name": "Ninja Partners LLC",
+    "normalized_name": "ninja partners llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
