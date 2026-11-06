@@ -8488,5 +8488,145 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "29cb9e54-c5e0-4279-b174-d955e584d8de",
+    "name": "Bask Health",
+    "normalized_name": "bask health",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "42dfd4db-7b42-4f48-81e2-43d4dd61e66d",
+    "name": "Chainguard",
+    "normalized_name": "chainguard",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f635aac1-821f-4bc4-97c6-4827154e84a5",
+    "name": "Grüns",
+    "normalized_name": "gruns",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "e46c5b93-0ba0-41ca-b3b6-50b5783eb2c3",
+    "name": "Microsoft",
+    "normalized_name": "microsoft",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5525c0fa-30eb-4bea-aaae-786b7e312806",
+    "name": "Datavant",
+    "normalized_name": "datavant",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "de142da4-0cab-43a0-915d-45257279f7c1",
+    "name": "Guesty",
+    "normalized_name": "guesty",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a0f36fa2-1958-4232-9543-3d1be9eff5dc",
+    "name": "Collective Residential",
+    "normalized_name": "collective residential",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3682c121-71f8-48ad-a8e3-440fa25cad77",
+    "name": "The American Institute of Architects",
+    "normalized_name": "the american institute of architects",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0583d18b-c94c-4a9f-9dfd-fe253a778e74",
+    "name": "Lighthouse",
+    "normalized_name": "lighthouse",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ac29c90e-4bf1-426a-924a-fa6525d27bd6",
+    "name": "We Are Rosie",
+    "normalized_name": "we are rosie",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a61ea46c-62df-4ac8-a3f3-3e71e70418ab",
+    "name": "A La C.A.R.T.E. Solutions",
+    "normalized_name": "a la c a r t e solutions",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1f683af0-1115-461e-b5db-90e16fa9b198",
+    "name": "Groups Recover Together, Inc.",
+    "normalized_name": "groups recover together incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "930d2883-99dc-4fd7-9a89-0ea9354e852a",
+    "name": "Industrial Electric Manufacturing",
+    "normalized_name": "industrial electric manufacturing",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5e9f2629-3f62-40de-8812-c7893ea4ec5a",
+    "name": "EXL",
+    "normalized_name": "exl",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
