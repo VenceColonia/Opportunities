@@ -8858,5 +8858,65 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "90256021-0822-480e-a4fb-eb466c28e574",
+    "name": "DEPT®",
+    "normalized_name": "department",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b7c91bb6-0903-49d6-9341-861e28e0324b",
+    "name": "Autism Believe Accept Therapy Servi",
+    "normalized_name": "autism believe accept therapy servi",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c78c32eb-3c96-45eb-b823-20c9e6abf91c",
+    "name": "Kimbrell Agency",
+    "normalized_name": "kimbrell agency",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8847fe6f-100d-4d12-8330-6eb4c38ad280",
+    "name": "Intertek",
+    "normalized_name": "intertek",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "de7fa766-86c4-413a-af13-eb3529026d58",
+    "name": "Diamond Care Transportation",
+    "normalized_name": "diamond care transportation",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8c683995-239c-4432-b01a-502f17100143",
+    "name": "CareTalk Health",
+    "normalized_name": "caretalk health",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
