@@ -8948,5 +8948,125 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "ea41fe46-d96d-4916-8788-c49e2e33fae9",
+    "name": "True Talent Solutions Partners",
+    "normalized_name": "true talent solutions partners",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "579d6a8d-6250-404d-95e7-5ef4c72ffe54",
+    "name": "Dimont & Associates, LLC",
+    "normalized_name": "dimont associates llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "e9b6d8ea-b569-4ec0-8e3b-b2d3e67c6128",
+    "name": "Alteva RCM",
+    "normalized_name": "alteva rcm",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "639b3795-e168-4414-ab6f-b00d4585598f",
+    "name": "Kyndryl",
+    "normalized_name": "kyndryl",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "64d13839-2ae8-4157-9b93-ad486b77d91a",
+    "name": "Ethena",
+    "normalized_name": "ethena",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "98bc3a13-fb32-4b48-afdb-f90e40139a93",
+    "name": "Sedgwick",
+    "normalized_name": "sedgwick",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9abd1334-d836-4715-a43d-6ef1be087498",
+    "name": "IQVIA",
+    "normalized_name": "iqvia",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d64934bf-dba3-4532-825f-be2c3878a65f",
+    "name": "Hyland",
+    "normalized_name": "hyland",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "9ba7444d-889b-40d6-86e1-1ea0c8482f00",
+    "name": "Advantage HQ",
+    "normalized_name": "advantage hq",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "bb375c73-3fe5-4317-8bab-c9fa57d7e00a",
+    "name": "ProArch",
+    "normalized_name": "proarch",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0428da5e-2210-46fb-892c-e977f0c09f6f",
+    "name": "CVS Health",
+    "normalized_name": "cvs health",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a421f975-b6d8-43e1-8d41-edd8ac03335c",
+    "name": "Theranica USA, Inc.",
+    "normalized_name": "theranica usa incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
