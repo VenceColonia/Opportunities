@@ -8918,5 +8918,35 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "216a458b-5619-44ce-a5ba-98303df69cb5",
+    "name": "PriceLabs",
+    "normalized_name": "pricelabs",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "bb27cbc1-88f5-4f42-90bc-0c29b42a7f79",
+    "name": "FIRY",
+    "normalized_name": "firy",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c664f23e-a04d-40ab-886b-241f38aa22ca",
+    "name": "Patchstack",
+    "normalized_name": "patchstack",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
