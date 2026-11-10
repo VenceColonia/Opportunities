@@ -9078,5 +9078,65 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "a78d4509-fa43-4e7b-af6e-b2ffdede9fbd",
+    "name": "OpenTable",
+    "normalized_name": "opentable",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c52ddccb-20ea-48ee-b4d7-66e9189cc065",
+    "name": "DataVisor",
+    "normalized_name": "datavisor",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4c379cd0-f951-44fd-9e70-79a760642cfd",
+    "name": "WiseTech Global",
+    "normalized_name": "wisetech global",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ae5a2184-4174-46d6-9c36-0520cb27882f",
+    "name": "EdgeQ Technologies Private Limited",
+    "normalized_name": "edgeq technologies private limited",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "838bfdba-d3b7-485d-a71d-b8474aa9625e",
+    "name": "Partner One Capital",
+    "normalized_name": "partner one capital",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2d4a89af-cfa3-4a89-a9f9-17febea4d8dc",
+    "name": "Experian",
+    "normalized_name": "experian",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
