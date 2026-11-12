@@ -9138,5 +9138,135 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "eb0b0239-177d-41d8-b4e9-6bc4984f0164",
+    "name": "Smart Suites",
+    "normalized_name": "smart suites",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "359cadd3-2051-406b-86f7-15272a289ee6",
+    "name": "Vector Outsourcing Solutions Phils. Inc.",
+    "normalized_name": "vector outsourcing solutions phils incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a87fd0a0-827c-4a81-8cde-55d868a071d3",
+    "name": "ShowMojo",
+    "normalized_name": "showmojo",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b03216c6-3036-417e-a0d0-65c2280ead21",
+    "name": "Schneider Electric",
+    "normalized_name": "schneider electric",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "efd25240-ae93-4478-88d3-7e6d1c244443",
+    "name": "Huntress Labs",
+    "normalized_name": "huntress labs",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ae59ece2-67ff-4ecc-bf60-424d5f1b5c6f",
+    "name": "Yalent",
+    "normalized_name": "yalent",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "69b47c35-8def-458a-a319-c4ef670e2ace",
+    "name": "Leap Tools",
+    "normalized_name": "leap tools",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1613eba9-6ece-49a0-8b1c-e2c9593c4532",
+    "name": "Intellipet",
+    "normalized_name": "intellipet",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "61c4915e-0690-4d6e-9381-bd82c418ede7",
+    "name": "Virtual Staff 365",
+    "normalized_name": "virtual staff 365",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "116eea60-1864-4198-91fc-1817d0bbe1b9",
+    "name": "D2B",
+    "normalized_name": "d2b",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0900de88-f1d2-485f-be19-715f9f1cfdbc",
+    "name": "PRISM+",
+    "normalized_name": "prism",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3fcf5df2-ed6e-48f1-8f75-041b902b118d",
+    "name": "Magic, Inc",
+    "normalized_name": "magic incorporated",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5ba6113f-8826-4ddf-b0f1-51c3c6ec5e4c",
+    "name": "Weekday",
+    "normalized_name": "weekday",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
