@@ -9818,5 +9818,25 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "c9fc294c-346e-489b-98d5-dfac3e0dcb2f",
+    "name": "ifa Research Programme 2026",
+    "normalized_name": "ifa research programme 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "8e31e9d2-05c6-4988-aa58-ba0c4d4e0714",
+    "name": "AFS Global STEM Academies 2027",
+    "normalized_name": "afs global stem academies 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
