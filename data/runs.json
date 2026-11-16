@@ -2806,5 +2806,18 @@
     "items_needs_review": 4,
     "status": "success",
     "error_log": null
+  },
+  {
+    "id": "30598b7b-0b4a-4565-89ea-bc0c94fda6a0",
+    "run_type": "scheduled",
+    "started_at": "2026-11-16T05:07:56.124Z",
+    "completed_at": "2026-11-16T05:08:03.380Z",
+    "items_found": 808,
+    "items_new": 1,
+    "items_updated": 18,
+    "items_duplicate": 0,
+    "items_needs_review": 1,
+    "status": "success",
+    "error_log": null
   }
 ]
