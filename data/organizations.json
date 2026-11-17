@@ -9958,5 +9958,175 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "230cafb8-546c-451b-ab72-26525de705cd",
+    "name": "Hometap",
+    "normalized_name": "hometap",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "209be42d-4aa2-4e53-bd04-0da2f2168407",
+    "name": "DeepSeas",
+    "normalized_name": "deepseas",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "57c921ae-3a5f-4b56-9b8a-43d2c4a161c8",
+    "name": "eLEND",
+    "normalized_name": "elend",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a57cb4a2-c810-4559-9edf-072e0589b753",
+    "name": "A Hiring Group",
+    "normalized_name": "a hiring group",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3d45aaf8-2a71-40ba-8fab-854d61324c59",
+    "name": "CoinStats",
+    "normalized_name": "coinstats",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "f0e352b4-e508-426c-a638-d79dd62e35ff",
+    "name": "IHG",
+    "normalized_name": "ihg",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b04bb4d9-352c-43c5-b7c0-f1425943ebaf",
+    "name": "Airlock Digital",
+    "normalized_name": "airlock digital",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d796febd-1e69-4205-8048-4f7d7cc34a4a",
+    "name": "SDG 5 Gender Equality Fellowship 2027",
+    "normalized_name": "sdg 5 gender equality fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "6c62ab8b-318c-4569-ab96-3f554b641bab",
+    "name": "AIESEC Scale Up! Global Volunteer Opportunity in Tunisia 2026",
+    "normalized_name": "aiesec scale up global volunteer opportunity in tunisia 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4cc297be-563a-4fe2-a269-142abfb6c87b",
+    "name": "The Hand Foundation Organizational Grants 2026",
+    "normalized_name": "the hand foundation organizational grants 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "64499dc2-f2b3-437e-89d6-54b66117400f",
+    "name": "BBC Writers Open Call 2026–2027",
+    "normalized_name": "bbc writers open call 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4b033fee-afc0-4700-8d63-87ddd3689233",
+    "name": "Chatham House Research Fellow – US and North America Programme 2026",
+    "normalized_name": "chatham house research fellow us and north america programme 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "933dd795-ef79-49be-8f1e-8d4ed093f8d4",
+    "name": "LEGO Foundation Student Worker – Strategy 2026",
+    "normalized_name": "lego foundation student worker strategy 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "43660430-71fd-452c-a6ec-74f394e85454",
+    "name": "IncuVersity 2027",
+    "normalized_name": "incuversity 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4fc1453c-5636-4656-afe1-96954e68b70d",
+    "name": "Nestlé UK Apprenticeships 2026–2027",
+    "normalized_name": "nestle uk apprenticeships 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2931a67d-2708-4629-a8c1-fdcded1f6d5a",
+    "name": "Arab American Leadership Program 2027",
+    "normalized_name": "arab american leadership program 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "c743f1b6-bce2-4332-94a6-c02fae80b4e5",
+    "name": "French-African Foundation Young Leaders Programme 2027",
+    "normalized_name": "french african foundation young leaders programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
