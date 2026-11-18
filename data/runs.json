@@ -2858,5 +2858,18 @@
     "items_needs_review": 5,
     "status": "partial",
     "error_log": "[Opportunities for Youth (scholarships/fellowships/competitions)] Status code 403"
+  },
+  {
+    "id": "b0474337-58c0-4f2a-b0d2-f52b134a5054",
+    "run_type": "scheduled",
+    "started_at": "2026-11-18T00:38:27.635Z",
+    "completed_at": "2026-11-18T00:38:42.286Z",
+    "items_found": 823,
+    "items_new": 23,
+    "items_updated": 24,
+    "items_duplicate": 0,
+    "items_needs_review": 9,
+    "status": "success",
+    "error_log": null
   }
 ]
