@@ -10438,5 +10438,15 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "ffe52e0c-7f0f-49f5-a3bc-cfbac8244e42",
+    "name": "Expensify",
+    "normalized_name": "expensify",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
