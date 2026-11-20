@@ -10798,5 +10798,105 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "23dcc99e-625a-4648-9ff5-0f74d7f4574b",
+    "name": "Sumo Logic",
+    "normalized_name": "sumo logic",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4a382703-0363-4ba6-8f5e-06613680789b",
+    "name": "SoFi",
+    "normalized_name": "sofi",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3bdbb6ac-8c5d-41a6-9121-63948e57c63e",
+    "name": "the University of Gothenburg, Sweden – 2027",
+    "normalized_name": "the university of gothenburg sweden 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "4172f116-4a1a-4ab4-8205-5d4b8fa4b583",
+    "name": "OECD Temporary Junior Policy Analyst – Research and Statistics 2027 in France",
+    "normalized_name": "oecd temporary junior policy analyst research and statistics 2027 in france",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "1d15cb0d-7ea1-45aa-8e3a-6864648e4900",
+    "name": "SHE WINS Rapid Response Fund (RRF)",
+    "normalized_name": "she wins rapid response fund rrf",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "bf926ff0-a76b-4d87-9061-d3ca8af953be",
+    "name": "UNITAR Traineeships 2026",
+    "normalized_name": "unitar traineeships 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "685fd02a-bc9b-4dc4-aef9-054339a6e29a",
+    "name": "Erasmus+ UK 2026",
+    "normalized_name": "erasmus uk 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "96880d0b-fe37-49a3-b180-5760967cdcc0",
+    "name": "World Economic Forum Early Careers Programme 2027",
+    "normalized_name": "world economic forum early careers programme 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "80f72b34-dd65-42db-94bb-99e10d0469f6",
+    "name": "VBC Summer School 2027 in Vienna, Austria",
+    "normalized_name": "vbc summer school 2027 in vienna austria",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "5c7ae331-dd4a-435c-b02a-185c40ffbd54",
+    "name": "Afield Nature Communities Fund 2026",
+    "normalized_name": "afield nature communities fund 2026",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]

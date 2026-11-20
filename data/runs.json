@@ -2936,5 +2936,18 @@
     "items_needs_review": 2,
     "status": "partial",
     "error_log": "[We Work Remotely — Product] Request timed out after 15000ms"
+  },
+  {
+    "id": "6fb87db2-cd62-4ae4-ac28-9c6e97b44ff9",
+    "run_type": "scheduled",
+    "started_at": "2026-11-20T15:19:03.389Z",
+    "completed_at": "2026-11-20T15:19:18.118Z",
+    "items_found": 762,
+    "items_new": 18,
+    "items_updated": 21,
+    "items_duplicate": 0,
+    "items_needs_review": 15,
+    "status": "success",
+    "error_log": null
   }
 ]
