@@ -10898,5 +10898,75 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "ab1d0dd3-e77d-4622-9906-31b456f06996",
+    "name": "ŌURA",
+    "normalized_name": "oura",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "72df920e-68de-4241-994f-371d727b96b2",
+    "name": "Asia House Fellowship 2027/2028",
+    "normalized_name": "asia house fellowship 2027 2028",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "ba408e0a-bfe9-4a73-868f-8d412c01e6eb",
+    "name": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027–2029",
+    "normalized_name": "clements archer national security policy postdoctoral fellowship 2027 2029",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "7da1798c-a772-4a41-9bf8-4ada9799d43d",
+    "name": "SeekOut",
+    "normalized_name": "seekout",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "b776d987-0615-41b9-924f-1411d7e8e4b3",
+    "name": "Ledgy",
+    "normalized_name": "ledgy",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a27b38d3-f46d-43c1-9836-02b0b135ba5a",
+    "name": "Sezzle",
+    "normalized_name": "sezzle",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "fd4551e3-63ec-4272-b5fa-8ffd2b9794d6",
+    "name": "Global Dimensions, LLC",
+    "normalized_name": "global dimensions llc",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
