@@ -11878,5 +11878,155 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "0558dde3-4780-4094-9e73-fcae2be997ad",
+    "name": "Matillion",
+    "normalized_name": "matillion",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d118ce6b-725a-4584-ade4-fed0a4bb5d77",
+    "name": "Dun & Bradstreet",
+    "normalized_name": "dun bradstreet",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "bd5c82f4-ceba-41d2-b72f-b4842ef429e0",
+    "name": "Protective Life",
+    "normalized_name": "protective life",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0279ca20-203d-4b59-bd05-d369da8187e7",
+    "name": "Saviynt",
+    "normalized_name": "saviynt",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "3b40fa36-1606-423d-9b46-8baaf69be52a",
+    "name": "Massive Rocket",
+    "normalized_name": "massive rocket",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "2a603148-b13e-4a48-bacb-70b3741a711b",
+    "name": "Arcadia",
+    "normalized_name": "arcadia",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "25569c5c-3c15-490d-a6d0-f972215b9eb2",
+    "name": "Foodsmart",
+    "normalized_name": "foodsmart",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "61337edd-9c1d-4f5b-b464-3ddaa173d461",
+    "name": "The Global Talent Co.",
+    "normalized_name": "the global talent company",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "d432ae4d-3186-4dc3-871d-36be7eb5ffc1",
+    "name": "Tilt",
+    "normalized_name": "tilt",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "eb7edd29-4028-4a21-af6e-c28978d792f9",
+    "name": "ElevenLabs",
+    "normalized_name": "elevenlabs",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "55b6fd98-313b-4c52-b01b-b60a48db1c3d",
+    "name": "Docker",
+    "normalized_name": "docker",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "54693dcd-5249-4237-a174-13ce6ff24ebe",
+    "name": "Welo Data",
+    "normalized_name": "welo data",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "97211765-a8f2-46b8-bf87-a2ee28900fc4",
+    "name": "BlueCat Networks",
+    "normalized_name": "bluecat networks",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "0b4f5ace-cbba-4674-bfc9-d631d3aedc55",
+    "name": "TTEC Digital",
+    "normalized_name": "ttec digital",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "41a0a902-a9bd-4e5a-81d0-9b4aae816fd4",
+    "name": "Jeeves",
+    "normalized_name": "jeeves",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
