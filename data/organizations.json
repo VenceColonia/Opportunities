@@ -11838,5 +11838,45 @@
     "logo_url": null,
     "description": null,
     "reputation_tier": "unknown"
+  },
+  {
+    "id": "6c669fd3-84d7-42ae-a9c5-9e45171395da",
+    "name": "N4 Studio",
+    "normalized_name": "n4 studio",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "76a08370-8a53-4d0d-ba1d-c6afe2579b79",
+    "name": "CONCEPT SERVICES, LTD",
+    "normalized_name": "concept services limited",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "7b026b91-8139-4817-b144-1d91f7945006",
+    "name": "Friends of Pakistan Fellowship 2027",
+    "normalized_name": "friends of pakistan fellowship 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
+  },
+  {
+    "id": "a1deef7e-769e-4eef-8ddb-55828e4f5dd5",
+    "name": "INTERACT-Africa Scholarships 2026/2027",
+    "normalized_name": "interact africa scholarships 2026 2027",
+    "industry": null,
+    "website": null,
+    "logo_url": null,
+    "description": null,
+    "reputation_tier": "unknown"
   }
 ]
